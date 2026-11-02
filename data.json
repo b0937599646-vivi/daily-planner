@@ -1,25 +1,25 @@
 {
  "weather": {
-  "temp": "22–31°C",
-  "rain": "18%",
+  "temp": "21–31°C",
+  "rain": "24%",
   "umbrella": "不用帶傘",
-  "summary": "陰天"
+  "summary": "毛毛雨"
  },
  "news": [
   {
-   "title": "ET民調》辯論會後差距出現！蔣萬安大贏沈伯洋11個百分點 逾5成選民較信任他",
-   "source": "風傳媒",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jTnFDNGRTMU00M1dVa3E1VXl1VXZibTVpdVEzdW9qemYySmhoTTdqV0U0RTFMUVIwdGVtQ2UyUmwtalQ4Q3hDRnQ3ZXpVdw?oc=5"
-  },
-  {
-   "title": "蔣萬安突襲宣布遷松機？北市府認了：10/8消息出來後才規劃",
-   "source": "NOWnews今日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ibUUzSlIzR0NaWjhlVWZZVnRqZk1rdjZOalRhZUhKa2RZa0JpbW54Y0dsdHJuSmFNb2w4UEswYlkxWHlpcTZpTTV0MXfSAVJBVV95cUxQczdZYTFxLWV2anpsSXdpSlVOVzZ4X2kxQ1NKdVpEM1dZZlUxRmZGTEFXYWZvNVVpQjRGYjMzc3Y2VHQ3NmxVd21CdWxMQzFXRDNn?oc=5"
+   "title": "秦慧珠追問松機中央公園規劃公園處坦言：蔣萬安開完記者會才開始",
+   "source": "Newtalk新聞",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbjFNUnRrNDNEYnV0ZVNIc1ZPeHh4M1JzZnhsdGVHcjRKNElpRVNkQVl2MmdLOURvdE1TSG9takxQNFhORUR1d3hyS3ZWYWpValltUFVma2JiTEE?oc=5"
   },
   {
    "title": "東北季風持續發威！北部低溫下探21度 「這5天」降雨機率增",
    "source": "UDN",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92MjRad3ZJWFJoQ2NLOEtDN1pXR0lPTXVfQ3FzYXg4LWF1YUxYbXdUQW1IY1UzT0ZhanNkZFhCbm4yMnJRbzA1NXJnTDEyY1FW0gFWQVVfeXFMUGluRU9NOWdDY3ZDZHkzWUkyUmk0QW8wTjlDVW9DZ3h6WjhWNnlBeUVPbnYyMmFkY3pGdl9OWGlvaTZzblNxX2xZcWQ2b21rblVzSXhGeUE?oc=5"
+  },
+  {
+   "title": "藍營猛攻人設改變！沈伯洋反擊：遇到他們才變那麼兇",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzSHdpY3FxcVJ0UFlhVklTc2FIZzlyeHhMcGlYOFdteV95ekVvOHhQSTlHdFozUVZMMTJ4WjBnZlFRMDZGQUdfYtIBTEFVX3lxTFBBMURYQVYxdFZvRlA5NUtrQkozMVd5SkNIV1oza2tFVUlIS1FzNWMxWUQ2d1FMT2VzRk5mR0J5elgzdXMzTmxQVlVoYjc?oc=5"
   },
   {
    "title": "又是酒駕撞死人！台南男大生不幸慘死 家屬慟：才打電話給奶奶說想回家",
@@ -28,7 +28,7 @@
   },
   {
    "title": "辯論後聲勢看漲！柯志恩明北上合體逛夜市 蔣萬安7日南下旗山造勢",
-   "source": "udn",
+   "source": "UDN",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xMHprZ2RTZjY0NlFaS1ZfeVBhVTc3dlFJcnUtelhqdm9CcEJ2TXlfdXpweUdlWFIwTVhLWHoxLTFSemI3RlhHWWdKSUc0NHJwam040gFYQVVfeXFMT0p4MGtib2ZBVmczSHFTOS16NDRSS3d2MmRVaGtoQnNlbDE4X1lVVVpGRmFqM2puU1NuSXBxZE10dDl3MGFPeklBbjI4MDd6Y3J1a0sydmVfSA?oc=5"
   },
   {
@@ -37,17 +37,17 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hbUZ2VnJNSFJ5dnJhbXV1a0Z0LXVRbkRDQjI5akJjSTN2Y1FCQTQ1aHAwQjY4WDlzMTJoVkpmTEQ1dm5jYkFkbEZGYVdnWFBqTERR?oc=5"
   },
   {
-   "title": "小水滴包「豪華遊艇」力挺沈伯洋 周玉蔻急喊話：不是要戒慎恐懼嗎？",
+   "title": "控沈伯洋造勢留滿地垃圾 國民黨要他道歉",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQMVM3bVR6RHRIR3FHdnZWTkxZcTBXZ2NfMnEtTll1dE1sTVNXMklpWkxELUpCejNmamF1TFlpR0NhM21fOFRJLVlBenl3dzdmVjBFMEFzQ3hhSXJkVDEtdUdya2c2Y2VWNHpyMjJBLTQ2QzhZZEZXWEJiWjVHVUU3T09IUFFnazlPN1pIQlBkQ3pCYmoteEFyNzhKaGE3LVdtcVhQZDNDYkptem1qLTlJV1JLODZYbm1xRVJDM1pkWF85N1pNYjV3THJsNkRaTjdGRFB4TUlMSzR5WnpsN0VCN2h6QWpWU09VX3AtRG5fUkxXR1VGVmN4TnlYeWJHaGdkUDNnVERsZ0QxT0Nka3M2aWtBUV90bUtMVTdUSUU0UW9Qczl4TE5sQkQtTDBjd2FEMFAwckFfTkM5ZWRNT19YdzNIb0M3WWFCT1N3cVZsZ1RNNEt4SEpSSFVkTGJmLVBLTlVVT0Vha2xnbURnS3czVWVNTXdzMXVTekl6ZGgtX1NZc2FLUi1PbDlLbFpSMDlBUXV4T1R2cHI5MDVx?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQ0MwLVlabkcybzBfWEZBVmswTExHMTA0SFNhZVhzUlpXeWNlQ1pXYTRWdGZ5cHY5SG4yOXZpV0FhNnNVYkw5bU1KSFJxbDNrd0FSaFlLX0FDMEx2SXZRYWx1ZWduaWc0Rno2RTRmYU1fT21rZlVIbVpRd29FenVzbV9IOGRFRmRpWVRJSElLQ2syYTRZeHJxV3pValFMazdRX0w1dzhSTG9QUWt6eTRwVnJHNjRDUk55cWtBWG9YTzlaeDE0a1RvVWFTQTEwdHFVb0ZDajU1WWhWRVlyenF4RVk1dkFybzdiVFMtajRHRDZHdnlkSktfak5yU0tmTnpzX0xUUUxmLW5sZmZVQkZWQnJiSjFCVTlYQlctbDUwd3VCOEYyTUdxemJYcXg?oc=5"
   },
   {
-   "title": "遭疑「洋流」靠外地人撐場？ 沈伯洋首度曝數據：36萬船員近半台北人",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOWVhtU2s1Si1CQU53eEhtX2I0RjZ0UzlXWFVUSWIwYjVfMWJ6VmdUVmtUTVlJR1hCZ2xzeDAtUjVjV1Bqb1BzWGR2R3J1MjVHeGw4WjFxRFFTWFcyT29qYTJVWEV6ZUdHMVhodlFEWm1uZzdRblhKdTNVUm1uQlJ3VXU1YXhIRkpEenNOY3ZiRTIwWVg4UVlyZzU0ajJzTTE0UnRYeWVyek1tV3ZwYk4zOE1iNnRlQUxxMjZad1lHSENZV056RTNET1VBMFBJbkJObGYwOWNvQ1R0dzRjYm81d0duLVczbmREbURmUFBhTHJNUW9CWHl5b040a1N2UUJTNnZfQmRqeFBUeUUyUl82bE56X24zU21ETGhMbVJGMlhIYU5vMGhxUFh0SlpmM09PRUhPaHRsNW0yVHNJbHJreFhsdV9PUzNfdXJUV0xGdWtwN19aNG96NThYODVRTWZTUFhEQlZ2OXBhTFpzMDRCSjh5a0RoYVBKM21fU3dTTGdKQUxUSFFfRl81MjVMd3ZXZXI4?oc=5"
+   "title": "沈伯洋引用金句質疑蔣萬安「問A答B」　謝震武笑了：有沒有授權金？",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWXR6RGZnOHlFSFU0eWFvb1kzcmxuMjROYzZrMkJPSFpGMlRuQm9IbGl4UTJaUjNCaGcxcFZoelNVcGIyTWFyOdIBTEFVX3lxTE5KSUdISW4wcFBMdjVZWmh6UUEtbzNKNU5GeVhWT1h5ZVcwWjg3ZEtBNEhtcWppWXRCd0stMHQzNG5xemZMR3FhQjVJbkc?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-02",
- "updated": "23:58"
+ "date": "2026-11-03",
+ "updated": "04:46"
 }
