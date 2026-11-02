@@ -1,0 +1,140 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>海豹的每日規劃</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* 每日儀表：上方分頁切換今天／四格／日曆，同一份資料互相連動 */
+/*t*/:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);--bg:#EEF2F6;--paper:#fff;--ink:#17263A;--soft:#5A6B7E;--line:#D3DCE5;--accent:#2B5C94;--on:#fff;--tint:#E2EBF4;
+--a:#B23A2E;--a-bg:#FBE9E6;--b:#2F7555;--b-bg:#E4F3EB;--c:#99690A;--c-bg:#FBF1D9;--d:#5D6A78;--d-bg:#ECEFF3;
+--sans:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;--mono:"IBM Plex Mono",Consolas,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111821;--paper:#19222D;--ink:#E6ECF2;--soft:#9FB0C1;--line:#2E3B49;--accent:#7FB0E6;--on:#0E1620;--tint:#22303F;--a:#F08D80;--a-bg:#3B201D;--b:#7FCFA6;--b-bg:#1B3327;--c:#E6BE62;--c-bg:#382E15;--d:#AEBBC8;--d-bg:#27313C;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#111821;--paper:#19222D;--ink:#E6ECF2;--soft:#9FB0C1;--line:#2E3B49;--accent:#7FB0E6;--on:#0E1620;--tint:#22303F;--a:#F08D80;--a-bg:#3B201D;--b:#7FCFA6;--b-bg:#1B3327;--c:#E6BE62;--c-bg:#382E15;--d:#AEBBC8;--d-bg:#27313C;color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 var(--sans)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:860px;margin:0 auto;padding-block:24px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:16px}
+h1{margin:0;font-size:25px;line-height:1.3}
+h2{margin:0;font-size:17px}
+.sub{color:var(--soft);font-size:13.5px}
+.top{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;justify-content:space-between}
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:grid;grid-template-columns:repeat(3,1fr);gap:6px;padding-block:6px}
+.tab{font:inherit;font-weight:500;padding:9px 4px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);cursor:pointer}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:var(--on)}
+section{display:grid;gap:14px;min-width:0}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:grid;gap:8px;min-width:0}
+.head{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline;justify-content:space-between}
+.temp{font:500 28px/1.2 var(--mono);font-variant-numeric:tabular-nums}
+.wx{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center}
+.chip{font-size:12.5px;padding:1px 9px;border-radius:999px;background:var(--tint);white-space:nowrap}
+.news{display:grid;gap:10px;margin:0;padding:0;list-style:none}
+.news li{display:grid;gap:2px;padding-top:10px;border-top:1px solid var(--line)}
+.news li:first-child{border-top:0;padding-top:0}
+.news b{font-weight:700}
+a{color:var(--accent)}
+.empty{color:var(--soft);font-size:14px}
+button.btn,.row button{font:inherit;font-size:13.5px;color:var(--ink);background:transparent;border:1px solid var(--line);border-radius:6px;padding:5px 10px;cursor:pointer}
+button.pri{background:var(--accent);border-color:var(--accent);color:var(--on)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+input,select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:6px 8px;min-width:0;max-width:100%}
+.addf{display:flex;flex-wrap:wrap;gap:6px}
+.addf input[type=text]{flex:1 1 150px}
+.grid4{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.axis{display:flex;justify-content:space-between;font-size:12.5px;color:var(--soft)}
+.q{border-radius:8px;padding:12px;display:grid;gap:8px;align-content:start;min-width:0;border:1px solid var(--line)}
+.q h3{margin:0;font-size:15px}.q small{font-size:12.5px;display:block;font-weight:400}
+.qa{background:var(--a-bg)}.qa h3{color:var(--a)}.qb{background:var(--b-bg)}.qb h3{color:var(--b)}.qc{background:var(--c-bg)}.qc h3{color:var(--c)}.qd{background:var(--d-bg)}.qd h3{color:var(--d)}
+.items{display:grid;gap:6px;list-style:none;margin:0;padding:0}
+.item{background:var(--paper);border-radius:6px;padding:7px 8px;display:grid;gap:5px;min-width:0}
+.item label{display:flex;gap:7px;align-items:flex-start;overflow-wrap:anywhere}
+.item input[type=checkbox]{margin-top:5px;flex:none}
+.item.done span{text-decoration:line-through;color:var(--soft)}
+.row{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+.row select,.row button{font-size:12.5px;padding:3px 6px}
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:3px}
+.dow{text-align:center;font-size:12.5px;color:var(--soft)}
+.day{font:inherit;min-height:56px;padding:4px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);cursor:pointer;display:grid;align-content:start;gap:2px;text-align:left;min-width:0;overflow:hidden}
+.day .n{font:500 13px var(--mono)}.day.out{opacity:.45}.day.today .n{color:var(--accent);text-decoration:underline}.day.sel{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.day em{font-style:normal;font-size:11.5px;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:var(--tint);border-radius:3px;padding:0 3px}
+.evs{display:grid;gap:6px;list-style:none;margin:0;padding:0}
+.evs li{display:flex;gap:10px;justify-content:space-between;align-items:baseline;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:6px}
+.evs li:first-child{border-top:0;padding-top:0}.tm{font:500 13px var(--mono);margin-right:8px}
+.msg{font-size:13px;color:var(--soft)}.err{color:var(--a)}
+@media(max-width:560px){.grid4{gap:6px}.q{padding:8px}.q small{display:none}.day{min-height:48px}}
+</style>
+</head><body><div class="wrap">
+<div class="top"><h1>海豹的每日規劃</h1><span class="sub" id="today"></span></div>
+<nav role="tablist" aria-label="分頁">
+<button class="tab" role="tab" data-t="brief" id="t-brief" type="button">今天</button>
+<button class="tab" role="tab" data-t="matrix" id="t-matrix" type="button">四格</button>
+<button class="tab" role="tab" data-t="calendar" id="t-calendar" type="button">日曆</button>
+</nav>
+<section id="v-brief">
+<div class="card"><div class="head"><h2>台中天氣</h2><span class="sub" id="upd"></span></div><div id="wx"><p class="empty" style="margin:0">每天自動查詢的天氣會出現在這裡。</p></div></div>
+<div class="card"><h2>今天行程</h2><ul class="evs" id="todayEv"></ul></div>
+<div class="card"><h2>重要且緊急</h2><ul class="evs" id="todayQ"></ul></div>
+<div class="card"><h2>新聞</h2><ul class="news" id="news"><li class="empty">自動查詢的新聞會出現在這裡。</li></ul></div>
+<div class="card"><h2>資料備份</h2><p class="msg" style="margin:0">四格和日曆只存在這個瀏覽器，換瀏覽器或清除瀏覽資料會不見。按「手動儲存」會把備份檔存到電腦，建議存到 OneDrive。</p><div class="addf"><button class="btn pri" id="bk" type="button">手動儲存</button><label class="btn" for="rs" style="border:1px solid var(--line);border-radius:6px;padding:5px 10px;font-size:13.5px;cursor:pointer">還原備份</label><input type="file" id="rs" accept=".json" hidden></div><p class="msg" id="bkM" style="margin:0"></p></div>
+</section>
+<section id="v-matrix" hidden>
+<form class="addf card" id="taskF" style="display:flex"><input type="text" id="taskT" maxlength="100" placeholder="例如：交報告" aria-label="備忘內容" required><select id="taskQ" aria-label="分到哪一格"><option value="a">重要且緊急</option><option value="b">重要不緊急</option><option value="c">緊急不重要</option><option value="d">不重要不緊急</option></select><button class="btn pri" type="submit">新增</button></form>
+<div class="axis"><span>緊急</span><span>不緊急</span></div>
+<div class="grid4" id="grid"></div>
+</section>
+<section id="v-calendar" hidden>
+<div class="card"><div class="head"><button class="btn" id="prev" type="button">上個月</button><h2 id="mon"></h2><button class="btn" id="next" type="button">下個月</button></div><div class="cal" id="cal"></div></div>
+<div class="card"><h2 id="selT"></h2><ul class="evs" id="selE"></ul>
+<form class="addf" id="evF"><input type="text" id="evT" maxlength="100" placeholder="例如：打工" aria-label="行程名稱" required><input type="date" id="evD" aria-label="日期" required><input type="time" id="evH" aria-label="時間"><button class="btn pri" type="submit">加入行程</button></form></div>
+</section>
+<p class="msg err" id="err" hidden></p>
+</div>
+<script>
+const $=i=>document.getElementById(i),el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+const tp=()=>new Date(Date.now()+8*3600e3).toISOString().slice(0,10);
+const WK="日一二三四五六",Q={a:["重要且緊急","馬上做"],b:["重要不緊急","排進日曆"],c:["緊急不重要","快速處理"],d:["不重要不緊急","有空再看"]};
+let tasks=[],events=[],D={},sel=tp(),ym=sel.slice(0,7);
+const K='planner-v1';
+function idb(){return new Promise((ok,no)=>{const r=indexedDB.open('planner',1);r.onupgradeneeded=()=>r.result.createObjectStore('kv');r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)})}
+async function idbPut(v){try{const d=await idb();d.transaction('kv','readwrite').objectStore('kv').put(v,K)}catch(_){}}
+async function idbGet(){try{const d=await idb();return await new Promise(ok=>{const r=d.transaction('kv').objectStore('kv').get(K);r.onsuccess=()=>ok(r.result);r.onerror=()=>ok(null)})}catch(_){return null}}
+function persist(){const v=JSON.stringify({tasks,events,saved:Date.now()});try{localStorage.setItem(K,v)}catch(_){fail('瀏覽器存不了資料，請先下載備份。')}idbPut(v);all()}
+const fail=m=>{$('err').textContent=m;$('err').hidden=false};
+function go(t,push){if(!['brief','matrix','calendar'].includes(t))t='brief';['brief','matrix','calendar'].forEach(k=>{$('v-'+k).hidden=k!==t;$('t-'+k).setAttribute('aria-selected',k===t?'true':'false')});if(push){try{location.hash=t}catch(_){}}}
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>go(b.dataset.t,true));addEventListener('hashchange',()=>go(location.hash.slice(1)));go(location.hash.slice(1));
+const fmt=d=>{const x=new Date(d+'T00:00:00Z');return (x.getUTCMonth()+1)+' 月 '+x.getUTCDate()+' 日（'+WK[x.getUTCDay()]+'）'};
+const evSort=(a,b)=>(a.time||'99').localeCompare(b.time||'99');
+function evRow(e,del){const li=el('li');const s=el('span');if(e.time)s.append(el('span','tm',e.time));s.append(document.createTextNode(e.title));li.append(s);if(del){const b=el('button','btn','移除');b.type='button';b.onclick=()=>{events=events.filter(x=>x.id!==e.id);persist()};li.append(b)}return li}
+function rBrief(){$('today').textContent=fmt(tp());const b=D.date?D:null;
+ const w=$('wx');
+ if(b){w.innerHTML='';$('upd').textContent=(b.date===tp()?'今天 ':b.date+' ')+(b.updated||'')+' 更新';const x=b.weather||{};const r=el('div','wx');if(x.temp)r.append(el('span','temp',x.temp));if(x.rain)r.append(el('span','chip','降雨 '+x.rain));if(x.umbrella)r.append(el('span','chip',x.umbrella));w.append(r);if(x.summary)w.append(el('p',null,x.summary));w.lastChild&&(w.lastChild.style.margin='6px 0 0');
+  const n=$('news');n.innerHTML='';(b.news||[]).forEach(a=>{const li=el('li');li.append(el('b',null,a.title));if(/^https:\/\//.test(a.url||'')){const l=el('a',null,a.source||'來源');l.href=a.url;l.target='_blank';l.rel='noopener';li.append(l)}n.append(li)});
+  if(!(b.news||[]).length)n.append(el('li','empty','這次沒有新聞資料。'))}
+ const te=$('todayEv');te.innerHTML='';const es=events.filter(e=>e.date===tp()).sort(evSort);es.forEach(e=>te.append(evRow(e)));if(!es.length)te.append(el('li','empty','今天還沒有行程。'));
+ const tq=$('todayQ');tq.innerHTML='';const qs=tasks.filter(t=>t.q==='a'&&!t.done);qs.forEach(t=>tq.append(el('li',null,t.title)));if(!qs.length)tq.append(el('li','empty','目前沒有重要又緊急的事。'));
+}
+function rGrid(){const g=$('grid');g.innerHTML='';[['a'],['b'],['c'],['d']].forEach(([k])=>{const d=el('div','q q'+k);const h=el('h3',null,Q[k][0]);h.append(el('small',null,Q[k][1]));d.append(h);const u=el('ul','items');
+ tasks.filter(t=>t.q===k).sort((a,b)=>(a.done?1:0)-(b.done?1:0)||(a.created||0)-(b.created||0)).forEach(t=>{const li=el('li','item'+(t.done?' done':''));const l=el('label');const c=el('input');c.type='checkbox';c.checked=!!t.done;c.onchange=()=>{t.done=c.checked;persist()};l.append(c,el('span',null,t.title));li.append(l);
+  const r=el('div','row');const s=el('select');s.setAttribute('aria-label','移到別格');Object.keys(Q).forEach(o=>{const p=el('option',null,Q[o][0]);p.value=o;p.selected=o===k;s.append(p)});s.onchange=()=>{t.q=s.value;persist()};
+  const cb=el('button',null,'排日曆');cb.type='button';cb.onclick=()=>{$('evT').value=t.title;$('evD').value=sel;go('calendar',true);$('evD').focus()};
+  const x=el('button',null,'刪除');x.type='button';x.onclick=()=>{tasks=tasks.filter(y=>y.id!==t.id);persist()};r.append(s,cb,x);li.append(r);u.append(li)});
+ if(!u.children.length)u.append(el('li','empty','還沒有項目'));d.append(u);g.append(d)})}
+function rCal(){$('mon').textContent=ym.slice(0,4)+' 年 '+Number(ym.slice(5))+' 月';const c=$('cal');c.innerHTML='';[...WK].forEach(w=>c.append(el('div','dow',w)));const f=new Date(ym+'-01T00:00:00Z');const s=new Date(f);s.setUTCDate(1-f.getUTCDay());
+ for(let i=0;i<42;i++){const x=new Date(s.getTime()+i*864e5),d=x.toISOString().slice(0,10);if(i>=35&&d.slice(0,7)!==ym)break;const b=el('button','day'+(d.slice(0,7)!==ym?' out':'')+(d===tp()?' today':'')+(d===sel?' sel':''));b.type='button';b.append(el('span','n',String(x.getUTCDate())));events.filter(e=>e.date===d).sort(evSort).slice(0,2).forEach(e=>b.append(el('em',null,e.title)));const n=events.filter(e=>e.date===d).length;if(n>2)b.append(el('em',null,'還有 '+(n-2)+' 項'));b.setAttribute('aria-label',d+'，'+n+' 項行程');b.onclick=()=>{sel=d;$('evD').value=d;rCal()};c.append(b)}
+ $('selT').textContent=fmt(sel);const u=$('selE');u.innerHTML='';const es=events.filter(e=>e.date===sel).sort(evSort);es.forEach(e=>u.append(evRow(e,true)));if(!es.length)u.append(el('li','empty','這天還沒有行程。'));if(!$('evD').value)$('evD').value=sel}
+function all(){rBrief();rGrid();rCal()}
+$('prev').onclick=()=>{const d=new Date(ym+'-15T00:00:00Z');d.setUTCMonth(d.getUTCMonth()-1);ym=d.toISOString().slice(0,7);rCal()};
+$('next').onclick=()=>{const d=new Date(ym+'-15T00:00:00Z');d.setUTCMonth(d.getUTCMonth()+1);ym=d.toISOString().slice(0,7);rCal()};
+$('taskF').onsubmit=e=>{e.preventDefault();const v=$('taskT').value.trim();if(!v)return;tasks.push({id:'t'+Date.now(),title:v,q:$('taskQ').value,done:false,created:Date.now()});$('taskT').value='';persist()};
+$('evF').onsubmit=e=>{e.preventDefault();const v=$('evT').value.trim(),d=$('evD').value;if(!v||!d)return;events.push({id:'e'+Date.now(),title:v,date:d,time:$('evH').value||''});$('evT').value='';$('evH').value='';sel=d;ym=d.slice(0,7);persist()};
+function daysAgo(){let t=0;try{t=Number(localStorage.getItem(K+'-bk'))||0}catch(_){}return t?Math.floor((Date.now()-t)/864e5):null}
+function bkMsg(){const d=daysAgo();$('bkM').textContent=d===null?'還沒有手動儲存過。':d===0?'今天手動儲存過了。':'上次手動儲存是 '+d+' 天前。'}
+$('bk').onclick=()=>{const u=URL.createObjectURL(new Blob([JSON.stringify({tasks,events,saved:Date.now()},null,1)],{type:'application/json'}));const a=el('a');a.href=u;a.download='每日規劃備份_'+tp()+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(u),2000);try{localStorage.setItem(K+'-bk',String(Date.now()))}catch(_){}bkMsg()};
+$('rs').onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const o=JSON.parse(await f.text());if(!Array.isArray(o.tasks)||!Array.isArray(o.events))throw 0;tasks=o.tasks;events=o.events;persist();$('bkM').textContent='還原好了。'}catch(_){$('bkM').textContent='這個檔案不是備份檔，資料沒有變動。'}e.target.value=''};
+all();bkMsg();
+(async()=>{let raw=null;try{raw=localStorage.getItem(K)}catch(_){}
+ if(!raw){raw=await idbGet();if(raw){try{localStorage.setItem(K,raw)}catch(_){}}}
+ if(raw){try{const o=JSON.parse(raw);tasks=o.tasks||[];events=o.events||[]}catch(_){}}
+ all();
+ try{if(navigator.storage&&navigator.storage.persist)navigator.storage.persist()}catch(_){}
+ try{const r=await fetch('data.json?'+Date.now());D=await r.json();all();if(D.errors&&D.errors.length)fail('有部分資料這次沒更新到，顯示的是上次的內容。')}catch(_){fail('讀不到天氣和新聞，請檢查網路後重新整理。四格和日曆不受影響。')}
+})();
+</script>
+</body></html>
