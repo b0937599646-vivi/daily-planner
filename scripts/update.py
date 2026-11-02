@@ -1,5 +1,5 @@
 """每天抓台中天氣和新聞，寫進 data.json。不用 Claude。只用 Python 內建功能。"""
-import json, urllib.request, xml.etree.ElementTree as ET
+import json, re, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 LAT, LON = 24.15, 120.67  # 台中
 NEWS_COUNT = 8
@@ -19,6 +19,10 @@ def weather():
             "rain": "" if rain is None else f"{rain}%", "umbrella": umbrella,
             "summary": CODE.get(d["weather_code"][0], "")}
 
+def clean(title):
+    """標題常帶「| 作者 | 分類」，只留最長的那段（真正的標題）。"""
+    return max(re.split(r"\s*[|｜]\s*", title), key=len).strip()
+
 def news():
     root = ET.fromstring(get("https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant"))
     out = []
@@ -27,6 +31,7 @@ def news():
         title = (i.findtext("title") or "").strip()
         if src and title.endswith(" - " + src):
             title = title[: -len(src) - 3]
+        title = clean(title)
         link = i.findtext("link") or ""
         if title and link.startswith("https://"):
             out.append({"title": title, "source": src, "url": link})
