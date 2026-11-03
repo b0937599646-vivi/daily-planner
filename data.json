@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "21–31°C",
-  "rain": "24%",
-  "umbrella": "不用帶傘",
+  "temp": "21–32°C",
+  "rain": "47%",
+  "umbrella": "可帶備用傘",
   "summary": "毛毛雨"
  },
  "news": [
   {
-   "title": "伊朗：美方若同意訴求荷莫茲海峽最快2天內重新開放",
+   "title": "人潮爆！蔣萬安寧夏夜市拜票貼滿愛心…攤商索簽名旁竟是「黃仁勳」",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hbUZ2VnJNSFJ5dnJhbXV1a0Z0LXVRbkRDQjI5akJjSTN2Y1FCQTQ1aHAwQjY4WDlzMTJoVkpmTEQ1dm5jYkFkbEZGYVdnWFBqTERR?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KYllkelBWUVYzT041bUtQdHhBZV9NbnFGalZXUk1hRzl3cW5HUW9XU0huLXlxQXdhSUVQS2laWm5BVEJzWUN3dk9tVHU2Q0pMb1Aw0gFYQVVfeXFMUFg4LWo5bFBpNWdlbEYxXzd4N3YteDdSY0lkTG50T0FzdmpjRVJ6QTVNMm43dHhvYkM3SEIybTM2NDktUUppNjBUSUhsMzV1Z21tLUFOaHJGSw?oc=5"
   },
   {
-   "title": "秦慧珠追問松機中央公園規劃公園處坦言：蔣萬安開完記者會才開始",
+   "title": "高金大帳房張俊傑順利偷渡 專案小組痛批北院交保甩鍋",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMmNJcEk1ZTV1aVRqVVE1YjJhTEpic1BLdlN6T3NDUXhfLTZMSTVOVVAxWm8yaFhKMkhsQTBaaVlxaGMySzZ3bmFCekFxTi1rZUc2bXdMaWlSdmNIS1V5WEF1NDRJMGh10gFuQVVfeXFMUGtpNzE3dS1qVERLZE9ONmJXWjlnQ0xJcWNaTUtWd3ZYTHR6WGRrX2N4ZWpPOXB4MkwxaFNNdDNWamFBb1RaR0wzVEZTQktIRXFGalc0d0NJdDBka05obldFWGF1cjhsU3J1MTYwUlE?oc=5"
+  },
+  {
+   "title": "都是外地人赴大洋流車掃？沈伯洋首曝船員數：倒不那麼擔心",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tOHFSQ1lGbnJQUDgzOGhZcnEwRGFIVWs0bEFhVlN3ekxYMy1jM0xzdDZtbE56eEY4bTRRcFVmd0tjMkN0dDJYRUlyd1XSAVJBVV95cUxNQk9nQXE2ellqcVM1TDFISGJ6VnpBTDNJLWhWeVNvbmtPdVdNNkZ2NlN4SUV6aWhQTkV3QnI0a3FuSzl4U3JndktGYlRZS213dVZ3?oc=5"
+  },
+  {
+   "title": "美國中期選舉：競選開支120億美元「打破」紀錄，馬斯克已花5億",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVR2xKQ3pxQk5HY2QxZDdoRDdDeUdfeTNIaUZfSVNxeU93MXlwWDNlZ3JlYmNxZzJza0Q2RFgwLXg5SFJlajlkeTU4akJDdGh1RnduV2FJR1ZUTTBHQTlGam54WkdFdTDSAWxBVV95cUxOYjlIdGp1UGNQOV9yV1Q2SXVpQkM2V2VGb2JIMW4wNGk4ZkMxNUM3ZDJWYk9WLURKdE5VT0NvdG1yZU10WjNzR2M3VlV5TDNkWWpBZlV5UzB5TlpEbG4xUThfWFlZZGZyejBkVXE?oc=5"
+  },
+  {
+   "title": "不講武德! 川普才說想和談期中選舉前夕美軍突襲伊朗格什姆島",
    "source": "Newtalk新聞",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbjFNUnRrNDNEYnV0ZVNIc1ZPeHh4M1JzZnhsdGVHcjRKNElpRVNkQVl2MmdLOURvdE1TSG9takxQNFhORUR1d3hyS3ZWYWpValltUFVma2JiTEE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03eUduMWhRUk84Yk82cEMxdExTTUJPVlZzZkdQVHVyMGxySEphb3ByMGtfM3JQd2xMWjhkT3FIc2RYV05qRGZMYUdNMlRNVDFQX0JOM19ZNXRMT2s?oc=5"
   },
   {
-   "title": "東北季風增強雨區擴大！局部低溫「下探16度」日夜溫差大",
-   "source": "東森新聞",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qeFJsZ0xWd2VoV3RsbU02V1Q2OTVJTDhOTTFuS2tSZHZTanlEaW1nS2xoTm1DSlRaM2xmUGRfMW1qd2hVWnBkRUtPWEp3UTVYNVZpYg?oc=5"
-  },
-  {
-   "title": "無照酒駕撞死男大生肇逃！「肇事男6度累犯」法官裁定收押",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPbkp1cktVOTBLVmdlcXhhLXlwSmhfc0N0aXhuZUlNSHF2V29nM0E5b3Jna0JlNFhXVl9KaVp5QUcyTHVOdXFsZUdaRWNOSnhnd3FaY29HZnRZaDIxRHkxaDhVamlOX0RsXy1CallxdEctR2hXbHNEWHNRbHNVeF9LeTJDSlNncFRrUUxKbHE5S2VsVlkwUHJ3MGNKTEFxUjNycF9mU1ctT1dvREdEZUhoeDBuY2U3Y0hvaldJUjBIelJuVFEtTHlleXYwam5EcmxJM1o3cFhJU1NrWkNxZkxCY056ZmxWYmRJdVhLRjhzWnowbzVVUG5faEYxXzNtWVJrVzF6VFdaeXpoVVAzZ3V4YkRvblpZQnVVbGRZT2UyT09lclRMUVpBQUUyZlNDTDU1dlBFQ3M0TzI5SVdfdXJ5UklGdWxJNlNnMmdLMFgyMER6TVNaSmM1ZExXTDV0NG1UR0l3MXhSTHNJN3pUM19CcjU2Z2IzRVJJX3lXdGRIM1hSSThr?oc=5"
-  },
-  {
-   "title": "蔣萬安陣營攻擊人設 沈伯洋：立法院攻防「遇到他們才變兇」",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Uk1mMVQtOUdKRklRUHlNQXFieTM4aS14SldRZTJVUWNBVmdqMzlhMHU5aXF1WWFnai1mUGdPbUhaYkFlNm50NEJrMkI1WUZLRTVV0gFYQVVfeXFMUFVaVk5ESUkyZC02SXVrMEJJdTZBcDlDbTNBYWNXQkRvWFhhaUQzVzZTczBoZnFRUTR5alhEc1pkRzlUS3RGYmxCRjZ5WnRXVXktSjFya2lmMQ?oc=5"
-  },
-  {
-   "title": "沈伯洋引用金句質疑蔣萬安「問A答B」　謝震武笑了：有沒有授權金？",
+   "title": "信民民調／何欣純大幅超車江啟臣領先10.7%　盧秀燕笑說：大家看看就好",
    "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWXR6RGZnOHlFSFU0eWFvb1kzcmxuMjROYzZrMkJPSFpGMlRuQm9IbGl4UTJaUjNCaGcxcFZoelNVcGIyTWFyOdIBTEFVX3lxTE5KSUdISW4wcFBMdjVZWmh6UUEtbzNKNU5GeVhWT1h5ZVcwWjg3ZEtBNEhtcWppWXRCd0stMHQzNG5xemZMR3FhQjVJbkc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DYzdsbVBwMEhpVFRDaXhaV3VUeVphWDB3ZmpkSDFJdFdGR25oYkF4QWx3Y2NaTHlwZ3EzWFBhTUNxSkVDeFNkQdIBTEFVX3lxTE4zaXNGbGplM2tkN0poSnFOZGc5VC1FNEZNT2lJM0wwVnBic2RhRDZpNWhDbnRZMkVXUkd0TE0wNnluOHlyRzFzbnBtTm0?oc=5"
   },
   {
-   "title": "民眾黨選前黃金周北市府前全台大集結 柯文哲蔣萬安是否同台備受關注",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5VUdNS0xXbXVMSmxsdTBHQXJIRGljYjFFVlljejdPRVMzTUdFNGEza1hHbXQ5V2hyeVlhRUlDeEdSeXltYnpLRF9KY0pFVFpoZk9V0gFYQVVfeXFMT3VZX3BXcHVjNFBZZi1tNlFCSWNIR0VoTWRVcWJYcG55MGZFQU9UTUJXWjktZVpzMjRSeFFta0lNdnN2Y3lPeTFnZ2NnRUZwYjRKNFdyanFsTA?oc=5"
+   "title": "寶林茶室案真相曝光？陳沂一查「公開賠償資料」：蔣萬安沒說謊",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZlFTbmdiZEVfTzhyU1NqRnViemsxN3duc2pXa3pOWHRqTGFqdDFRUExyLW1oeW9MN0lrZkVDNC1ONm5sZnJfeEFBbkMzVUxURkYzNEgwMVZnUEZfQVItd1hONTMxdllEbC13OU85dWtHMnhIN1R6Y1I4NnQyZW1BUWFFQjJYRzJhYTVVS2NuRklESjFvbFlhbFlPZnRhUzV3Tl9VQkZNZ1otN204NXdjU2g2VU1YX3hDbG9JR3QyMExFT0hRbklkbTZ0WFVPX1haMy1OY01yNkFqbmp6MXBhdHBrQmVkTGxNT0UxdEFqRXNMdlhrUjJDbUE5U09lVEMwOVFzM2hsMzh3SXdEaUM0bEkwZWU3LXloMnptbG1IMVRfSC0wNU55TVVrMjhhYmNNOGhOMHh4ZWEwODdWNF90c2doWUZWVTAwYXQ1ZE9VRHBHLXAyY2tGSU5JQzJhMGpzcEppRzJLVjJmZmpOY0hCN1NuS1MxREFQ?oc=5"
   },
   {
-   "title": "台北市長辯論會救了賴瑞隆？媒體人：柯志恩口才沒話講- 政治",
+   "title": "APEC邀請函改用Email！賴士葆嗆「有氣魄就別去」卓榮泰回應了",
    "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVHktbUhsVVJ5aTV1SUxOV05TY29fTHlQRmg1ZHVBYzFMeXlmaWY3QTJoVEN5M0FLNzhqZnNTSk5YVkIyal9DZlN3QUo0YU45UEMwQ2ZkNWNwMndlZ2pvMi1XSlBNY3RPRndmTUlB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycE9YVHREYWxQYnNUMUVDTHdwYWU0NmVZc0hYeUVtWmdicUtpSmFuZlQ3bGFfbkxRWlNLSGgwTmhBNGdxYVU0OVVwdms1bUpBcWtDM29kU0N4RmhqOERhcXpXY012UWhaclRldTN3?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-03",
- "updated": "05:22"
+ "date": "2026-11-04",
+ "updated": "04:49"
 }
