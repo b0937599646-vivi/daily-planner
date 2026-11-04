@@ -1,53 +1,53 @@
 {
  "weather": {
   "temp": "21–31°C",
-  "rain": "47%",
-  "umbrella": "可帶備用傘",
-  "summary": "毛毛雨"
+  "rain": "0%",
+  "umbrella": "不用帶傘",
+  "summary": "晴"
  },
  "news": [
   {
-   "title": "張俊傑潛逃59天疑偷渡成功 傳海防人員登船竟未察覺",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12Nlp5WExpdFZIOUFnZTVOSWFOX2NOdzhHMElDQjFjR0JYZGpkcnk5QVlJUmVIdVFYZ1UxYlFIeWttZldpcEFYU285RGhtMlZY0gFWQVVfeXFMUEFuQzNNaVRLUmVsMnp6UTkwMVVFWFVyVEplY2lzejV1c3o3dzhsZWZJMElUY3l4M1FTNHJOMFNNR1hDZjRwQUFKbEl0Nmh0YUw4WmV0dnc?oc=5"
+   "title": "美國期中選舉／德州變天AI建設恐添變數？「川普跛腳」再來2年局勢更動盪，台灣最該關注的3件事",
+   "source": "今周刊",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlBKV2VYeEc0UFVvSUtPejNJZDN0LTVVaXluVG9Ma1JHS0NWY1FleTBjcDhTeG85TmRTQV9rdVkzcFU3RlhRZTd1UWZqdUVscGIzdjJWTXNBMHZ6TTBiMTdBNGRHOEE5Sm9jaWRoTmVnVVRMYWV2VkNPYk4tQ09LaQ?oc=5"
   },
   {
-   "title": "人潮爆！蔣萬安寧夏夜市拜票貼滿愛心…攤商索簽名旁竟是「黃仁勳」",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KYllkelBWUVYzT041bUtQdHhBZV9NbnFGalZXUk1hRzl3cW5HUW9XU0huLXlxQXdhSUVQS2laWm5BVEJzWUN3dk9tVHU2Q0pMb1Aw0gFYQVVfeXFMUFg4LWo5bFBpNWdlbEYxXzd4N3YteDdSY0lkTG50T0FzdmpjRVJ6QTVNMm43dHhvYkM3SEIybTM2NDktUUppNjBUSUhsMzV1Z21tLUFOaHJGSw?oc=5"
+   "title": "獨／好大官威！蘇巧慧胞妹4500萬爭議案沒得查　全因財政部不給資料",
+   "source": "ETtoday新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91aTZKMUNvMkQ5NWhnQTlFQjN0UkMyUWlYUFVmX1NlREo0bGpnSVpVQnBpLTEtZG5EMHh5NnJ0ZGJlQWVRUXk2NTFuSmxFY2s5dEhqdlplc21NV1pXR1HSAUtBVV95cUxQNVQ5WHVLYllqQTFIQTF4bXlFOGdWU2JLNkR1amlDSk9mRmxSVkg0QU05MG0tdWZMc1BRSDlzMVBja3BUY2xkMHdFNjQ?oc=5"
   },
   {
-   "title": "契合沈伯洋政見！ 李正皓挺士北「水路船掃」：別因焦慮自我設限",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWjgtN1FQRWtZWlZmdVFlcUR3aC1Rc2hXQjdPSGNncTduOE92LXlVRXpzcHF4UU11VV95Wm40YUVMYWI2RlNTS1pWaTIzTVJXeTVHVFBjYXZlZy0tZDI5WmNHR0RlbG9MckHSAW9BVV95cUxNTWxPTzk4QjFZa0Jkazllbmt5ekZ3bkM4dU5HTDl1eUJkeU43U21uYXo0cV9ZdnZQcDYyUU9lV3BzS1E1ajZKVnpGY2RoTWxiZnV6X0VERlMwSWJLRmZpTGlDUllUb3FpU3BCUUVqOHc?oc=5"
+   "title": "寶可夢郵局聯名遭黃牛掃貨！980元推車喊價3980元 中華郵政出手了",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxORndMbHBDSzktMkRScUhXS1Y5ZllOdlNKNTJhYmZUdUVDLURwTktWZ1JRWE9zRXFpeGtzQnZRZXQ0UGZYZXcyZ29kVUtaYjAtV1pEay1tZFVRbDZGUDRRT2RnXzV1ZVVhejdEcnZlWWRvQ2NhVjl4YVQyZGF0WV91ZDQ5YkZ3UUVYdkJTenIzQkZncXI4aVlONGxTazJZVUl6c2ZZWTE5bE9NU1J2TFFTX3JqR3BiZUQzcTBra2hVcGhlQXFSVjQzTE9OeVlER0ZOZzJ4UVVWWXRQV1lDUEl6a29CQWlhTjJjcWhQX1ZXREwwRXpvdS0wcDJvUnNBYWVqTjdTV2gyYTFpMzlxdFU1bHZQTzVkdVBqdmIteWo2eTBMOEpEU2hGdV9vRS1wc0hWYUFZaGNkRURqX0FtWUFvZEFSb2dpM3JWcjc3dkpGNF96YVhrVzU3Q2w4ZW05RlpDdUNNNkNYQnpfTnlpUGN1SXJWTm9FUGdIRUVHbTFLMEpJeE9xOXU5Ym42WQ?oc=5"
   },
   {
-   "title": "共和黨仍有勝算？外界預測美期中選舉「民主黨取佳績」 民調卻可能受1原因影響",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dm16Y19RcGxuWE1pQjRxNFI2SV9VZWpCMVdLTHBGLXRvbjYyYkVoSW4tdThkbUMtNW5FRFIwYVZteDFWTVBiNEF0aFA0d1NDRkNR0gFYQVVfeXFMT1ZKTTFsOHIzaWNFakE2UlBtd3V5bjdLbkhfLUFvNHllQUFPNFk4bm5wbEY3SkJyN01yZTA3clpMV2tQN3hhU1JxZzVGM1ZBMHVNZFJkdGlJUQ?oc=5"
+   "title": "台北市長選舉最新民調！蔣萬安支持度過半達50.7% 沈伯洋41.9%",
+   "source": "中天新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQzJkT2xIeGRhcTFlLXdVTEwyRGgwYW5GWnpjMU9MWlFaSzhzZzRRc2w2VHlKaDJVbkJnU2Q4NG5WbEJBVHJOdXllYUJFeW9aMFZv?oc=5"
   },
   {
-   "title": "不講武德! 川普才說想和談期中選舉前夕美軍突襲伊朗格什姆島",
-   "source": "Newtalk新聞",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03eUduMWhRUk84Yk82cEMxdExTTUJPVlZzZkdQVHVyMGxySEphb3ByMGtfM3JQd2xMWjhkT3FIc2RYV05qRGZMYUdNMlRNVDFQX0JOM19ZNXRMT2s?oc=5"
+   "title": "「敗選就是因為戰爭！」范斯開砲 美油重挫跌破90美元",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWlJnclVsOG85U3p2LU0xSzNkMUh3QkJBVGh4cmc5UWJrbFM0T0R3MEl4MW1CbmJjVVE2bW13TGQ2T2l2WnN2MmFvb0VqS0xWM1g1Ry1MQ0dfYVNMQktha09wb3YzYXRzR2hULXBybG8xUy04b0daQ1NoMTQ0em9Cd0t2b1NwdHZsQklWWXp0aWppRkhCQ193WHU1bGJLaF8zc1lVbVp4MzVuVXFsSVdPcFFodW9BeU1HVlhtR2Y3dzJnTFZ5T0U2dllDWGFiLV9LV1BOcFlLNTd5b05PeVhSVGE2Vm9lSnNtZ0p2M0MzMXF6SzZGRElKLTJDbUstejdzOGltdGhrMEFXQjZfTnFPMWZ0SklLMG1JQUd6ZF85SWVONU9oNjQxZ0pzNnhOT2lYbUFiQWt3QlhiOWEtc1dpS0Q5Nm1XQXBnYU00aU9Ld0E?oc=5"
   },
   {
-   "title": "信民民調／何欣純大幅超車江啟臣領先10.7%　盧秀燕笑說：大家看看就好",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DYzdsbVBwMEhpVFRDaXhaV3VUeVphWDB3ZmpkSDFJdFdGR25oYkF4QWx3Y2NaTHlwZ3EzWFBhTUNxSkVDeFNkQdIBTEFVX3lxTE4zaXNGbGplM2tkN0poSnFOZGc5VC1FNEZNT2lJM0wwVnBic2RhRDZpNWhDbnRZMkVXUkd0TE0wNnluOHlyRzFzbnBtTm0?oc=5"
+   "title": "大安區國宅湧人潮領「洋流」小物　里長竟報警趕人！雙方爆口角",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pQmZaUHY2X1VOWWtqMTRHQnQ5Y3B1MnQ5Z0hzcndQTDRKeDlvZkowbjQ0cHR1dVFIelowVjY2VW11WS10WFBMTF9SMzHSAVJBVV95cUxQd2hVNlRfODBaSkJuNVkwNV8yVURUMllkX2dSQ2lUelF0aVQ0ajFoemhKS2p2T1g4R2RYV19KWGpTRTVqZFRnY1ByejNMbDJ0bTVn?oc=5"
   },
   {
-   "title": "獨家／萬安「警報」抗「順報」！藍首份報紙靠「團結實蔣」",
-   "source": "東森新聞",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiTHFuWEFCSXRwNVN1V2VWbWhmeXkxcUxUaUFUeXdKbm51elFQTVVycXctR1dJQVVwN3NZUngybjk1Q1Etd1RFd3lhOGJheE5JQTFNQzk1dw?oc=5"
+   "title": "蔣萬安掃寧夏夜市「真實空拍」一看超尷尬！粉專曝現場情況：無暇理會蔣寶到來",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOT1l6YVFBYS1lUUVyc3lxUzRkTWRaRE9RTTRQcEhMd0tfa01RYjExdDhqUk9QQ2FSdHVua3JxOHFFMU1kT2hGRkdOSk5EZ19taTVoOWhZU1pWMzhuZEFQOWdMVFFTa1BfYVJ1VDVHVTRNSFpVaTFPZXdORkV3MTQyQTN2TFdLWDkxSXdCdlJjNFRYYm9EY092eGkwcC1DZVYtQThKVXd1cjhJUXZFdmVYUnlNSUV4YUtnZUxvcHI2cEpsUkFCbTVZYzRMNjc1bE5BX2lTU2gwQzVIcGE1Yjh4NU9jLS1GcExCd3dQWHd5bTVyNGh0b2hXclAxWGRtSTMtZE84Mml2QnhyNXM0Z1dFcDFFUnpfU3lxZy1fUy1Vei1DNlI3WWpjc1VqZ2R4b3p5d1RvMDZRN3ZINnJkanR3Y3VXdE5aaGltRWlNQXNpOFlHNmg0STdKeF9wamFCd19kU3VWTWo3eHowc25DMGJWb25OMnBkZ1A4Wkh1ODc4ZEIzNXIxbHVBYm45WGQ3Mk9PWWtadVpFRHZGbmxYM2pMNnh4YnNxMEs4eVZ0a0VrNXBfVGEwZGRsREZqbVFGMlZ1Y3Z5R3kwUmRqb2w0?oc=5"
   },
   {
-   "title": "APEC邀請函改用Email！賴士葆嗆「有氣魄就別去」卓榮泰回應了",
-   "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycE9YVHREYWxQYnNUMUVDTHdwYWU0NmVZc0hYeUVtWmdicUtpSmFuZlQ3bGFfbkxRWlNLSGgwTmhBNGdxYVU0OVVwdms1bUpBcWtDM29kU0N4RmhqOERhcXpXY012UWhaclRldTN3?oc=5"
+   "title": "沈伯洋專訪流量超車蔣萬安！律師吐大實話：台北人要有動腦市長",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LVFNTcVUxdldjZmRXZXdfMHFQWjN4UTluMmRFX3U2SmloM0NlWFJ2UWE1azhfZUZhT1ZSdl94NGJHMkV1a1JpcW5oWDfSAVJBVV95cUxOV3dBTjdLNldPS0k0X01EQUhyOGk5YnN0ZnlSYXZnWlN4NThJdkhsRGlUdG85M19ZM2ZnNERLU2x5TGlrOWIya2FIbEtMRk1rSDZ3?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-04",
- "updated": "05:21"
+ "date": "2026-11-05",
+ "updated": "04:54"
 }
