@@ -1,53 +1,53 @@
 {
  "weather": {
   "temp": "22–31°C",
-  "rain": "24%",
+  "rain": "14%",
   "umbrella": "不用帶傘",
-  "summary": "多雲時晴"
+  "summary": "大致晴朗"
  },
  "news": [
   {
-   "title": "美國期中選舉掀起民主黨「藍色海嘯」 華爾街投資六大轉向揭密",
-   "source": "經濟日報",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KQnpOODdBU2xseFBZeVB6WW9LQnpWZllMMDJ5bHJZWnRHVGxBVDFMc2J2YlpDTG92Z3JzY2tUeG5UY1BpdVpNd2doMlFCZ0dqbnd3aDUybXQza1Az0gFiQVVfeXFMTng3QkZzMjZSa0M0NUdwSkMtWnlVWGNTNkFxNEZVOUc3TFQ3Q3BVaUtMT2RIR2NkaXhYN1N4UWtYUVBEazlHYk9SRmZuTVFpMW43QWlyR19EV181WDY5dnhKVHc?oc=5"
-  },
-  {
-   "title": "明起變天！兩波東北季風接連報到 日夜溫差近10度",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1OFdseXl2OFFLN0ZvWEVKZlVvWE9JMVc1eVpjS2NRcno0Z2pXVmF0ZVo4XzN6aW0ya3Q0d2JlSzFQWXhjM2N0clo3UTBQREZf0gFWQVVfeXFMTS04VGJVejNFOHNfSFdpakRrSk5qdm53NnFZMUJFOGdoQkJNYTg2V1hockZUbUtzRjFNNDRQc0RZazNVWHlnNG02MmQ3dUZwd3MxRkZiQ0E?oc=5"
-  },
-  {
-   "title": "沈伯洋拔樁藍營大老陳健治？蔣萬安稱尊重 競總急喊：已邀老議長來訪",
+   "title": "又濕又冷！下週兩波東北季風接力急降溫 北台灣下探1字頭",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQc0luWDVyQlZFVEZNWGRyZ1ZYeEM3dDh4UWtYeXFTcjdoTmFIQm5iV3AyMkd0am1jdmdUaWo3elBhcUNVVEczci1GdnBkVEVINzItdlBPVEZ2TFRodzJ2eXNhZ3ZoLU9pV2FpM1JpdVY3SDc3ampWUGJhX0M2NTBZcXI2N2J0S2pBeGdrSGJtcVpkQW91TGQxVUJ2SzlIMWNhcy1FLTBReU4yMFdSOEVaSXloa2dUX1JlQ0F5Sng0Z2lSQThwZkt2M3o4ajRiel9YeXVkNEVBb2JuazBlQUd4VmRKcTBKbEFrRFAyUUJvaGlzWGN2eGwtTF9Xb0xPOGxNTERfbFBtRE1qV3Z6UTBQTkVPNUdPekVkLUZPUEpzMFhScjlfOUM5MS1JQmRaZkxXSVJjTWxqd2xCaGdyZUdXYUdLSVhvajN6N210N0R1WG5kcm1fYWlLdUtqTnQ2M0VIRE5rbHVScXIzWUJOd0RHcGtubDFWUmp1cUVFN29sYUhfdEk?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUUtTWUt2YzlGdHI5ZHpDU1RhNnlrUjBqOUVtQ2RCTFZKb1FLcjN3WnFBMUhLV1hDYmlMejM3Z2xHRlVIUTV5UjY2Mm04TllBd2R4YkN3eVpuSlNlM1NGMUtuR2dKd282ai1WTUxhN0xsb1ZJX0RTNzlTbzFTczUwaHhKRDduUTJsc3B3WXlEZUUtVVltcjhQa2xkd1NKd1ZaaEt3Y1lMVmJvNnFLVm5laUM4cTVpUzlpTnJZMmlLeGtReHBHOHFCMmdfUVFKQ2hnS2x5ekMzbjNoTERxNmo2TldMLXpGMWNfampMc1BSak5qbzRyNkRaWmtWQWVwXzNnREx0ZHNZWlUwNG1LdjBMMVgyQ25iemZkai1KaUhmX3NHOWVsQy05R25rWGVsc3FkaXhXenpfb3FPT2YwVDdGNGx4amphZVhMVkV1Z0dhTnA3S2Vjd2tKQ0Vwc0RHODFSOUhEQTMwRDhhSWF6SGRrNGhOSi1DQ2c?oc=5"
   },
   {
-   "title": "藍心湄破例追蹤沈伯洋！表態喊「歡迎常來」　沈伯洋深夜暖發聲了",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oVHlCQUlqczFteUlfdkZWSFFESnRiSkQyOFRZSmRHUGhuYkx0dUxCdkx0djZ6NV94b0c0VGF0ei1aMklIOHJ0ZdIBTEFVX3lxTE5NR0JGak5PX0xacFFEN2c4QVZKdnpFMlB2WnBVc0ZUTlVNNEtrdEx2SFVWdmROSnhOSDNmZUwyRmdfdGRwR3NiVmZHTVI?oc=5"
+   "title": "高金素梅遭控涉共諜案 高檢署依國安法等起訴求刑14年",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ITjNyRnVMckRyWUtqWXNKemtHdkYxRGJOUWpRX0ZqVEpURDdXeFlrenpBRTdDemhXdkFsX1ZHdm92eVc3NjVvcEZvWFNYejRibTY4d3J3WnVoR2tsSFE4?oc=5"
   },
   {
-   "title": "最接近「第五縱隊」一次！張俊傑疑偷渡中國 6指揮幹部也聞風出境",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TMGtYdEM1cnFhczlpZ1Z1cW9KUVp6bDZjNnFvdDdhajJHUFVqcElCcW5id1p3LUszWVhpcEdoNmdybHM2TFdWOW04Rm0wTjZlUFR2dGQ2NGRLUFFoQV9uS2dWaDVaRFlQ0gFuQVVfeXFMTi1GcTBIZGR6NmJsVWxSWmtTMDZvN1lqZG9vU1pzSW5wMTduSEhKOG1jZzhTYjNVRVVvOG5VTXFLcVBtYm5VYUFESkdWdXBFaUxDM2xhRThlUGZROERyV1BJRHZUSmp3X2hIS0dIX1E?oc=5"
-  },
-  {
-   "title": "藍潮擋關！川普關稅仍有牌面 對伊朗陷入困局",
+   "title": "影／年輕人怒了！擠爆遼寧夜市挺蔣萬安 直呼台北市民都是高知識份子",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZFdMb0Q2a0FCeG9Ud1hyNW12SGhaODBKTDBER0ZlXzJhSDItUkFWLTU4cE9EVDJYS1hYMVJ4UG9xazF4NUhQd0R0Slg2Vi1Jcldn0gFYQVVfeXFMUGZ4TEY0SkRiOUFwRTJwLUxVNUFWcUZEZC1ycVhGSmlLaDVTbHlfM2RNb1ZnXzVwRVJzV2lPTllxcTdjaXJjYmRxWEFfaXBSZDFka0c3TmpySQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1maDhJNFlXN0RkZkhqMEMyVU54cU5DMFo3R3hXZC12SzJXd25sZXVJSEEybTJmQ3lwVnVoSXNwWlk2MEllQmRPZXRKTXk4QTVOYlVZ0gFYQVVfeXFMT0xJNG1fVkF1RUpTTWF6aDB3OXU0WEZBeXVYOVVQY2lhUDdsRzJXczFPTDdrSlFXQ0ZJN2E0YTNFTDFCdncxYjd2cm5qS2lDUlUwTFFYZmhtcw?oc=5"
   },
   {
-   "title": "政院指老人免健保3問題...民眾黨團轟：斥千億補中油台電 不願照顧長者",
+   "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQWZNZDloZ2twWHYydTd3NzRoU3k0aGtVN2dCbnRvejRIa1lRX0pvejZmY1ZKXzBsaUtWQmVhRU4zaEVEam80VWhMNmxKTW91cjYydXpMZXRYRVZhdm8tMUV4MDhWRFHSAWxBVV95cUxPRXFVTHg0Tng3VUdJQVhFX29FUzQtdjdiSDctc3BGcnowcHNValM5OTY3VjJxcXZBOXFJVDZ1MHplN3hnWFZvQTlLVG9waEdQR3YySWg2bTQ0VzNRT3UxUnVteU5kbGlYUS1JYnE?oc=5"
+  },
+  {
+   "title": "金管會限空令來了！11／9起調降借券賣出限額、提高融券保證金成數- 金融",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53NXpCblVRQ1lzc3Zpdm9qSTlBMnFrQnBhVWJJY01DVy1JcnhfSlNubUpFdmtqM0tkN29MQjdxZXRJM0p5Y1IzY3kzMUdtblZoRDdvVDk3YVFmWFB5YlNF?oc=5"
+  },
+  {
+   "title": "外交部：基於國家尊嚴關閉巴紐台灣駐處撤回派駐人員",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVzdKclpkUlctWVNuOExlZ2t5Y1dud0d0V2h3N08xdDg3VGhVbXZGRFh4Vi1fQVVLTFVZYVRvbWFBOWFDZGpIUEtlbHZGUEJsOXRhRVlFTUkyZUFoM0Vj?oc=5"
+  },
+  {
+   "title": "立院三讀老農津貼每月1.5萬元 綠委全數未投票",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUS1FyWm5fWGxiSmZwNnl0bmJVOVNMaTlubF9qd1VQRFQ4WFlvRW93aFZqVzg5NGZVYVZESkV0TEZ5WGRTb2g0bVkxcVo0bjdn0gFWQVVfeXFMTTFiZkxGVjVaTHBac2s5SUhfcE85MmRKckUyYTYzdk95dG5rYnN6VmtwT01yc2ZRRDZtYl9LMlVQVTNQNUxuUXphRkRPUDVGZzJ0NGllRXc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JV0MwQlBlRV9VTU9yRUJJWnZXb1h1UUl3cFVXZlM4T3loTUNMTEZuVVVGNU9nY0RQTjAwVXRJZXlQRUJDTkhMZTVLN29EVUt30gFWQVVfeXFMUFp6Nm9wcGtLa19MOXhCbXMwc21uSWZiRERWTzlOcU50MzQtYVF2YmtvcXpLRGFmMW9oZGRTRzhFUTg2ZXBoMzVINzlxWFpQbTZtVllSVkE?oc=5"
   },
   {
-   "title": "大局為重 蔣萬安站台禁令解除",
-   "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBRllta1VrS1RFck56TjZWX2Y5VC1MX2FWeERvSldnTEp2TkI4VnZUSXJIeGtmQS1NSXNRVU1iYTRqZzNhRGEyWVpHODlNZGlJdHc1R2Vrd3dFWS02cTB6QTU0VVNUT3VBNVBF?oc=5"
+   "title": "沈伯洋提名！蘇巧慧被警告：不要跟黑熊太近",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNMkgzM09wQnRPc3BmdlctNXM4ZlZ6d080Zk0wMXpvQUtKS1NzVWlKT1lHTV9CZWFBXzhsMHJ3VDZCVzBRemM5d0x5Ujc4bG5Bd1RKczZDOXpWVUUyVHZNQ3RKT0FfeFNEWkg3UHhsWEZKSjhrVWV4SEczWGJNbXlZUHFrZ3ZWTEZDQ2ZNZXpNamkzdDF0UlF0TC1IN1JfbXR4bjg1RWwxeU1qRGlVcnVVTzV0QklIX2tyYUI0azEzN0hESExaMmc1bnhTeTdYWGFpaTd1a001R1ltQU9yOGwyOTRoWVk2eUlobkMxM0llZ1pCdnlleG5CbklMWjB3UkVGQy1yQUtDYXlsVm53ZjRHNW41RHhGUm9ZWElKNUJRa0dMOXcyYmlZS0trak1Tdw?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-06",
- "updated": "09:06"
+ "date": "2026-11-07",
+ "updated": "08:04"
 }
