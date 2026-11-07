@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "22–31°C",
-  "rain": "14%",
+  "temp": "21–31°C",
+  "rain": "4%",
   "umbrella": "不用帶傘",
   "summary": "大致晴朗"
  },
  "news": [
   {
-   "title": "又濕又冷！下週兩波東北季風接力急降溫 北台灣下探1字頭",
+   "title": "11月8日晚起東北季風增強 10日低溫探16度",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pN2RpUXFIU3hBVjRtUTRsSTRuUnNCNTNZdTBaOXE0VkY1ZDcwandaNDRZaHhhcVNUdklJOVhMZVJYYTc2T3BJRFJsSlIxOXBy?oc=5"
+  },
+  {
+   "title": "槍聲不斷！穿「軍裝式」服裝槍手隨機攻擊釀6死 波蘭第二大城染血",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUUtTWUt2YzlGdHI5ZHpDU1RhNnlrUjBqOUVtQ2RCTFZKb1FLcjN3WnFBMUhLV1hDYmlMejM3Z2xHRlVIUTV5UjY2Mm04TllBd2R4YkN3eVpuSlNlM1NGMUtuR2dKd282ai1WTUxhN0xsb1ZJX0RTNzlTbzFTczUwaHhKRDduUTJsc3B3WXlEZUUtVVltcjhQa2xkd1NKd1ZaaEt3Y1lMVmJvNnFLVm5laUM4cTVpUzlpTnJZMmlLeGtReHBHOHFCMmdfUVFKQ2hnS2x5ekMzbjNoTERxNmo2TldMLXpGMWNfampMc1BSak5qbzRyNkRaWmtWQWVwXzNnREx0ZHNZWlUwNG1LdjBMMVgyQ25iemZkai1KaUhmX3NHOWVsQy05R25rWGVsc3FkaXhXenpfb3FPT2YwVDdGNGx4amphZVhMVkV1Z0dhTnA3S2Vjd2tKQ0Vwc0RHODFSOUhEQTMwRDhhSWF6SGRrNGhOSi1DQ2c?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNGd4a1V5SU9qSTdRSmNUT3AyMFBXVWhvM3dqdFpNbS1ZakdHQ0ZqVXhCTUdWUHJvSGhSZmUyT2FTdVQ3eGNBVGtSekY0a19mcU15UTRiUHN2cWVWLVdhTmpCVnhCTlpsN1VHYkZqMENINjh6NVJvVm5UaU15Q1c1QlJQTzZ2THdzbVdjM3pSX1ppMmZuX09fejBKUGVnYUV6b3V3ZWVxRkdNMGJLTGo5WFo0MmNBUEVUdG5pb250Zmp6RnVWaVVQRE1jMDNuYndHV1hEd3BOdjJEM1VoQVpPUUphNGRjc1FrdzRWLURMc255cjc3ZVZ6OG9ueFYweWJZOTd1UlhxV1JQcGp5bXlDQ0w1dDM3MWNXMm01dnU5cHhPMkprOURUWFhONGtHYU9tWnZ4Q0RVeDlHSkl4NDFLYzVabFRWbERkVHZuQnNZcHI2MFV0MUxkek1MSHg2cV9rNHVSNldEMkhfVUNxeWlOdlloNUdRMW96cjFtMFNkbW10cDJFeHdTZklfZmxVWW8yNHc?oc=5"
   },
   {
-   "title": "高金素梅遭控涉共諜案 高檢署依國安法等起訴求刑14年",
-   "source": "中央社 CNA",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ITjNyRnVMckRyWUtqWXNKemtHdkYxRGJOUWpRX0ZqVEpURDdXeFlrenpBRTdDemhXdkFsX1ZHdm92eVc3NjVvcEZvWFNYejRibTY4d3J3WnVoR2tsSFE4?oc=5"
-  },
-  {
-   "title": "漏網鏡頭》蔣萬安東區商圈掃街拜票 強碰「洋流」了",
+   "title": "高金素梅涉共諜案被起訴 伍麗華：如何連根拔起全看今年選舉",
    "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LNlhWQlJITzhMOHpuRGJDeU1TYVdLTU1TUjJlM1YwZFlWZzdOa2J3SVpvNjZBcHA2cS0tTEllUVlQaUdmaHF4UlZBUWdfWnl6ZG12TzR1OGJ5RmRlS1ZTOFVqZGw4Y0ZmSkHSAW9BVV95cUxOZE9sd3RJTFlmaGxJVTFpRzN2dXpMN0RWR2hPeVFQYzN5dXF0cUxlMktTU2JTdkFEck9ZREtfaDhudDY3Vnc1R1VvaXhFM1RqX09sdlpwdXRGOENpYjNsVmVKODc0VW1BTEFkNDhDYWM?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VRHBGSXRIYmV1bG5ZT0FFNzVaRk9xblpRNDRTWGotelRTaDR6OEFWaUFlQk5Hek4xRU5BUHNSMGhrbjUzdFdzLThZMGxyYUZOajk0blVlbmVuWllwTTEwMXVKUGtxUVJIcUHSAW9BVV95cUxOblRVdGxialY4WGdJclVHMVJYd2lhb1g3a1J6YVVXNEdNZ0prWElWNDlpcW5LODd2dGhyNzdqSFJ5NS15VXVCWUdQTEUxWUdqRVVjS0RWNHB5azQ0eUcyTTNZVlZnQjhpUDVnSWtNYW8?oc=5"
   },
   {
-   "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQWZNZDloZ2twWHYydTd3NzRoU3k0aGtVN2dCbnRvejRIa1lRX0pvejZmY1ZKXzBsaUtWQmVhRU4zaEVEam80VWhMNmxKTW91cjYydXpMZXRYRVZhdm8tMUV4MDhWRFHSAWxBVV95cUxPRXFVTHg0Tng3VUdJQVhFX29FUzQtdjdiSDctc3BGcnowcHNValM5OTY3VjJxcXZBOXFJVDZ1MHplN3hnWFZvQTlLVG9waEdQR3YySWg2bTQ0VzNRT3UxUnVteU5kbGlYUS1JYnE?oc=5"
+   "title": "告別委曲求全！外交部「主動關閉」巴紐駐處：斷金援、停採天然氣",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sY0xYbVFOUTE5VGl2RHRBMTRPMVRFV0RneTFxdURzbWFrWU9SZm5vWG5OcVBCZ2xtX3lDcC1TZS1TMjdXMDZ0dWVyQ2TSAVJBVV95cUxQNVVRa2puLVlEaExOTzJfZzNZdVd1cVhGM3F0eUNieUpaS0FoNWFzcVMtdTZVNlZRRDdHYmRxUGhuOE1SQWxNOGdSQWZQR3FNem93?oc=5"
   },
   {
-   "title": "金管會限空令升級！借券賣出限額砍至3%、融券保證金升至130% 11月9日上路",
-   "source": "經濟日報",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dGhFek1hNjJDUDNqWlhpTWp0WDh3Nnkwa2l2TU54azVmZGhxMmdaTGgzNGZLZjNGSmJuX3JxYnpBMHRSMEJQdk1zTDlhOS1ac3lxY2Jic3ZmUdIBX0FVX3lxTE9XcXpmRjNFVkFJMnM1dkNSSmtKSVEzV29GdF9GRzRneFdSMUtYX2VSMzNsZG45Z1Q5QlRJV0xLYXJXODJERHFlN09vVk11eERJWWhVQWZUb2MwX1NKVlRB?oc=5"
+   "title": "沈伯洋「洋流號」抵終點　小水滴塞爆大湖公園！現場喊破2萬人",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00VUl0cE8wc2doSVh6VTdBOXBBeUprNlJGUEthcTAwZUh4NG13dlB5dUpMMEJHZTRxY0R2QzIzdnU5c3h5WlBDS9IBTEFVX3lxTE9fUGNGVkNJNlpmblFhUGNrVkVYM2xjaUFud2tsck9Sd081YlotNmJieVk1ZW5lVkRlS1RSTnBneDNDVjd4a0VnaUFWTXI?oc=5"
   },
   {
-   "title": "政院明日不副署65歲以上免健保費？卓揆指示衛福部審慎評估- 要聞",
-   "source": "工商時報",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NT3ltTDNJQjNZSU5ROVZINjhNVlRlWUREWTZUVGhCNlI3ZHhEdmZKSEN1UnVxVV9QNTRHN2ZFZXBsQTlaRmc2bGdxZFdVNW5helcyTHp4ZUZxTUZZYU53?oc=5"
+   "title": "老福修法…批立院打亂施政 卓揆又喊協商",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sQ1dHcXFkWE1Mb01HTlQ4Q1N5Y2FVZkNoOVpSWElPaGRXY2JQT2ZFNlNwTXAtUDFka2dKOVdqZF96VktJYUp2V3VzUEFSVEdt0gFWQVVfeXFMTzd2eVdjeHR5RnZQT3pPUEp0SnBHaEpSX3VGMXZsdl9xNGxEeDQwUlcySnBybFVnaVZka0ZQVWx2dlp1UlU1aFdsaUx1MzZZYWtWb09BZ0E?oc=5"
   },
   {
-   "title": "老農津貼調增至1萬5000元也不副署？行政院預告：將合法合憲妥善因應",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQSkpRVjhCeWRuNVo2SURlSWNnblk0d3dUOFZ0eXpwc2FvMlBYWjlFYTFiYURuVko3cG0wX0hwZWdQLV9od1h6OW5JS2V1ay1uWk1ZZGcwLWhBdWUzVzlWblp0TXc0VmZqYUVMRWxtSVE5OURUaVc3d1BiS3VMeTNXcEpHUDg4NG9Bc1FuTHl3d004X3VRVEVnNEYyaVVzRXNlWl93Z2RFUkZhNXZHRUJZTmFTcFpVNU5YYzlSS1RaT2NIcnJoSUZfM2otdFFjNUYyYVNZRk1WUm5FZ2FxN3FUTk1GSHVDUTltWEsxSWJtc1dRVV9vVkk0aFRyWHR0bTNuLUxqUVd3U1pKR2N5T3AwMnNxWDljOGFLVjJxNVZDUmdWWHNqQTZlMU83QktmWEJxMThIel9BVXVVR0duWUp2RGptaU5ld1lpU1l3R1VQb0pPcWZrSWNVblJVVjdQV2N2V29ueFRRWjNTLXdLUGw5Y0R4OVo1TWJnM2xxQ0Z5RGlZU0Z4T2h6cGozODhCNmhtZVhIMGdEUUc1dVVDODR3aQ?oc=5"
+   "title": "媒體人：趙少康就是「國民黨很爛」的縮影 點出3惡習",
+   "source": "壹蘋新聞網",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnZQZzB4RGFpUEM0dGNnZjZEeWpLRF9EWmFMdDllcTZQRkZ5YTFpZGxKUlowYVJOM0lULWRNWkdqckJfQTdGVU9hZk53ZG94VDdtbmNPNlpMb2taMF9fbEV0M3ZpanE3RWIwWlBCTFAzWkltX0dpZmpVX3A3MlgxQWZMVQ?oc=5"
   },
   {
-   "title": "脫口秀大酸蔣萬安 沈伯洋:想要加LINE被問A答B",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQb1FZZ2FBaVdyU292TTRyaUNhQXZHTnpTQ2JhVzl3OGlHZVB1NkgwdXcwTUZWdzQ2Ukdnc1VKaF96OE41VDFhcnJSVEVMNDlaY3dUelAtQ0JBdjVfWDVsWGlobXh4VVIzcC1SUm9hRDE0QnBURk5ESzlMQW9fTWRDWDhlWDQyZGJKT1V2cDQ0ckxaaUNlUGFFd3hMWjgtZTU4TUYzY1JIY244NXVLLTk1ODZWWmJuQVlkQ0pFZ0ZGYjRNUGRQNWJUZ3BXV05lT2RTajNKcDUyZVlDN2pFeHRpOTZNaWZaZ1lmV3FmVW1yWGo1aEYxOXlhSzdhSDZYR2pVNFBhSnVNYVVoVVYtd2J5VmRfbW1fR2s2b0R6OE1tSXR5SHN5b0FCMkpn?oc=5"
+   "title": "中國疑「無聲」軍演學者：避免台灣選前過度施壓致反效果",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUENoenZaaHZhZjB5Z1FJSXgwTUViSE5SUTRkTzFycWk2cURKMDVfVlJadFN4VTRrRWVRQng3UWxCUzd0aWx5WHJJTmh0Y0tVeDVXMV9NOUJWZVdrNzJV?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-07",
- "updated": "08:17"
+ "date": "2026-11-08",
+ "updated": "07:37"
 }
