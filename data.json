@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "21–31°C",
-  "rain": "4%",
+  "temp": "17–26°C",
+  "rain": "0%",
   "umbrella": "不用帶傘",
-  "summary": "大致晴朗"
+  "summary": "多雲時晴"
  },
  "news": [
   {
-   "title": "小水滴覆蓋大湖公園草皮！沈伯洋港湖開講爆棚 網驚喊：雞皮疙瘩",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTmtxTkZoYWpWVHhja1RKWlItb2lqd0UyX0RERVZBM1JIVWVnYXpIR3c2NXRwY0xOR3NOdFpBWjNSUXFPWmhseFR6cGFveXFIVDZoWkhJbmttSEJZRlRUZVhVaEtSZTBHbkHSAW9BVV95cUxOTDZxSDEzOGY5ejFmOFF2SEVBUlNFM09yM0JNRWltWU4xMGh2X3VpcmJUelZqbng3cTdvaWpsZlJWazBPdDJ1RG00SW15SmxidXd1TjRrTU15UVdia2I5MGVEMkxpRXpYSkxybWxMeDA?oc=5"
+   "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TQmJScmRmVEZBRnYxbm9fNUc1Nkx3Wnp2ZFBhYmxYcDVqMlNzQmg3NkRaOVphYUZ5bGUwS0VoN3FlQWx3MmpLLTA2aWJQcTcxNDZlTndzR3BaWV9M0gFiQVVfeXFMTV8wYVpNOHZuTnkzTDV1aXZWeU1ESW1DUXIyOW93SGs3OE55b1RqVGVoMS05RVB5NnBrbVZOcTFYaUFDbHhKeXU1RE9JaDY2XzZ5NmMyNS05bGdCQThOeHpZNEE?oc=5"
   },
   {
-   "title": "11月8日晚起東北季風增強 10日低溫探16度",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pN2RpUXFIU3hBVjRtUTRsSTRuUnNCNTNZdTBaOXE0VkY1ZDcwandaNDRZaHhhcVNUdklJOVhMZVJYYTc2T3BJRFJsSlIxOXBy?oc=5"
-  },
-  {
-   "title": "中國代理船長為「數十萬酬勞」助張俊傑逃亡…收押6人！上囚車畫面曝",
-   "source": "三立新聞",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuU2hVS3hINnF1WUo5cUdjRjF1ZVl0Ym5FTmk4bTBKcm00RUVyVldQbW9mMVVJcVJQa25vWngwYnFXQWxUVXV6StIBTEFVX3lxTFBpRmp6MER4UDhCRGRpNHNmOF9nbGFyaG1LVUpsb3pIcVhERE00UHNhMHRfS2U5R3dST3hMREhTQmhGdUc1ZW5NUVBFV0Q?oc=5"
-  },
-  {
-   "title": "槍聲不斷！穿「軍裝式」服裝槍手隨機攻擊釀6死 波蘭第二大城染血",
+   "title": "入秋最強東北風！北北基宜濕冷15度「近山區更低」 一週天氣懶人包",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNGd4a1V5SU9qSTdRSmNUT3AyMFBXVWhvM3dqdFpNbS1ZakdHQ0ZqVXhCTUdWUHJvSGhSZmUyT2FTdVQ3eGNBVGtSekY0a19mcU15UTRiUHN2cWVWLVdhTmpCVnhCTlpsN1VHYkZqMENINjh6NVJvVm5UaU15Q1c1QlJQTzZ2THdzbVdjM3pSX1ppMmZuX09fejBKUGVnYUV6b3V3ZWVxRkdNMGJLTGo5WFo0MmNBUEVUdG5pb250Zmp6RnVWaVVQRE1jMDNuYndHV1hEd3BOdjJEM1VoQVpPUUphNGRjc1FrdzRWLURMc255cjc3ZVZ6OG9ueFYweWJZOTd1UlhxV1JQcGp5bXlDQ0w1dDM3MWNXMm01dnU5cHhPMkprOURUWFhONGtHYU9tWnZ4Q0RVeDlHSkl4NDFLYzVabFRWbERkVHZuQnNZcHI2MFV0MUxkek1MSHg2cV9rNHVSNldEMkhfVUNxeWlOdlloNUdRMW96cjFtMFNkbW10cDJFeHdTZklfZmxVWW8yNHc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNVENteUdackJqUkxpblVseC14YVZhWGVEWk9KTHdPZ1RhWWNUb0w4LW9WcFA0cFAyWmRTUkYxNWJJZnBFV24yLVo3NUlhMkY2cVpCNk9pN3NTaDhHeF9lNHZSRHdGTUZCMnZhQ2x3MDNqT3U4MExVQVVJTXFEbUJiVkxBV2hCSHFmbzJ6MFdkbFhPY2xwc21XU2NwX1pIQWlQYktIRGRVeHVHZEFxTlYtcGlXcW5leHl4ejZuY0hUTVlVaDNYa2xYbHlNc0Zyc0xDNnZWVnZpOThRX3BPZGhWS1ZCd1lmWnlieGQ3bjlsOW8xaXhOeE91OWdkRmhwT2ZXTFl1QmZJRHlsdDhlbUFqWWpDVTJmUVhiaFpwNzQ3MmFrVUlFZUVodXNUdUh5MzE3RWhjbUhhaC1BemkyRVAtcGY4VXlDdWV6aXFBRm9odlVTSWcyZ0ZNTUNmSTloT0dCQk5JbHFlZE1SLVE1LXNEemhvMlRQWl8zQ2tBelBuY2RVbkdUS0E?oc=5"
   },
   {
-   "title": "老福修法…批立院打亂施政 卓揆又喊協商",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sQ1dHcXFkWE1Mb01HTlQ4Q1N5Y2FVZkNoOVpSWElPaGRXY2JQT2ZFNlNwTXAtUDFka2dKOVdqZF96VktJYUp2V3VzUEFSVEdt0gFWQVVfeXFMTzd2eVdjeHR5RnZQT3pPUEp0SnBHaEpSX3VGMXZsdl9xNGxEeDQwUlcySnBybFVnaVZka0ZQVWx2dlp1UlU1aFdsaUx1MzZZYWtWb09BZ0E?oc=5"
+   "title": "又一村水餃店曝「支持者叫囂讓小孩害怕」　蔣萬安反問：為何其他店家不會如此？",
+   "source": "鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MeFFfVkoxTkxEVUlXeUlZcUdOdFBaUGR5QTFqZWlHR3hjcDFycGMxZEdsaWdCMXB6SWZjdkpUbDljT2F6bEFXSjdtbGF3NFo3VVJoTWJGYnVYdjDSAWBBVV95cUxQM1lSODJNekZvVFZBaU8tdVFFem83LXJPb2sxR0Zuazd1MjZha1NGbEdSV2RmWDRuclBsRUczbWNGaFdpT2g4V1RoU2VRT1c4dHRMdjc4TWE4VVJEY2thZGw?oc=5"
   },
   {
-   "title": "美國擬將伊朗海上封鎖擴大至陸上！成立「鐵門特遣隊」鎖定武器運輸與非法收入",
-   "source": "鉅亨網",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b1lZWF9xcVpEV0VObVR6Q2FpM1g1Q1NRdlJOTXJnOVFYNWFxRk1rcnp2b0ZIWDI0Qkp6SVVfQm4tRUQ0eHpscTF3blY2YUk?oc=5"
+   "title": "柯文哲哽咽向陳佩琪道歉 明年可能入監",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZakNzUmNZNFd3empxMkVYR1J0aS0tbFhtcmJHeGFQQkI3U0JKam9EakpTeC1vQk95TDJkYU5mZEhuOGpuUGtkUnVFUFVKUDBrUFl4U1g4LV9pNi12UFU4dlFzMTFZN0FsUkHSAW9BVV95cUxQeF92eVpHdmp3dDB4dmdVTTRUcmdwZ0M4R1pxWE9CYWZJMm1mQ0lrOFdfckxOYjR1VVBGRC1Ga0IyamIxanFOa3piR2JhbXY5NVlZWWhXUzlQdjJzOXlsQnQyMnZrQmdkRGtpMENMUGM?oc=5"
   },
   {
-   "title": "聯合報社論／民心思變：柯志恩讓高雄悶燒選情燃起大火",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqQW1ibDZUOTI3RU16WHFhdVZRZDJCWnR4Q0E2VFN6di11VXYzYkM4SThCRndsLVZLUmI1UDF5SGg0ck00MnBGWjk0N1hiSUFp0gFWQVVfeXFMT2RYUHJMRkF4VmJHX0F4cFN1VF9Oc0NoYnFaZUpZYXZyUkNpMTBTMmY5ZmVBaVlGcXpxYmktWk51bElnSlBzZnRNT0lIaVZuNjR3c0k4bGc?oc=5"
+   "title": "美股上週蒸發3兆！川普批「美國倒退一大步」 誓言重回戰場",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPTVJ1Z1EwREROcjNIaXZUX043cDIyd3dEM2RWb0QwR2V2ZWNrOEpBZ19NcEJMLXI1cnZNTkNRcndqR243c1Ftbld1dmVJWHgzSDluYUpxLUdkd2VsLS1aSi1hamg2T2RndnhnYVJoUDdNMklmV2VIeGh1V3BMa2o5RTEyY09qWjAyY1dBdkluc3VaOFlvUzBtdkIzaU9SNTh5OWpDT1h3N3FNcW5hbnN6SlpYbnlzU1hJbjBrR2V5cFdxU29aR1pnNy1oNlZNTlBrbXJ2MzlKS3FpNUNGTTh2MW9GUzdDdXdmU0lBUGpmN2FKcFYzZnpRUWZlbFhjbDVQSDNkUXdCTGFLTnpXZm4wVEFqZ1F2Ymx1V2pxVzBYTzRBMy12VVpKTkVjQXBwLXJyWFNPX0JQM2N3TS1MbmZ5N0laY0F6SGFINkJ5d1lDcVhHQm1nZUEySFdPUmpBdjBEbFE?oc=5"
   },
   {
-   "title": "媒體人：趙少康就是「國民黨很爛」的縮影 點出3惡習",
-   "source": "壹蘋新聞網",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnZQZzB4RGFpUEM0dGNnZjZEeWpLRF9EWmFMdDllcTZQRkZ5YTFpZGxKUlowYVJOM0lULWRNWkdqckJfQTdGVU9hZk53ZG94VDdtbmNPNlpMb2taMF9fbEV0M3ZpanE3RWIwWlBCTFAzWkltX0dpZmpVX3A3MlgxQWZMVQ?oc=5"
+   "title": "吃過敏藥沒效！10歲妹腿冒「紅點→大片紫斑」　醫一看急轉診",
+   "source": "ETtoday健康雲",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wQU5pMWhHeW1zMHhHMV93YUJTSUJtYnZVMWg0b1N1SHl4cFNuTzhtYVJHazRiUXR2ZWFIZlUzRlkwX2RXMm5uZ0ZmVnZSZEhs0gFPQVVfeXFMT2Zydmh1allob2FYZHRqYjZrYnhNYjNFZ1JMdERtS0piS09MTkgxS1p6SmZ4M0F4MmFtdVNnRjZBRnNOUHoyR2tJQXJFNTREQQ?oc=5"
+  },
+  {
+   "title": "石舫亘環南土地公宴逐桌拜票 人潮擠滿走道、上菜人員氣炸繞路",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40UnFWYmlnREUzeDQ1dDJ2NnZJSmxoTUFZaWItVE9aZUZVMFlVVllMTk5ZLWtXNnlidHUtSEVHRGhrempjd3R2M1VNZGItdzJwcWZPNXBDM3RGUXo5dmx1bDZjVF9fc1NDY2fSAW9BVV95cUxNVU9TLW9sLWhxbUl1RGpBRndGb09VZ0phUG1veGsxdEwzWXFPRGFOWS15eHZGQ1lmbXJaaUV5cTBHWTd0X1p5cUNYWDE3RzJNUkp6SUZfTjBGZFRQbEJWbzloSDlGNFNkV3JVUVlScDA?oc=5"
+  },
+  {
+   "title": "蘆洲造勢人山人海！蘇巧慧：最後一起衝刺、讓新北「衛星變繁星」",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zb3FpSkhaSFRPMlktREkzeE5pcm5XMm1NMDdNb2Y1MzlwanU2b0Z1LWFWNTRhUWdFaUMzVFJ2UHFfVURfWTFWYXVXQVc3RDdKMENja0FlNGJvZFVhcko1cDZFUlRkRG4teWfSAW9BVV95cUxQd0FrRVE3MmpUcDZVRTllZHVTNVdTbUVzckpEMHB0YllSdTcxeW9IMlh3R0tBMTdpU0pidnRCaVBSQ0lNWXdWS01xNHNYVWk0X2hSbjJvN3ZOQUtDZzdCNFhrc0ZBclppdWdpM0xEbGc?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-08",
- "updated": "07:55"
+ "date": "2026-11-09",
+ "updated": "07:39"
 }
