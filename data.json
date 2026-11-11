@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "14–23°C",
+  "temp": "17–28°C",
   "rain": "0%",
   "umbrella": "不用帶傘",
   "summary": "陰天"
  },
  "news": [
   {
-   "title": "今晨13.1度！今北台偏涼中南部早晚涼 吳德榮：明起氣溫緩升",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BSTNId0Z6SlhyanhEdlN4aHpSNGd1MmNJZ09QYTlwMVNSN1dIVWRmc2Z3bW1FaGlfalZHUURaZ1RYZ1l6LVRiTzVJTWtqZzkz0gFWQVVfeXFMTjhJTXNBS2dvaDFqSUs3WkRsUFFySkFIbzJDYjg4bWd1a2JUR2drVHV1N1NSMmlsX2tCdWlOZjYyYWVGeGxMVjByMXNCTWxyQUdtdGFXQWc?oc=5"
+   "title": "今天大回暖甚至會熱 粉專：下周又迎強冷空氣 恐有感大降溫",
+   "source": "udn",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52cmZmbmU5LWd3b0g0YjJ2VVl3NmREVUotWUpFZE82eWZSaVJaMVZUci1NYzhLVVM0ODJsY2RNSXdIcTkzTDlVWWJoZFJaS192?oc=5"
   },
   {
-   "title": "趙少康嗆聲國民黨 考紀會主委張雅屏搬出「六祖惠能」喊話",
+   "title": "趙少康、蔣萬安助選邱臣遠有沒有違反黨紀？鄭麗文親上火線回應",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSWpfV0N1OGRLcGh5YVBTMEZHOC1EYzZublJtOV9EQkIwQmcwc0RaTHd4bnNCVUltQ1ZvSzk1Nndoa0NvV0F1d3lQT1doSFUzSTRrdFJmbV9WWTJhdWt0Yy1mOHRWRUpTNkRYUGRaZkh2eFBRMV9oR2FLOERQUkVObndHSlZsZG4tU1UxVGVtSGFBUHlCSEwyaE54d1RsQUZEQ28yMS1qZ3hqTnBFc0lzUzBsNzlEc2FxaWo2VnpqRUNUZ24xLWJ2YlNyOW1oN2RHUTFCdlN2VzBaNWRlZ0stSENvZzEwVEJqU2JiVmFqSm1UaWxxWmpGRnpsdllPT1RmbTU5YkhjSXo3cG5EZ1BMSkh3Q2UwUTlFRXI0dHR2Zk4wT1JLWkhIOW12SXAtakNSUFIwZEU5NUktdDNGcHV3Q05GS0E3UmJ6OHVDa3hzQnYtRTUtYTRaSFphUUJBTnZ6NU94cE1UTmlVOHJLbVo0UHhfcWxqZ0lUOHZTX252SDZkemUxNkJEZnFoMS1wekM1cjRWQWdTa0hoZw?oc=5"
+  },
+  {
+   "title": "秦慧珠同框沈伯洋比「3」 鄭麗文提醒分寸：怎可面帶微笑看著沈？",
+   "source": "udn",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ca2RDUl80d1BmOUY3YUtQV2hGNnJNZHZJT1E0TFVhZWdTc2xDNmpGRDZPOEN1cGttZ1NwNTJqSnZuYWtVM0ZrakpEZmVvNFdMWmVR0gFYQVVfeXFMT1c1RFZkMS01SnJWVVY5bDhZcHNMa2Nab0lLNVVRQUpBOHIwZFRTWGhmTEFsOTNNTzhRdThIemhCMFBkazdWMElFZjI2YzRCbXpMcXg1aXJLeg?oc=5"
+  },
+  {
+   "title": "被質疑身高沒有176公分！蔣萬安當場脫鞋了：沒有東西",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBndk9ZSkN6cFhjbk9oTTJaWHVrcjdFdnUwNVcyMXk1djFtWjNrRUEwQ1dtUnJQeFBaMVRYZ2pHT194azJSUXhpY9IBTEFVX3lxTE5uOGp1TzA5VDRBbzZVa0NSd25oTVN1Z1BhQUd4bHl5bEhkaVBIVVd5dDdtb0ZrMFpVS0NNQnhaQS1FNzlENFJfeE96Y3Q?oc=5"
+  },
+  {
+   "title": "蔣萬安2專訪同步率近100％ 對比影片遭酸「見證奇蹟」、一稿萬用",
    "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cHhBby1pNXFJSjR3SWpYTnFHcFNwM0k1ZFhLbUpzUGhuN2t6YXo1dEJMNGxMbWxhcklHZXZQV1hZUHNqZkREODk2QnpSdTVaci1iUm1aN1VDRlRRcHBEMzdZMlRJWEtrWnfSAW9BVV95cUxOUGNmbG41dlhwekFqMmJMOUV2S0w5aG95VnZQM1VHTWlLS04yYWVrUlczM0owTzRQcjJ5TGJXbTBFWVA5elNLenNKRVlQLVdqNzM3QldaSWhWcGdRbTQ0bWpTVFlVZ0R6X25oXzJPeE0?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Q2gzNnF2Y0UzUFVOMzF6d0hySDF2bTBUSEN0OVctVG82U1lWOTc3eEdkVWllblFmYXBmT29SVXBXNVhTTXdGNU9oZEpENFI2Z1VYV1pwb0FwTndFVzRKbUs3c1R5TXlXTHfSAW9BVV95cUxOUEV6OE9ZckZ0WTBBOWZjWExsbi10WXpLaU5iak5iYktLS0N0SlpmTThEUWVnM3lPYXIzQU9CamhFMVhjN0RqUEVaQ2kzTHgyWi02bUplWXRaM3U1ZnVzTUNxWFFUSkpPbmJKYTZTYWs?oc=5"
   },
   {
-   "title": "快訊／國1重大事故！多車追撞傷亡不明 下營系統-麻豆全線封閉",
+   "title": "白議員爆國軍莒光日看沈伯洋影片 國防部澄清：113年4月播出內容與選舉完全無關",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTmwzRDlkdjRpOXlkYXdEWXJDNGNJdEFTeDZwVGVzVlc4OHUtY0hySFNsUTF1dTZudXZMQ3V1ZVpNNzZYVjdyNFFNUVhMbWFrdHlWUXBmdmZ1eDUzNkluZkVPMFdFbzhXQktMUWxja1JxSVMzRkF3VXV4SWFVUGpyOUR3NXB2Z3JMWW5zYlNpUlNYZ1hINTg4aW5PaUlrdUhZbUJFZDUwU0JTc2pqR2wwdzFlWHNZeUp6Q2V5Y1Z0NFhJM2s4N25Xb3E4LXNXQUI5aXB2d2Z1Y2d4aV9CdDNEemlSM3FabjMwX3MyTERZc0VjNXJJN1Z4NFFHYnF4azMxZ3prbmF3V1BJblNSWm51WENJNUpqbDlfUmpwWFV2ZnctSVpzYWFIdXctQm1ZZ0dxeTN3RVdMVFpNMGVoa1p5aDJRUzYzNGFmN3BTYmpTdGJCMlR2SlJsNVk1YXJZWnpnUjBmVFZmbTJrYzJNSXh4c2dsd09JR19TckxoNnZ2dmlsaHNOWmc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOSjlaRkpkZnZySU9vYndQdWNOMG52YUJUMUpkY2pwSjN2RlQwXzRrRkp3bVVBZXJmYW11TFdfQTlPRlFqTXFoTXAyVDdhb0c1ZS1qWXdiamtaRm5RemF6WUlqSS1jV2dRUThpS1o5QVY1ckZHWTU4NDV1V05VSTJnZ3hZdFY1cFdIRGJxYmxncW1JeUdGRHVRTElLY3BZVkFXYV8tRThhVmk2Y2JhNlRjYXB1QmQ1ajBFMkhDSWo1dVZxbDdoQ3hENjR0ejlSNnhrWTBuZlZOWVh2MEVXWTJPWHhpTVZlcVhsbFpoTGpmVXY1T2NyYzlFRFhvXzVWVzBzeG9rU3RZZ2kyQnZEd1BZM0prbXowN2VTTDhkWVEyLW9JWEZNZTFaS182U3FTZFY4cUhsNkpucUtUWnlVNm5TUy1ZeXdaUUJjdjBHQ0VQSF9rbzRoTHBaQmhoRFAxZEpCekFFZlJjb25pNGlkRVZLRllReXJNOVRCV0JGcklyVk9PZ1dyQkVnTXZSWFNjYV9xY0NmejJIT0UxSzZpc2dWNUR4cHc3TDB1bEJJXzZrdDhXcldiMHIxYXlrQUgzdHF4TmUteHBHRU1scmd4WkplWEpuWExVZ09haXlISlZXUHhDQ0IwY2hn?oc=5"
   },
   {
-   "title": "又有大咖被圈粉！他列「沈伯洋4人格特質」表態挺　吸萬人同意讚爆",
-   "source": "三立新聞",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNi0zT0p2NkJxV0kwZGpFRDlaWjUzd09KR0hvLTEyT1RCY0JXTW1iODQ2NjI4eTl6NmR3UWt2YXlqa3J5RGJaUtIBTEFVX3lxTE1uODNKZF9SeXN5bkpLLVRFR2o2YjhDd1FiSTJKQndjSzlVSFlkWGFjZVlNSjRUekpCRzdRVkYwNTZibDVZXy1BeU1JWUg?oc=5"
-  },
-  {
-   "title": "重申不副署！卓榮泰：藉65歲免健保費護選情將惹人民反感",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yMmpha3d6SWQwX01zdUUzSXg3MVBKdDd5VWxzWkwyZG9COWJBQ1E3d0dRd3ZrNVdQXzZHdTNIMjZUZGNXQzhPemlJdC1BaE1UOVdwZXAza29FZnpYem90ekUxNmxOeVhHT0HSAW9BVV95cUxQLWFmMUlHSVJpT1JaLXcyYXNQU05TeTFDaDBoSnFoeFdVazBYRGxLNUd3VGFtdUFlbFJSa1VtTDhYdHZaSzUwV1NvZHdQUTM5eEZyU1RZSmR5SDVFLXlVUDIxbG9UbEM2Si1yNEQ3enM?oc=5"
-  },
-  {
-   "title": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低",
-   "source": "鉅亨網",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZZHNVSldqT2dNQ0VsWU5jSjZCZVFwM0lzaEJPQmtQRzJwY3lYUHhHclhlbUtsSFpkRGRnb1BGVVg4WlEyNXRucDBQRG82cU0?oc=5"
-  },
-  {
-   "title": "從落後21%到差7%！黃世杰急起直追 桃園有望重演鄭文燦式逆轉劇本？",
+   "title": "洋流聲勢浩大卻帶不動傳統3綠區？知名譯者看民進黨1舉動拉警報：隨人顧性命",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQcTJLMGJINUF5blVUR0Y0M0lHVWxZM25Db3Z4VWlqQzlwazA0b1FYdzVKQlJvVWQtX2dOa2lqdGJ0MTJVUGdLYW1FMUxkQkZxQXUyeUFyeVV6RUNUbjBRelpRR2JEZXFHb04tcGJKUHpyNnAyRzRuQkd0OEpUdTZ1SWI0RWd3dlMyem52Q1hIY1JSM0RrcUx5cnpBVXdIcm5kYmxfUWRwSVYtSlJNbzVsOFV4UUNHQUkzU0JOSVVKVFViVW1xRW1DaUpfcXdxbGFpSk5nbERPN3BzTzBUMnFDbkVuc21KQmV2c0JJaTJGRTY4RFJFS2Y3R3lMWEJpRGlGNnpkRnZKM0o4M0l2bDVnc1lFSGd0TkNpdXJ4TURuV05yekRnUU56c0FnSXYxZXIwRzFtVnR3QnFJSTlYdFNRbXY4b3ZycFV2NTNpUmhndGtERE8zaHFvem1UZWNPRmY1SW9RZWRXcUtxRjM3LU0wMjBSZU1pc214RG9nbGZGVzVWMlNQbGhjSm9TNk9CZmxoNkpz?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNLVZFRU9zMG5VNDFIb2pOY1o3eWlGemdPY0tLUVpyRjVqaF95RzJDTHBxdzZZTnViaVJ5MlQxWkhtVFhqYVFHTkJYS3lRd1A0OWtXaGMybGFYd2pDWTVUd19LcXVrUTNadkpac1c1SDBDNU9ubUJ0ck1UV0hobGd5d2MxMnpqNzNzZlRxOUpzbFJpRUhLb2poenV1YllSOUJDUmFVUFByTHJXV2lfckdpVXM0SVhtaHBkNmVzVF80WTFlX2RjSHlTRUJtbXFUbjhkVjl6QnhZNVhrYTVkanVRX2RDMEQyUDdKdHhPb0VpTWNaZnA5SVJjUHNqRXczWjhYMXNaTF96Z09VUGlaWVN3bWJjTnNBdlJTbDRtTUEyVGRxejA0WE9MOVh3c3ZtQzUtejN1MHJaQzh5RkZaZVNDRHBfQUcyRWFGSHB6Vkx5Vy15TzZfU1hGV3BWbFpoQ05ra1M1UVZXTkF2RUtSb1I4c0xUeUVvWUVTRmVKb3N0XzdtYWUwcERIcXozM21GbmlxWmZfVG90QTdMNXB3cDZXVEJvWVllTnhsM0piNUVPYnlFQk1USjVuemZKandUN2pWWmhQakgxR1FQNHRpZmp4VmZGVDZiaV9S?oc=5"
   },
   {
-   "title": "沈伯洋如何殺出重圍？她揭民進黨「提名北市長」內幕：自己人都不看好",
+   "title": "羅大佑「外省人被欺負夠慘」挨轟！陳珊妮昔開酸「陳年宿便未清」網讚爆",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQckZQVWdCeVN3ZWtpZ2tqc0pmVFNFTXNJVWVVN0lDd3I4OUZVRVBkLXZoYUVSdE5RbDJCdmF5TFZvVmgybDk2ZkhiWXJRcHFuNGhYeENGRTBsX0VjVF9pd0Y4TzJ3UVEtLXpVTnJPNGdVM2hGNzR3SlhjdmR2RHpmczJ5d0lNNnVLbk9jZHphcWUzWmI1VzNMOFc4Y1hrYnpqSTdjQWZzeTl6QTRrUnZ3eFVmSXJuMS1LOFFYcEk2MXUxX1ZPSWtoNmdWc25wWm53emIybFFfNEExX2ZlRkVSN0Z2QXBQaG1KbDR1Y3N4NGFFSWlxQlA2QVoxT2Y0NTJVT21LRmI0djYzelRIWVVsQ1c1ejBVWHdKNnU1ckVZRHQxRmhoRk85OXlYZGdIY2RFY0NiSWZEMlFYYV9yRTZOSVcxbnhrcUJVTmFBSXV6Y09qWWZCemFxNE1DZ2pRV0l6cEVvWHBjajRTSm9mLWFmdzFMMG5vVGZnZnFQM3c2NUNDb0JIcnpPcUItT2RWR2pvMXVzUURwbHc3dHMwVXpKZDRQMTRlU2c0?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQTHVhQ2NsQTQ3ZnNwMWhSbGFNcGZZaGJrNGwxMGpoRi0weXA4djJPNllDMlBmOWZ5RE54NDVUa01SQ2Y1V3pnY3pQQlhhR3JmdHZGUnpOVnpTMi1TNW1mZFJrM1Y1M0dHclV2NEpQOUowMHhTNzJJcjlUQWUzRzlNUlhoeUNseUVkLU1ib3lGdktRd3hlb0t2QTc5VlpsbjBUbGFmaXY0bGNTa25rb3gwMWNZXzlCcFBMWlJKYk5Uc3RxTFo2dG1SRzZCTnlmOUthQWw3VVZrWk9JZVdkM1FPbG9yVVo1NnlKNjZIWkZXeG95Y0p2TF80dThjUnR4bEJtX1AyamUtb0JEMlhucEpPZlJWRTVtMUpHYnJwNmRRdEExeHBUWnVTdlFjeElWWm54QUpINVNJU29YTGYyQ183d3NxRzh0cWFXQTZWLUdkckZ1NnVwb29KeEthQXFBclE3Vk9RSWlwcmFiOU9qZUVicTItbWJGTVB0cm5tQTdLYTFNWW9E?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-10",
- "updated": "10:54"
+ "date": "2026-11-11",
+ "updated": "08:36"
 }
