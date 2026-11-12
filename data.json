@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "17–28°C",
+  "temp": "18–29°C",
   "rain": "0%",
   "umbrella": "不用帶傘",
   "summary": "陰天"
  },
  "news": [
   {
-   "title": "今天大回暖甚至會熱 粉專：下周又迎強冷空氣 恐有感大降溫",
+   "title": "羅大佑點名蔡英文、蕭美琴沒生小孩 蔣萬安：不應以此作為判斷標準",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxONlp0alc2MVN0Wm53eks5ZXVMbGo1R2Y3WGFUQ0U1S3VOLTVMR3FoOG96RlgwTTZkSzJIU1lvVFlBYzFLTVB4bEFtV0ZBWkFpTGJCUWYwZXpBUG1RSVAwTlZ4NkhpNF8zVG9FU1EwUkxkWVR1RHdiMXE1a1pvMnZRakxBX2hhRzdrQWt4TjB2MDVFNk5oOEtpVExPOUxHMUFTNktzZVlPUkx5S3I3SlVPUG84dUZmT1JrZnllZTZnSkkzYzFad3ZOck5NUFlKemcwYmxZajJLMlJ0S0RWSTdCeU55Zk1aQ1hmZlJkd2JBQjloRV9HaHZiTWF4ZjBxMlJVWlAtVi1NLTZRV1d1WDB3T3J4UlJDdU9ET0s5Si1ISU14QW5RQTV2NFBYS25RWGtzQVpyaFN0WTR3S05nOFhiTEg2M284UENBZWdtOGVHOU5LcFpLc2NlR3NZNnBBTmdOdlRvNFcwell5RVlRX0txNDVqX3UxaFJRbnVlWkRBbjdXUy13akxrNnltQUNzSEFUaVdTMkZzVmxYc2lkMEc5d1J5TnZpMW8?oc=5"
+  },
+  {
+   "title": "把握回暖好天氣 吳德榮：下周三鋒面+東北季風接力 冷空氣恐持續3天",
    "source": "udn",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52cmZmbmU5LWd3b0g0YjJ2VVl3NmREVUotWUpFZE82eWZSaVJaMVZUci1NYzhLVVM0ODJsY2RNSXdIcTkzTDlVWWJoZFJaS192?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aRzZCdHoxUWJLa3pSV24zTXQ1YXBCNDdZQVNNY0g2cHNSbWVIOVVHdmF2bUI0S0dYeWhpODNtY3NJNTd0WVVjbnRNZDZUenpm?oc=5"
   },
   {
-   "title": "不認國民黨會敗選！鄭麗文沒思考請辭下台",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQc0JBMXpLZmJfcGFYSTdLLU8tRjZULWtfUDJOZXA4Mlc0MXJhQm1MT1AwSHdfSnVWSnhxWVp4Rmo0dHBuWk56YXFnQWwxdG5vT241MzVvWTJYckljR3J5OW9TM1ZEQU44bDBQSXVBSjZyLVVVZFctVXEtMzB6UDBzR2FiWVdURWkyaEwwalR6RWkwUk54eVBwOEI1UmxXbmJzN21aYl9ZWjZickJ6Tm1ILVlwXzhPNnJBNWwwdnFCMm91eWc0QkxwaXlVM0VyUWhhRUR2dnNySlZIUEIteEY4S2xCRTNvT3o5c3hxTjA5Z3pieHJnRDdGRkJwX0RCdXlCblY2aDFjeDZUdTZ4ZjNpX2M4RVR3QzJWT1VqNHA2TF9wZ3Z1c0RPY2lVQVA?oc=5"
+   "title": "藍白攜手…蔣萬安合體白營小雞 誇柯政績",
+   "source": "udn",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Gd2dLckMxUml5cWRVUUJaZDA3amFqMC1UQlc4alRJaFdNSGFhcGVaOERNcDgtMVVrc1BUWGNjdkN4MXhIQmJJcGU4RUYwcDB6T3BF0gFYQVVfeXFMT3dlSnA2eU9BSjRTVjk5cDlsaHJxNUg3OUQ2ZUtqOXVNRUgxMmJpZ0MzcUFrOUYweU53ZkpJSnVlYkhuUFRSRXJtNlBYNE1lem5paE0wb1kzSg?oc=5"
   },
   {
-   "title": "稱沒必要再發動攻擊！ 川普：伊朗戰爭「實際上已結束」",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBob3ZDbGpONG5nNjc2TVdJeTkwYzQ2X1lpUFVXVW1Ub3EzWWE4dzRUUXhYYzdRc3otS0pYTG9iSGxsV0dpTEtoYXdpLWg3aUNMdjFEazF1VVpOdGI1bm54S2Y5UEpEZ9IBa0FVX3lxTE1GTGVOOTU3WkhCblBGTUIwRDZZTEtBODlPcXdUSHNVc1YzUUltOF81SEFRZWtKWW9aV2ZCWk9TaXk1WFlMNUlOSWgtUi1KUi0yV0VoOVlpOVBRMjRqNUNIZEN4elFJUk1ER29n?oc=5"
+   "title": "敗選找戰犯？美國戰爭部長彈劾案受挫，期中選舉後的共和黨內鬥風暴",
+   "source": "轉角國際udn Global",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HanBZc1VDckN3ZXBVc0J3dUFvSFNjSHhNVm42WTJGUFo4TjJ1MkNMdlc3aEdqTVdUckt6MExYN3lLTmNpTmxBanY3cTdyal9FV251ZUpwZkoyVVRieHhYVUkxU1ctUdIBa0FVX3lxTE5lZUhnV25aMmtJZ2I3YmRnZUpzUS1FWU9sZG8yOXN6UXl0R2NWLURicDdVaklwWkhTQURtOW1QMVpYRkl1aWRDYWh3SkJpSFFVQXZqLVhEUWcxMV92d2VkSE1yR0l5NWNON1Jv?oc=5"
   },
   {
-   "title": "白議員爆國軍莒光日看沈伯洋影片 國防部澄清：113年4月播出內容與選舉完全無關",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOSjlaRkpkZnZySU9vYndQdWNOMG52YUJUMUpkY2pwSjN2RlQwXzRrRkp3bVVBZXJmYW11TFdfQTlPRlFqTXFoTXAyVDdhb0c1ZS1qWXdiamtaRm5RemF6WUlqSS1jV2dRUThpS1o5QVY1ckZHWTU4NDV1V05VSTJnZ3hZdFY1cFdIRGJxYmxncW1JeUdGRHVRTElLY3BZVkFXYV8tRThhVmk2Y2JhNlRjYXB1QmQ1ajBFMkhDSWo1dVZxbDdoQ3hENjR0ejlSNnhrWTBuZlZOWVh2MEVXWTJPWHhpTVZlcVhsbFpoTGpmVXY1T2NyYzlFRFhvXzVWVzBzeG9rU3RZZ2kyQnZEd1BZM0prbXowN2VTTDhkWVEyLW9JWEZNZTFaS182U3FTZFY4cUhsNkpucUtUWnlVNm5TUy1ZeXdaUUJjdjBHQ0VQSF9rbzRoTHBaQmhoRFAxZEpCekFFZlJjb25pNGlkRVZLRllReXJNOVRCV0JGcklyVk9PZ1dyQkVnTXZSWFNjYV9xY0NmejJIT0UxSzZpc2dWNUR4cHc3TDB1bEJJXzZrdDhXcldiMHIxYXlrQUgzdHF4TmUteHBHRU1scmd4WkplWEpuWExVZ09haXlISlZXUHhDQ0IwY2hn?oc=5"
+   "title": "俄方公布本輪俄美烏三方會談成果 沒和歐方接觸",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMlpxWEFYX2x5TGhoZm84SmQ3b1l6S0lyckk4TDI2cjhPd3Z6ZVdBWExYYm9oSHFweWRsdWJsRWUwREQ4OGJjbEdwZTlkUEE?oc=5"
   },
   {
-   "title": "快訊》韓國瑜、蔣萬安周五立院同台！ 國民黨團發甲動令、全體藍委合開記者會",
+   "title": "綠高層估選情2／不讓藍白找到動員藉口　綠營選前防失言引爆藍綠對決",
+   "source": "鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TFFpUUNTTmQtcWwzTzg3WXB0ZWxMblF5WmZ3Z29uSmdvZFJwQ0tQTC1iRXNvX0s3UlBZb2pWc2k0cEFjalVEd1hJUE9lX2loUHVYZmFMWFFoREnSAWBBVV95cUxQaWV5Sm8zUnlELXQtZUd5NFQwMEY3Nmd0aFFnY25JZk0ydUR0NDFGQm13SEFabVJraE52OEZzdXdWX3ZUYUIxMFFjQnNLQjcxZkxDM3Y5ZDA1VWpPRURKbE0?oc=5"
+  },
+  {
+   "title": "跟蔣萬安同天請假！沈伯洋宣布12日起請假衝刺選戰：亦步亦趨",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LWkFpai0xcmQ1REpEcGtqV3Q1R1pnZjcxU2NXdk5iN3pBUUtxeTJoSk1vNVdiSFFWMVZNTU9rWE9oNlV5elM2NtIBTEFVX3lxTFBuek1TTmdrZTU4OGlrdDVMc3FsblA3QkRza3VfaVBxVW1FMnNfaWhzRFZQQmhCVUJOZW8teE5LM0g2YlB6TldxQ3E3OHA?oc=5"
+  },
+  {
+   "title": "北市辯論遞延效應發酵凌濤跑場聽民眾討論：沈伯洋沒了- 政治",
    "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkdkxoUXBFN2hoM1U2WW9sS3F3NC04ZTZVYnVPNXNqOVV4U1pOSnBJQUdmODZxTFU3MkszeXU5NWp2N0hwenV2RGczd3JtLWhPSDFFblptSnh4OFI1RklGTkpiVkFCbWZualpMU2h3?oc=5"
-  },
-  {
-   "title": "謝國樑辯論神遊5秒？童子瑋被Cue空氣題傻眼",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQdXAxRE96OEp0TW1rekVoRjc2T1R6Rk9wdEw2cTFkbkpkNmUteXVKYTlrU0YtNW9RTnRqemNnOGNlcmMtNzlwUXV6RFNVVjJLVUNRb1ZGVk9LZ3NMRThNTTdoTXloWW81SVUycVVYU1oxajh6UE1qNmlfeFcwTjNyaVFHeXhlZkJhUnlPdTVSUWEzOGxxdk1YVkJLVGVkdy1TUGRaTWJwa0VvWmdJbFBlQUgyS3Q4YnlYZUsyQ1FkNGl4WUtSRzVXRXZlR3p6TWZuSVdRTXRlOXhmaVVhSGVhS2Zhck9lNTVERlMzLUd4RFN0NDhOOVVYWGtMYjYzem9jZUxHU3NoZTlKTmd0SVhQZ3BZNlV3QnEzRHlRa2w1ZmI0b2FJdFE?oc=5"
-  },
-  {
-   "title": "秦慧珠同框沈伯洋比「3」 鄭麗文提醒分寸：怎可面帶微笑看著沈？",
-   "source": "udn",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ca2RDUl80d1BmOUY3YUtQV2hGNnJNZHZJT1E0TFVhZWdTc2xDNmpGRDZPOEN1cGttZ1NwNTJqSnZuYWtVM0ZrakpEZmVvNFdMWmVR0gFYQVVfeXFMT1c1RFZkMS01SnJWVVY5bDhZcHNMa2Nab0lLNVVRQUpBOHIwZFRTWGhmTEFsOTNNTzhRdThIemhCMFBkazdWMElFZjI2YzRCbXpMcXg1aXJLeg?oc=5"
-  },
-  {
-   "title": "「洋流祭」小水滴應援毛巾秒殺 民眾敲碗沈伯洋再加碼",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN2dTeDZhS3VVX2RyUnZXNEZCSWFKcXl0Y0kxbk5rRHljTFk1YnVFV3VMQWpzSlhiZmQ0SE8yT001dHJ1cld3aEZaOUROOHBHaHJWMEpLM3VjTTNaVzZ1MHlkd1Q5ZEh0WnfSAW9BVV95cUxNOU5ydUVJTjZuZHJ6cG1ZZWF2dkd4NkJVSnhWcUttNDNGRXRacmdZcnBuQS00S28yVU42dnh1WVZMWlROUDc5MjZlY3RyY2FuUk5hMUdSZW93LVFvVVJSbEhEb0FEU19ibGlFYzFnRTg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRno4ek5Mczh3NUlGV2t2N21CV2xpN2V2RDJhVTd6TmtmQnlyWi0tUjVoSVlBZnBjRnpuYlh4dVZQcktSVkRacTFFbF9aVnJCSWhvSzNPajh2SDN6Y21EYko0MG9vQTZJNktuc29n?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-11",
- "updated": "08:52"
+ "date": "2026-11-12",
+ "updated": "09:52"
 }
