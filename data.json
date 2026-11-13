@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "18–29°C",
+  "temp": "20–30°C",
   "rain": "0%",
   "umbrella": "不用帶傘",
   "summary": "陰天"
  },
  "news": [
   {
-   "title": "羅大佑點名蔡英文、蕭美琴沒生小孩 蔣萬安：不應以此作為判斷標準",
+   "title": "明天的天氣/冬衣拿出來！2波冷空氣接力「下探18度」變天雨狂下， 一周天氣一次看",
+   "source": "風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGMzJoU3JsNS1HMU56RUhqbzRDdlpFbDdhR1ZIZ0ZialUxZDc4RVYtZ25HSXVnSGYzZTNNTko4TFY3VW9PRVQzYzVzTVRqT2FR?oc=5"
+  },
+  {
+   "title": "醫挺羅大佑「字字珠璣」轟賈永婕：被洗腦了",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxONlp0alc2MVN0Wm53eks5ZXVMbGo1R2Y3WGFUQ0U1S3VOLTVMR3FoOG96RlgwTTZkSzJIU1lvVFlBYzFLTVB4bEFtV0ZBWkFpTGJCUWYwZXpBUG1RSVAwTlZ4NkhpNF8zVG9FU1EwUkxkWVR1RHdiMXE1a1pvMnZRakxBX2hhRzdrQWt4TjB2MDVFNk5oOEtpVExPOUxHMUFTNktzZVlPUkx5S3I3SlVPUG84dUZmT1JrZnllZTZnSkkzYzFad3ZOck5NUFlKemcwYmxZajJLMlJ0S0RWSTdCeU55Zk1aQ1hmZlJkd2JBQjloRV9HaHZiTWF4ZjBxMlJVWlAtVi1NLTZRV1d1WDB3T3J4UlJDdU9ET0s5Si1ISU14QW5RQTV2NFBYS25RWGtzQVpyaFN0WTR3S05nOFhiTEg2M284UENBZWdtOGVHOU5LcFpLc2NlR3NZNnBBTmdOdlRvNFcwell5RVlRX0txNDVqX3UxaFJRbnVlWkRBbjdXUy13akxrNnltQUNzSEFUaVdTMkZzVmxYc2lkMEc5d1J5TnZpMW8?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMElFdjFVX3I3MXdLUEl1aEZOaFpzcFBkZUhVaUUzRm1oN0JRYW8tN1puUURpMlVnSlluUzFmU2hDUnBmRUFCQlR4ckpPVGptZ0ZycGJRYWd1NTZWQnI4bHl6Y0tRTHNUMlgxcTR5V2hWWjM2ZXAyazdwaU5UYW4wZXhwdUJBVzJST2hidGdtUXBOTndfUzIyUzRLSktwQktYZGZKbnRteG5iRFBiM1gtODFzRzJQcUFMdW1xcWVoQjN5Ymd3QnlsUTFqNU9PZEdJcm54QWJPdzdQV3lZV0hkYU9mOWhua2YxeGhmLXdHYjBPTTk3Yndvc042X2p1b0RzX2RxR0padGpCc0NMbnBrZ2kwdUhHUWd5NldoX1pJYWcyb0E?oc=5"
   },
   {
-   "title": "把握回暖好天氣 吳德榮：下周三鋒面+東北季風接力 冷空氣恐持續3天",
-   "source": "udn",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aRzZCdHoxUWJLa3pSV24zTXQ1YXBCNDdZQVNNY0g2cHNSbWVIOVVHdmF2bUI0S0dYeWhpODNtY3NJNTd0WVVjbnRNZDZUenpm?oc=5"
+   "title": "曝綠六都「坐3望4看5」！黃清龍揭投票「過1門檻」沈伯洋一定當選",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbndHRnhUTHFMNUxaNzVGMk9UZDAxV2J6ODlHejVLNVNhaW9HbzdoMVhaaFlVUVhTUG5FWks0N1RoTG5XWFUyOExNb3pTUDVDdzFvcVNyTkhjMURPYUxHS3duMXgybGFtWmfSAW9BVV95cUxOWGdELTdJcElxRkxfQU8wd3FHdGRuZTdNQ25HYm03Vmc1SVJLZmRUSGhzWDFmVHF6dml3WnQtMThtUHg4Q2xpRFJ3aHBEYkdLWFotbDlSWUx0eTFMck9KUjBXSUR6Z1hTeTZLd3p2dGM?oc=5"
   },
   {
-   "title": "藍白攜手…蔣萬安合體白營小雞 誇柯政績",
-   "source": "udn",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Gd2dLckMxUml5cWRVUUJaZDA3amFqMC1UQlc4alRJaFdNSGFhcGVaOERNcDgtMVVrc1BUWGNjdkN4MXhIQmJJcGU4RUYwcDB6T3BF0gFYQVVfeXFMT3dlSnA2eU9BSjRTVjk5cDlsaHJxNUg3OUQ2ZUtqOXVNRUgxMmJpZ0MzcUFrOUYweU53ZkpJSnVlYkhuUFRSRXJtNlBYNE1lem5paE0wb1kzSg?oc=5"
-  },
-  {
-   "title": "敗選找戰犯？美國戰爭部長彈劾案受挫，期中選舉後的共和黨內鬥風暴",
-   "source": "轉角國際udn Global",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HanBZc1VDckN3ZXBVc0J3dUFvSFNjSHhNVm42WTJGUFo4TjJ1MkNMdlc3aEdqTVdUckt6MExYN3lLTmNpTmxBanY3cTdyal9FV251ZUpwZkoyVVRieHhYVUkxU1ctUdIBa0FVX3lxTE5lZUhnV25aMmtJZ2I3YmRnZUpzUS1FWU9sZG8yOXN6UXl0R2NWLURicDdVaklwWkhTQURtOW1QMVpYRkl1aWRDYWh3SkJpSFFVQXZqLVhEUWcxMV92d2VkSE1yR0l5NWNON1Jv?oc=5"
-  },
-  {
-   "title": "「台八女神」是高雄囡仔！籲鄉親投票「有眼有智」：不走回頭路",
-   "source": "娛樂星聞",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qWXctVnVub3hQbS1ZRjN5UFJvU3pmLXFUSjlQX1dqMDRYNWFvOVlWOGxtc3lqX3JndFBwcGpjTHFwSWdBc0Fhazhn0gFfQVVfeXFMUHhrUkNKNGRKa01XMVVGQzVrSUJmbl95UHBIWk11QUpWRlBoX1NpaFk1YlhQeS13Wi13U190M3JwSV9pUUxFVkdvSWxkV1pSTmthbzBjLUpiTDgxNDZveFE?oc=5"
-  },
-  {
-   "title": "黃仁勳不知黃樂是中國間諜？前CIA官員存疑：「他不可能這麼天真」",
+   "title": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高",
    "source": "鉅亨網",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfdXRIMHJlTnQxXzNURml5RXZ6WVUtcnBHUWVhSDdaZjZLbWk1dmlzRW5GdG9PRGdWOFdicml6clZQMjZNZVZ1VkY3U0x3dnM?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5"
   },
   {
-   "title": "跟蔣萬安同天請假！沈伯洋宣布12日起請假衝刺選戰：亦步亦趨",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LWkFpai0xcmQ1REpEcGtqV3Q1R1pnZjcxU2NXdk5iN3pBUUtxeTJoSk1vNVdiSFFWMVZNTU9rWE9oNlV5elM2NtIBTEFVX3lxTFBuek1TTmdrZTU4OGlrdDVMc3FsblA3QkRza3VfaVBxVW1FMnNfaWhzRFZQQmhCVUJOZW8teE5LM0g2YlB6TldxQ3E3OHA?oc=5"
+   "title": "輝達宣布黃仁勳辭職 財務長克雷斯接任臨時執行長",
+   "source": "公視新聞",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KNFVfYjdxTnpWVkNlLVREMWVwYVJndF9QVGRqMDdIbHVTang3Y01DRmhvbjFzQ2xuV0x6SnpoRkQtVnZHbGdBTlFONk9YeTQ?oc=5"
   },
   {
-   "title": "唐綺陽真的合作沈伯洋！星座運勢登《順報》 網嗨翻：夢幻聯動",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQTGNZUk1lWnlSelYxaEZpQkpwMFNpQUhsNnFrSVVBbzJOWGhrU3BIMUNJVFFTV0xHRThVVWw2a2U0WVFfRm5DQkZjRDZWYTJqMmx2NklCNjBYLXgzN08wQ2taYnBmVG5sSUtyYzFnbVRCZi1hWkNqU3lKSUw5MlF1ZUQ4Mm1sWUd1Qm1HSDhyRi1pQlk5bmxUUGxhOVhrb09Sc2FjaExPOWlJRkJwN2RsVDdLVjR2WU1OTzRUY0oyUmNRaHg0dUtVTkUtYVg2RU9jSFlSZFpVbVZzS3ZHYnl3TTdGcmZOamQyRDhYYjBKM3VaWHhTdm1KcnVvOHQ2emFtRXFJYlp0bXpmb2pNZDBJVE9zVXdlMndyaXpHUXVONk0wOFlYYklLYWZ4dThXR3hnS3hCTFA3RUFUR3N3SXpTeGtLYzRxVVFuZnFZS1VBWFlPOWlEcTNILTlxanI1SXg2aFMwNnhoSmFVZmJkaGpuc2Z2aFlVOFVV?oc=5"
+   "title": "蔣萬安捐1個月薪資 徐巧芯曝總金額22萬：分別捐給3社福團體",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xUHQwTjZ0QjdPMWJncDQtVk41VHJXZTNKUTVCZWNpdWFfNzZheEdkNEY3dTBtZkE0RHhXNF9CckoxNkNNQTM4NGV1eVlyQnJrZjln0gFYQVVfeXFMTXJ6WklycHFWUGxTdXJsdmtabVp1MC1OMVViX3BLZVFDcVlFU2UxdHIyRHY1cmlZMTlXR19mVk1DdXZadG94NV9FZ1FwWk4wYlpIdnBSaDRUMw?oc=5"
+  },
+  {
+   "title": "陪黃世杰掃街出狂言稱「張善政選到一半中風」 莊瑞雄道歉：虛心檢討",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucEhPN3BSaG9UZkVDUHIwS2NwdGpkbk11cl9FTUlJNGFzbFF6bG9leG5FZzY1SjhtSm5ZaFhSTG5NbjJnUFJCb3M3ZGVMaHVpbG4w0gFYQVVfeXFMTUdWclNhZmlGZm0tQnhSNG5LdGhsWklrSXFpXzVCanhTM0tuaVVZYlBIcEJYQWF1ZFUyQk0xT0hQZU1XN01LRWtuVU92VmVOdjlLaXhmZnpjcQ?oc=5"
+  },
+  {
+   "title": "石舫亘曾在髮廊兼差粉專驚「低調到沒人發現」網再爆暖舉- 政治",
+   "source": "中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NMFc1YWdaR0FXYUhGSGFlSkg1NGJTbkFHMm5LTjdwSS1WeGJhODVnRGhXZ3JHQ1U5LVhyZVYxWDJucGtjMUF6M0IyeHQ4Vm44bTJGVkg5eWZuZlExTnZsZldwdEtoTXAxeFlJanBR?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-12",
- "updated": "09:59"
+ "date": "2026-11-13",
+ "updated": "09:00"
 }
