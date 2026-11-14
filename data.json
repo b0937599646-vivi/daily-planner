@@ -1,25 +1,15 @@
 {
  "weather": {
-  "temp": "20–30°C",
-  "rain": "0%",
-  "umbrella": "不用帶傘",
-  "summary": "陰天"
+  "temp": "20–29°C",
+  "rain": "100%",
+  "umbrella": "要帶傘",
+  "summary": "陣雨"
  },
  "news": [
-  {
-   "title": "政見會激烈交鋒！李四川反殺連連 幾乎不看稿",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNZ1ItcWw2c0oxTkc0d280U1dMNTh4UnI4RzVuS1ZtMHJLUWFRQVlhUXZxWEVuTFVmSGpQVDFyVlRGbkwzb2tEOERndlhtaE5hZV9v0gFYQVVfeXFMT0tFUkJkdWZLUmtzc2NkeW10T0tzZjZCME9BWE5ac2tXWmJnWWZiOHlvaTg5MXYxSlR3LXllenhrNEwzMUE2VHhoYlV6ZjBrT05rZGhtT1lXTw?oc=5"
-  },
   {
    "title": "美聯邦航空總署下令「全美航班暫停起飛」",
    "source": "鉅亨網",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMTZyUEtwS1VpWTFZcmdXLXoycFRGanhPYkZYbnZZNFFSNWVjVmFxU0pMclI3RXd4Q0VsQl9fVEpqdVhJRWN5dGdQbjkxVWM?oc=5"
-  },
-  {
-   "title": "今晨關西16.4度！午後變天炸雷雨 2波東北季風接力、下週低溫恐探12度",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNalJCUVdobE9GR2E1dDVjZUFmOUk1NVRuVURoNksxQjNvcHljNzBrTUFXdlNhTWtyT0lQRklBbWVSTGxSNkZQOEc0U3R0SW5KM0NkNzNGWGNrd01BVWZDR0VZVWt5QnI4dEV5OTJlbmVXOGxDaV92OFNOX3JDcGwxZjhUTDhaTVNSZktRN2J2LXJaOERWSFkzaWE0M3gxcWNsT1VZVXJBTmpXRm5ycGpVcUl0UW5BR1lCVkNTVDFQM1p4el9laGpCN0dkUkVpZXczM2d1S2VKM3A2YVRpVHlPN0tuZ01XUXY1d05xZXhvRV81WkxUYzNEQWUtb2RHWWpVOWxOWTJTWXlGWWFVM3A4cHAzR3lvemVSb1FZTG5mTU9tc2RVLTlxTVl6Nlk4RGxTTjUtcTN4MEgzZVF3aVhTdGh1UU9weEpvZTBHVkZvMWVGVEsyVHJrZ3hLUUNla1dLVmpXNnFLc0RqLUUtUEVmdWhKczRadGFiUUp3TGd6NUpyOV9WUDEtTlNlbjB1WWphSDVOTjRaZ0o?oc=5"
   },
   {
    "title": "9合1選舉倒數 彰化縣近月已4名候選人辭世",
@@ -27,29 +17,37 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFdko2VUwzc1BmazROUmRWZlN5RTVvTDZTb2RvLWNHMjZlRWlMRFhoQjl6b0ZrUmpYd09mNXFiem5icXBHLVFtUm1KZUh1ZGpZRHFyTHB2RE5LVnBmSUN2V2JDbG9ydngteXfSAW9BVV95cUxPVTgtdlpLS3NWSHBhZ0g0dTdZVXl6WlROazBBZ0pSUVFGMUFzSndXOURUemR5ZG5nS3lkOFpBblZmR2t5cTNEZ29QUzBzbDA5TmhfX1dMR0lvUzZCUmVoMFd6UVVISWtWNjczYTZDUnc?oc=5"
   },
   {
+   "title": "下午2時後全台變天 賈新興點名苗栗至嘉義+澎湖 恐較大雷雨伴隨強陣風",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KOW9LcG9FRWl3RGtCOEV3dEtXamxfaG1iYkZCV1pCbUxYSHFfYkR5bnliTVdpcTkxTGV1bnFSal9oZ19xd1BXSjFKSDBqQ0960gFWQVVfeXFMT1FXZTZubVZmRW9IMi1lMnl1TF9XYVhTZm1jQ3hDZUVEVjVKQ0FEMkxZenZwSzZBU2xfa2RhQkViek9DaHlJN1RHVE5TLUhuejhNbUlVaUE?oc=5"
+  },
+  {
+   "title": "黃仁勳辭職、輝達總部會生變？蔣萬安回立院合體韓國瑜、痛批賴清德傲慢…藍營拚安心大遊行催票",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNb2lMRWpCS2FSSGZhZ28ySG1NNm04SHkyQnVJeS1xbTZFTlM0MzFKVUY3Slo5QmlyNmlYOFlzam9YWmdwenRDWV9nbm55alRmOHVWOFpOZUVvRlVtV0l2YWZqYTY3bFBWSTVfR1hmTmlpOFF3c2llZ1RHMHdmYXdaTDV2VGdTZEdfS1ludGVlRG1VNlZ1TF9pVFE2NlJBbkZBbHJ1Q3gyNkx2SkEyVU9zXzZtOU9HaFgxd0ZJT3hSVHR0Um1pcjA3YTloVkY5ZngxNmNvV1d3dEhFQnd5MlBKeEwwd0dxV1BaVVdweHJlWXRwcVdLT2YzcDRGVkh5R3NJOE9SdDlyWEU2ZFZBa3duNlBPejhveWpoSGJoQldKRzNGazUwT3VMUEt1c3ptQUNfaEJnQjNWRkFvMjdaSi1naGR1aE4tUkNTRTFRa2VXMUs0SU9ZdTJqczJnQWhRdi1kc2p0cTZCZE5RLXRHSklGVHIzUUhqZjVROFEwWjdCaW1pa3VQTmo5Mlg2Sno3aE9rdjFHNjV1VXBMb3ZsenFyV29ycnBuZkp4YXB4WEQ0THQtamVqQURLakdnWUlxSXdjOVVQNV9zYlJnYlV1eHB3MXJ3dVdYdHJoYWh4eXhqc1FrZG1CRnNUa2JWY1NoNVZ3YnlnWnZmTXgtaFNxcHgwMHhlY0NVX3B0ZW1DQnZoRkV6dXpiNjlmQmRQTF8zTms1eVQxd0xGdWh0OUZRWnFPSExXbGJfbHI1?oc=5"
+  },
+  {
    "title": "桃園掀洋流了！沈伯洋、黃世杰車掃「真實人潮曝」　民眾喊：洋杰進市府",
    "source": "三立新聞網SETN.com",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHYXY5VDhOaWcyZ2hYX1lfRnFlenFLQTB0TS1GZ05YWm95LV9ILUQ4dXBsN0owdFJMZGpRNklyNmdTUDU0aGNoZNIBTEFVX3lxTFBCT3FLQUJiaUU1ZVZpRHZ2QzhMV18wc285NUEzM0xRTXB5N0daWG9CcEtHbmNFWmhsdmxRQnIzYTVmd3VXR194dVA1NXA?oc=5"
   },
   {
-   "title": "蔣萬安「回娘家」宣傳遊行！翁曉玲沒出現、韓國瑜沒喊口號",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZY1ZvdTdoYkpaekZ3T21Ya0VPREtuaUpIa2Y3V3BPZUZpT3RmLXcyaU9Kb1pwaTZmZVAyVi01LWZZcFVoNThaTtIBTEFVX3lxTE43SHBCT3lqbjZMQnB1cDJKQzBqUXRrX0dxdjY5TVdUNHRJb3RPUHlPQzFfSGI2TDJUaTlPcWh4LUNLbEVvejlNOHpoZ0Y?oc=5"
-  },
-  {
-   "title": "二度回應羅大佑！蔡英文：沒孩子不會改變「照顧下一代的心」",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiSHZBSU84RE1RRGlpZk9LdXVfODZkZ2MxVlktNE5GWGNSOG5jczZLQ3ZOR3A3Z1hzTVBoNEtRZjBrR3g1VDBZbtIBTEFVX3lxTE9aZkwtX0dJcGdiQm5DWm1XYTFfNXdiYmJLRmZkaDZCWU5zTjJqYjNEQnpuWWEzTkZ5ejNLcUp5UmtKNDF4Ym5tUkFHWkk?oc=5"
+   "title": "政見會激烈交鋒！李四川反殺連連 幾乎不看稿",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNZ1ItcWw2c0oxTkc0d280U1dMNTh4UnI4RzVuS1ZtMHJLUWFRQVlhUXZxWEVuTFVmSGpQVDFyVlRGbkwzb2tEOERndlhtaE5hZV9v0gFYQVVfeXFMT0tFUkJkdWZLUmtzc2NkeW10T0tzZjZCME9BWE5ac2tXWmJnWWZiOHlvaTg5MXYxSlR3LXllenhrNEwzMUE2VHhoYlV6ZjBrT05rZGhtT1lXTw?oc=5"
   },
   {
    "title": "投票率超7成沈伯洋就能贏？國民黨前發言人「1招獻藍營」酸：別投票就贏",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPN2dVcHJCWnBZbk5MZ3hadkhJSDNWZHNRQUo1UEZDMWFsR20yeE92OTN6aXVnVTJrd0dONnpDdmFUN1pPZVE1OGFSbnFyNEx6T3JRRDUyc0hWTlZMaEFBeVloZm1ReGk5NFNuLVBXNk8wcTUyc3Z1NmJjUW5aNW9Xd216TVJIRElqcVBQZE95TGlVYVJMX00tUC1Sd1kyMVNTZ01OS3pKUjNVblVHcFEtd3dZUHVtdURua1VxNXYyTklESU1uMTRVSDF5aHFRSE1icnNubFBSVFpDdUs3cDdWUUhpdXVSOGZBZ3E5TGJfNlpEVjBLM2dqaWRJcFF6SHZXVUlQY0phelVnTi04M1dZU3JuVC12Rl9Xd3Y5NGxsNmtSWWZHSHpIQWJ0azRaUVA0Yi12dkIxODBNMEhkekRMbGg3eFdVajVXdFhRZFBETGpvNFptUnNlUUJyWk9qQU5JR0ZsY2FXYVltTzZuYTdybFBJTDVfXzRCYVFlcGtvaUphMGNDc1oxUF9WaW5vODVzNzhkaG0xNXJLRkpUSHl1TGxQeHl1aXFaNjRv?oc=5"
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LR2Q0dldNemVveFU2Qzl3bVdLcm9iekV5cFdzcWpCVGlqSzNBaWY2SU96bnRVbHlOaTY3dXdEdWNWYmVOaHc1a9IBTEFVX3lxTE5YVUk1Ul94LTVaSnE5MjBGc3Q1ZElQcER3bTZCZjByREFrRWpMUUlSUHpEVDFGMVUweUdwQnNvd19icTF0NXVyV080QXo?oc=5"
+  },
+  {
+   "title": "張善政許願開「楊梅吐氣店」被黃世杰PO照打臉 網酸：多不熟桃園",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVkpHVWFhNUxJWm5ZYXJYQlRYR2ZNellSQ0lER0tqMDJjNGRmMi1Bc2FUNnlXY25qXzJaOWRkLUVuQ0hfc0tLNkdrYTI3YlBOZWVPbEg3d05sb1F1c0JYMUVYZTRrMlpsdEHSAW9BVV95cUxNVzBkcTlGU1JIUXU2QlNIOVZCUXNJU0ttblhKZVZKV3p4TEhtek81N2lvOU4xekQ5QkdNbGRzYTFnc0E3bGRqR2ZsV0hpU3NPeW1rd2VYUV8wbG54YmxFU0FjQ0FHX2FscG80cTR4Y2c?oc=5"
   }
  ],
- "errors": [
-  "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "date": "2026-11-14",
- "updated": "08:51"
+ "updated": "09:00"
 }
