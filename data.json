@@ -1,15 +1,35 @@
 {
  "weather": {
-  "temp": "21–28°C",
+  "temp": "21–27°C",
   "rain": "93%",
   "umbrella": "要帶傘",
   "summary": "毛毛雨"
  },
  "news": [
   {
-   "title": "明天天氣不穩定 鋒面通過影響 西半部防較大雨勢",
+   "title": "遭抹黑到東發號用餐不付錢 蔣萬安競辦火速提告許淑華",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNUUpnYTBlY2djWDVjSEpWcFhWdG1BRDJUOF9EZW5OMS0wYi1oWFl6Q0hYbDlvUHItWUpVT2t4TG1Fd0FJSTBON0syQmtOUHR6RXRn0gFYQVVfeXFMT3JJTG9qMFVmeVNuUGtacVJ3NjNubjIwT1FEWnV3ek5DOHI0eXdXM0I2U0EyOEJvaWJrNXZFSm1ENDhWZFh2TDZ4d0Vza2hOaTNtV2VFazFmUw?oc=5"
+  },
+  {
+   "title": "蔡康永發文談陪伴「在一切還沒太遲時珍惜」！5萬人淚：真正的振聾發聵",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxONE55UlpzcTl6dmExbmxlUUtKakF5MDNQUXVOSGppSkdOSEVrbkxHYmJFNTNSYk1iUjBqanRqUXZpYjEtYWNpamVVTjBjTUNJYzVCNGNhNUJ6WHRkTWxsRjVXS0JmLVpza1NUamRoQUgxQmtFa2d6akZxeGJvSzlUSmxHQ2xzVUFseVAwNDlZXy13Wl9LV0UxNTdWZWVwN1JyV1ZHcm1feGYtVXNROTQ1ZnBvTFp2TEhXMmRkbG9IcWJUc0dhSzJXSGlRYzNKbXB0YlAyOWd6bHRDNXZIS18wRU00U0ZsQlJNLTRZZksxWlZRWUk2WVVxWVpMV0J1bmw1a3JrZi1kS0xTNndzTy1ONUQ4dWo5TVFGOFUtcTZacURfT3VfQ0VaT1ZveDlURE9qVXlxQU5OX0FPUFNTS2RUeTdhTEdiUEF6ZE0xQW9WaG81dw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQLXlMb0s0V0VtZlQzMWY2S1VUZE5HQjNqS0xFSGxNbGNtdE9yaE9vcFhUOGtRdHEzdmMycnRnZHJXLXR0VDBXeWZ3WFFsbWtyT3ViWThJaWN0bTgxX1EyeDdCYmVFdkdKODZSTlpMYmwtM1hEdkFsYmE4WVZYUU81MFhvVTVvM2RIS01rcXBHbUhpTm1jeWJQZUFmZTYwektkU2VQa1FfWElFV2haZktaRFoxSklFYzJhYzhIdHhJMzNJZEpHaWx4WFFja1ZIMW83UTBIckJBVERkRFZ1dEhQb2M3T2FFLVRJaVdIYUU3Szg4aEE4c3U2TllLR3dUX1hsMjN4Zk5XOWtrZ09Zcm1xMmNMVkR0MVhfTkwyMFhNVVJjYjdxNWdhSTM0LTQ1MThKNExhTE5wQzJLeEVSYWFwMy1La3FHSUUwdkw5M2FvY2pNbHVqZkxsRVR3LW1lUm5RY0tyOC1aTWJraW9HcU5aUVM1V2NJOVpqSVotNVhvZ1gzSjZ1TkVZS0tjT2o3TGVjMmVRcFgzeE04UThJOWc?oc=5"
+  },
+  {
+   "title": "聯合報黑白集／川伯反殺，完勝公主",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Z2l4WWp3YWVIRGdNNUVXcmotWGRkRWdYN0pwUVRIOE9NUUpyMFJBNmdDWXBrUVNRcGo3SW5IcnFlN2xESUNpUGdRRWViRnp30gFWQVVfeXFMT0dxdDM2YWRtdjlLR1o1dGtjYXYxdWEwYy1BZEdfSlJKUmJtUGZVZ3dFU1I1aFMtbERHY1NXYVBsZHNjVndDUTIxMFdlU3N2ekFvWklvU1E?oc=5"
+  },
+  {
+   "title": "澤倫斯基：美方提出烏克蘭撤出頓巴斯換取加入北約",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VT1dpbVFfQjZGVkRvbnFvOEthTVN4MWVlbTVFaEdlT0M3ZlZ4QjdwOWNtOE51UHU1NkJ2blVtVlF2NmR0cWxpZV9UYi1DdUgtM1NFelp5YWgwR2JIcklr?oc=5"
+  },
+  {
+   "title": "北市政見會金句連發！唐新民轟沈伯洋是外星人特務　本尊幽默1句神回",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aVFZDazBVTDJBc0VMWllOeDVfVk4zZVlKcnhjQWFLczhId3JhOVVlcHF2dTNyMU1OMzUtajMyQXctMnVGdlUwc9IBTEFVX3lxTE5rbk9TSG85VVJvVHEtZ3psQlN2aGlIdk5IRnVJWjJyQzZJd0I3UEJaWEs4Wm01RzBIMGtLRWtPa1dURGZhdEVZcEZDV3M?oc=5"
   },
   {
    "title": "沈伯洋衝擊李四川選情？最新「新北洋流民調」曝光 林濁水驚呼：差了15個百分點",
@@ -17,37 +37,17 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93RGU4T1o4ZW5wVHhiOHJWWld1eWNBcEZBQm5zdDBMZjZPNmRNN09PVVpqSGRLdWtPSDBaa1BVM1RTcWxnWXhmRlBBdmhOQQ?oc=5"
   },
   {
-   "title": "川普重大宣布！",
-   "source": "東森新聞",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEbDF2UTZaRUl5eXNvZmtvSTYzVC1nNlNFTjNLcEVnbXNGVTJfTTgxSUY4THc0cWFxNTlDVDhRRHBTek1JRGxKYWZzTU05V24wN3M0?oc=5"
-  },
-  {
-   "title": "遭抹黑到東發號用餐不付錢 蔣萬安競辦火速提告許淑華",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNUUpnYTBlY2djWDVjSEpWcFhWdG1BRDJUOF9EZW5OMS0wYi1oWFl6Q0hYbDlvUHItWUpVT2t4TG1Fd0FJSTBON0syQmtOUHR6RXRn0gFYQVVfeXFMT3JJTG9qMFVmeVNuUGtacVJ3NjNubjIwT1FEWnV3ek5DOHI0eXdXM0I2U0EyOEJvaWJrNXZFSm1ENDhWZFh2TDZ4d0Vza2hOaTNtV2VFazFmUw?oc=5"
-  },
-  {
-   "title": "藍催選票討厭民進黨化身最大反對黨",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VRnB1ejhiLWlzUERtNDFhR0U4VnN4alNnaE9LNmlmOGhvU2ZpNFFuRDdnR1FIMnpnXzk5MUNwQUljQThUMFNCNUJqMnVHalZBRzVuY1F0TDA?oc=5"
-  },
-  {
-   "title": "美解除航班暫停起飛令全美逾4700航班取消、1萬航班延誤",
-   "source": "中央社 CNA",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQdU1VbkdqNGp5RDA2dG84QWlJd3V3bGtTMkliQ0JhRUpDaFZ6dFplY1BVUDlyUGZCYUg4WTFlSTdneXZCSTl5SVdyME9ncG9qX3NBV3BpZVdNWUpDUUNN?oc=5"
-  },
-  {
    "title": "蔣萬安安心大遊行過馬路人潮超驚人 大青天白日旗重現街頭",
    "source": "UDN",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uMml4ckRsenNlZXhrbEQ5MW1ZX2hwRFJSUElYZkp0dmVTNlR0c1ZRNHF1ME1MMW9NV3RYbG4zN2ZXTjVyWlUya1BGSXktQmVSajhv0gFYQVVfeXFMTmRMV3VyZTNsRUtvWXZLaVRrZFdCT2t3N2RNTGV3TXVFNjY3SW8xRkhiSy1ySDdySUhlbENuaF8zR1hoR3ZheXEzYXU2ZTI2dm44THM1YnV2YQ?oc=5"
   },
   {
-   "title": "洋流祭彩蛋！網友拜福德宮參巧遇沈伯洋 揭感動內幕",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NZEVXQTVlM3Q3M25WeGowUzlsQ1JSRmlMaWpPUzgxS3NIVGRJbzB2QndkYWUzR0dTTldvRDJGVUR5b0U4dEJaMnJGd01Kc2lRc2UzT0RSclhLVGw5SnZVS2laTUk1am1OVXfSAW9BVV95cUxNYW5oVUI3TzlabEhVTElwcjJwLTk3LTIyaVBWZUdXZExwb0xNT2JoWEM0YWdrRUl5QU44bFJWZ1ZGNWxIRFFFbnM5QzlqNHNpdVpCZWk5azd4NU1xS0o2b2dvbWlhS2IzRUo4VUJLWjg?oc=5"
+   "title": "1萬人參與！沈伯洋曝洋流祭「辦在228公園」目的：一起創造歷史",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jdzlBelNZSVB0SWFtY2l1SjRhM3N1aE9QZHpONUQwRWhrUlZRczJRdV9HT0tmbkJwMHBRX29zeXZXeExwZ2U1U9IBTEFVX3lxTE4zYndZR2xxWTM0UnYwYzE5ZXhIU1NHeGctMDlKQU9tSmpKbkcwcE94Q3NZZ0wzWnFJSUhZckZjN0NpNlY1c0sxNXhRa3I?oc=5"
   }
  ],
  "errors": [],
  "date": "2026-11-15",
- "updated": "07:51"
+ "updated": "08:13"
 }
