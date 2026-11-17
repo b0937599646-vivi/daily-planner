@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "20–28°C",
-  "rain": "49%",
-  "umbrella": "可帶備用傘",
-  "summary": "陣雨"
+  "temp": "19–28°C",
+  "rain": "25%",
+  "umbrella": "不用帶傘",
+  "summary": "毛毛雨"
  },
  "news": [
   {
-   "title": "陪沈伯洋車掃超嗨！網揪陳其邁手上應援牌「1細節」：有梗有聲音",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DTXdHNi1UdDd1YUV0aFlBbnYyVEhicFotN0dvZGNVS1ZsVTZkbk5LUW5NNWxyVmFHa3lzNzNHb2Y5U09xUFplMNIBTEFVX3lxTE42SC1TUElCTmdlQkNVY1FFdnRoTEpDbFc5UVNJM1hHX3pjcHcxeFI4eTY1SUN3aGlQM3FkVFQzTmd1Y3Q2UTRBcW5LajE?oc=5"
-  },
-  {
-   "title": "入秋最強冷空氣！低溫下探13度 是否達標「大陸冷氣團」看台北數據",
+   "title": "低溫11度！首波大陸冷氣團最快周五來襲 溫差達10度、高山恐下雪",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qWDhjZXR1MVRLbVR6X2RIMUQtLUJtYi0wV1JqSUJOYk9WMXg5M3drUVRJeGd3d20ybEJzSkVaYzBkaDVwWXd4N1FuQ3E5clFs0gFWQVVfeXFMTVFKc0NONHljcjA2RGlCUWF0Mnk5dko0eVY5c29veE1vR3dEUXBoa3JMd3UzV3lmVDBreGtLNEtsZDJLdGhwbE9lRU9xcmtnMk9uaU01OFE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14Mk16Q2lOdktDWUQycTlGVEZYMEl3dExMRjEwRHNGbEx2SDFWazVZdE94LW9QNDZoNm5hWFZRRVlCbnktTGQ3N0xhb0lFRnNR0gFWQVVfeXFMTlVqSklBMmZmcjI5WHBpdGpMNmgwcm5ZVmdkMll1M0U3TDRrRnpSempBSE9KUEx3MkdiYmpHWWZacVcwUFVFaHdRWkxuT1VxbXF1ODloeEE?oc=5"
   },
   {
-   "title": "蘇巧慧斷牙補起來了 見支持者直呼「整叢好好」、「美嗎」",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNd2ZRdlJVbnBzc3ZMYkRmR0xjV1hHRlRKQVVKMUh3N25ObDAtWEwyWUFaQkR3aVVsMkFBU0NWOWJUUDNybXFReTRXT0JHNHBkMlZSTE1kdkFPSWZrWXRRdmxVM2JSMW82QVhyWTNHQjlVOUN3MDF6cHhqRnFsMHN1ekRJcW1tdl9JTW9ndUdqdlBUREIzNERaNTlOZnVZVjBKRFRhcnMwVDNzcUtnXy1ocmo0SGg3MXoxSGFjYzBTM01WZy1hU1pnbWNDSV80LTVvQ2hxWHhweWZFY3I5SWFBNURiN0dNRDdseXU4OXJsekw0YXZwN0t5YkhMR25yZVVBZHRkUG5sd0NxUlJjOWRWS1hhcUNZYlB1MUVlejM3LWhsWU9YSFZPVVRES1FDQ0FjbF9BRXlGV01iMV9oNVZOU1J6UFNiLVl1clVQVzUxdDFEVUtEeFpmSTltczdfQXhJ?oc=5"
-  },
-  {
-   "title": "快訊／造謠沈伯洋「跟女性上摩鐵」　女網友被檢調約談認罪了",
-   "source": "ETtoday新聞雲",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HaXZTeHVjbXpyQTVlQjlLNGJKX1dMQk5IZFI3WkhseEhSSG9uaDJNajJSckxWa0hWeVBVWjZRalk5LXItSTFxbFFMTHRJUWFoaW5EaHpGcWRtRVE4dHfSAUtBVV95cUxNWVQyMC1UVWNrS1hsWFRTdGlVdmlpcEhxRkFsTmZRV0R5WlRKeXRrQnNCNFJZV3g2Z3VpU0xLdTZLNDBBSUZjdVh3TEk?oc=5"
-  },
-  {
-   "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
+   "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
    "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qZS0tZm1XMk14RDJGNHZ0UnNBdlRYNW96cVgwTWo5b0JUNXotbm5uTW9sN3JzOVRLd252QmExMFdycTFVX3ZxNW1JQzdObERtLW9QYWV3dXF2S1ZvSURNZ1RPMHItalXSAWxBVV95cUxNRnZ3anhXQ0VCUjF5ODFQdXdZSkEyWkJ6T2hiMVhlY0NZUHlDMzhxTHgwNi1TUDU3V182TURkY1liTEZCOFQtMERZRnJKTVlTb3NEZkFoU3Z3emJKVDd2cXcxdkFlb2hUT1V6LU4?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EY2JkTzI5SFFOOVo0V3FXSTFoRkJZUmFia1I1OExnc2ZhSmtBVjdNem5Fa2wzeEpxYWtIa2s1T1Y3R25vSHBaVVQxUUN4OWhkbkk2YTlzd1lOdUJSNTVMMERkVk9BTknSAWxBVV95cUxOQTdIVEEtV0ZfWDdlSDhkay1LVWFieVpXbUFtM3F5YkhlQ2dfcExDUzl0NG8yRFRKeGltX2JFb1Q1NllTUVBiZDJUSk1TWGgtODFIMzBmVUloVFl2QTZkUjMzejV4bTlTZWFHUkY?oc=5"
   },
   {
-   "title": "少了黃仁勳台鏈準備涼掉？二三線料商恐鬆動CPO亦成擔憂對象- 日報",
-   "source": "工商時報",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tM3FSOHhIdDVTTm41WnhINzFJV3FmbGxrSlNVRjF1bUpiekRjSHp6bTFncmtiX01FSmhSang5bEwyRUp6YUxTMlpfT0Jac2pEV2ZGSjdFYzNaX3NoN2ZR?oc=5"
-  },
-  {
-   "title": "陸空大戰 蔣萬安：網軍操作過頭「物極必反」",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zTFZkNWtJMXlpdkRxSnZlZzZuV1psLVVKVkQwU2JlQ2hGUFNIekNUSzE1c2NTT3c3bmNJd3dwbW9Jb3ZCazVEekUzRmFVMlR1TjhR0gFYQVVfeXFMUGx3MXlCSF9HUmctUE9DLUZSNVVxTHc3TE1aUm1xU211VXR6eGZhS2NjUmhpOU9wcFV1MHFTcDYyMENzOU5MOHJFb0Z0eWlLWkhjUmhNTDJCRg?oc=5"
-  },
-  {
-   "title": "總統級送禮來了！賴清德送「水滴寶劍」親讚沈伯洋：台北市長不二人選",
+   "title": "松山機場遷建虛晃一招？選舉公報竟隻字未提　周軒驚：蔣萬安說謊、騙票",
    "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LUlpaQ1lYeFZBbTBScVBFVHlZVmowUlQxOHRVbDBlTFB1MElqblRjUHVKS0tMZDh4TGh4UVN1Rks5ajJ3MWFIZdIBTEFVX3lxTE53SHZ4VjNROHAyYS1wcTY1Q0tmS3d4d2FOTnFNM21paWE5Tk9sLVBTNi1fb2VfaThzSjhBUHNXTzg3OEJ0dmU5MEp3T1U?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SQVh0bzVEOTMyVlBnMk01NVBYZDRvdTZKb2NlYURrLVM3UVMyNWd0dHRzTzFyNTdSR25uUDFkS2VxNDMyYl90UdIBTEFVX3lxTE8zQUg5RjRTMTk3Qzd1NTZhVTZGd29kTHFZRlp3TmtNc0p4TjQ4Z0xPRzJfMWxSSldqS0ZuQUFibjcyYkJKWU5SQWJtV1Y?oc=5"
+  },
+  {
+   "title": "科技業力挺 台北101外牆今晚點燈聲援黃仁勳",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QT2U3d2Rlb3lqWjFlZlVEUFJlODNEakdEZkZnQzIzNTZFUExVdGhabkRhN3hUeFYxaEp0OGpvYW9VLVJtVUszMWg0VlVrQ2gx0gFWQVVfeXFMTTF3RmJtNnVMR0FmY1REYWpLY2MxUjIxZjFjSk5xZHFPSzFNSXUwNVFuUjFzQU14Zy05RXNyb2pINy0wTnNzdFVnb0ZDclRxeXI4S2M4Mnc?oc=5"
+  },
+  {
+   "title": "行政院鬆一口氣！藍營吹「普發2萬」 選前炒不起來",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yakpCN1E0NDBnVFYxaDFZUW9MelFQLUxCbFp4VHp1X2RhY0pKV053RXZJV1dqZzZFZWN4cU95QUxpQ3BpSDVIalNXMWo4RlVfaDViZTA3cnV3RmFhd3NFVlcxbUU4Y2pvYnfSAW9BVV95cUxOSFpsZEU1d0FRbklFbVRDV1BOZlBmU3JZTFhVR1llWmJaY3lRcmpsSG9BcWMzRjJhMWVjb2tBWEU3VXRUWXltZWFPWUc2YUl4YmVkTlBBSmw1UmxhOURpSFZHUzE3elM2WHJJalg5NWM?oc=5"
+  },
+  {
+   "title": "北市封關民調55波激烈肉搏！她揭「勝負3萬票」：沈伯洋最後一搏4大關鍵",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wLUNCcm9RdjVpcTRVQVVhSkVMckQyNGhJWXpzLWlYMnA0M3E3UnlhX09sMWxtSHZONFdsX2hiejh4QmlIV2NXM9IBTEFVX3lxTE5nQ0dFUW9rdV8ta0tPdXdMZmFmbS1kSURSWE5hSWNKWGd2Y2FEM0VpQUV3Yzc5QzVnYnhudDF0OXFJWDQ3M2VJMXk1d0I?oc=5"
+  },
+  {
+   "title": "蔣萬安反對翡翠水庫設光電板 卓榮泰批政治操作：找不到松機資料？",
+   "source": "udn",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TVWZrQ3VrMS1HX2pqNEtGUi1KdDlYcVgzcHBSQXRKOW1PMzQ3Qi13b01pUWdMSzhZRUl3bXpaR2hVVC04bU9KajB2UTI5WldI0gFWQVVfeXFMT3UxeWN4cGdnR1I2ZVZjMGVEWW9PWGpZdzgyTmxGdjczZUZfZkUwSDQxVFpLd2x6czNrQ3NCTGVUSFdVeVJBaU5Gc3JpNWhBS01ZWDBJOHc?oc=5"
+  },
+  {
+   "title": "高雄市長最新民調落後19.2％ 柯志恩回應了",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RFNZUExiVm1jaENVVnFLQTVYRmVUMTlld3NSZmIydlRHRXdWdGtzR1pXTXUxQkdzV1FzVW1fa2FZeU1ZbVllT2VYbWFiVS1jcC1wenpWM01teF96SlpsdWFNcVVDdzNYbWfSAW9BVV95cUxNeU54SjlDdTJuazFuS3o0LWRscUpwZE9DSzczYlZvNHU0QVctZFFEal9WVjZpai1RTldxVEowMDFURmRISDd5UmwyOGJsWVpncE5yb2dXX1cwUkQ5S01PQnJGSXpMekNzdHpFaC00RVk?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-16",
- "updated": "08:20"
+ "date": "2026-11-17",
+ "updated": "10:53"
 }
