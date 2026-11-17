@@ -47,7 +47,9 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RFNZUExiVm1jaENVVnFLQTVYRmVUMTlld3NSZmIydlRHRXdWdGtzR1pXTXUxQkdzV1FzVW1fa2FZeU1ZbVllT2VYbWFiVS1jcC1wenpWM01teF96SlpsdWFNcVVDdzNYbWfSAW9BVV95cUxNeU54SjlDdTJuazFuS3o0LWRscUpwZE9DSzczYlZvNHU0QVctZFFEal9WVjZpai1RTldxVEowMDFURmRISDd5UmwyOGJsWVpncE5yb2dXX1cwUkQ5S01PQnJGSXpMekNzdHpFaC00RVk?oc=5"
   }
  ],
- "errors": [],
+ "errors": [
+  "news: HTTP Error 429: Too Many Requests"
+ ],
  "date": "2026-11-17",
- "updated": "10:53"
+ "updated": "11:07"
 }
