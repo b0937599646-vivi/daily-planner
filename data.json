@@ -1,20 +1,15 @@
 {
  "weather": {
-  "temp": "19–28°C",
-  "rain": "25%",
-  "umbrella": "不用帶傘",
+  "temp": "17–27°C",
+  "rain": "31%",
+  "umbrella": "可帶備用傘",
   "summary": "毛毛雨"
  },
  "news": [
   {
-   "title": "台股上漲450點！「這檔」被輝達點名 開盤秒漲停",
+   "title": "輝達救全村？「黃仁勳概念股」景碩一度漲停、日月光京元電飆逾5% 廣達台達電翻黑",
    "source": "Yahoo股市",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQlc1czFySEVoaFlyZVZHYUF1cEdyQy11UlcxQm9rUm1VYTNsb2dQbDZJZ0w0TUkwaHFfajZmT0xiWGNkam9QZzk1TlVRM2lpOUZ6cndLYW4xTlBqeHA0VGlkMGNfUVJJakpORldNLWJWZEdiaWFjYjdTS3BOekxXY1NDcWphcTBkMDFWTUNJVmlRcjJqR2NYNFJvRFNsV1BGazVScEFkLTF0b2NkZDhKOFhjOGQ5WHR0OFI0cU1Pa2hnVjRKNFZOTkhIRXRfM2czVlozSFdDOXlfTUNfMlFubzRoX29WYW1FcUhhWHFNV0huWmJDZFFsdzc4SXlrVXB3aWduRHppM3hkMnZpTHU1VW1XTklFU1k4cUZ4Tmt3MlpKOXhEMllQQ0JCU2h6RG8?oc=5"
-  },
-  {
-   "title": "冷氣團要來了？ 今天中午變天 氣象署：先濕涼後轉乾冷至少凍到周日晨",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rRWFLN3hIUEVTYzRJNEhianFMblI5N1BHV0JrY1ZuYzJqcVRUX0ZlYzFrMWZWOERKcHFYREhscHVsOExkR0UyenZmaEpfSVBF0gFWQVVfeXFMTmRCX2s0X0hjclY4eGpvLUhKN0pXR1hDa3ZBazJRN3Y0eWQyX0dHR1pvS2dOS094Z2d2bVlYYmh3enBnR19fb1FqeVBicEhQVDV2N29zLXc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQemptUTU2em9zUXQ0WGNqNF9Sd0EyRi1KSTlTWnJ6cXQzRkpwRW80UG51Q1JFaFR2bkN0aWkwRk9XSW8yQ1NkZHpiV2lVN3FnTHowN3QwaWh4ekVabC00QUp1cGlSNkNielFia1dGVHc4Q1hPUERWVko1ZEMzLVZDbERkN1ViMjZvMms1U3RwdVhVMEprWVQ0RGdYOVM0bGY3UmpidjVpZlJXa0hYR0ZqZzVneXhBWS1sZVNoQ1pjWk81aEdUNk9PdHdKbGdtaGxzR0ZGRmVZaDdOZ21DWlNWdHBTSkZBZGxzTFFEWWtIY2dPbXBhMzR3MC1Nbk9ST2pXNVk4VXl6ekNXUW9vOEF0YVBxTUtRSU1rVkFlZzVTa2R4cVItaVpnM0pmU2lxMGxGdWdXVFYtYjRrY2lYZlVaOFJOMjY3YndySGlHU2ZfeUEteHZkNGJVa3dHMGJHUmgtaWd3OXo5LTJhR1lDMUl1MnhwTXV5bzZqZmU3OXJxaFFPNWl5T1pZZ3hYMUNVRE5RV1RKMUFHQkVvVHlxc25HZnp3U2hIb0RtMjBjaEw0UGlOcVJ2WUpFT0Vfd3pJT0lZamhSMTZWSmZkSVVSNXZqZjNBNVpkZ1BFMFdURnhweXpWZXJLOVFic0o3djFpYm4zZ0lhclREYjNlNUMxellJU0JhYWwtNW5HZjlvUDd3?oc=5"
   },
   {
    "title": "堂妹王鴻嬪公開喊「拒投蔣萬安」　王鴻薇：有把握將她這張票拉過來",
@@ -22,34 +17,37 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kOF9sZDdGMlNRUUFJRVFmUnpHbVNTOGhlLWhCQy0tT3M1Z1dFMl90ZVI2V3VqZVl4UEMxQzhscmJEWTdDQTh3RNIBTEFVX3lxTFBfZlNMREpPSHJGbGhxaWQzbEd3cnBENGZEVTVLS2FUUFdDeElxeFdSalhQY3NGdnNMTEhXMGlub20yemE3NWk0eXB4NGY?oc=5"
   },
   {
+   "title": "竟開著競選宣傳車當車手！台中里長候選人王名賜遭羈押",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQRFhqLUZUVVBLNVlITEJTVERRWWVrdTEyb1NDMGFfNDRWMVl3dW5qbmxMT2M1MWlfaE9WM1R6VzRlQy16WEU3R0dUcEdnZUphRHJqajk4OHFNUEdBYXBFQWVKS2p4VllCeHMxcjRFcUlXanhWR19TV25YdnltOEZPTTdUS1AwMC1oU29XQWJrQ2R5QmtmeEF3c21WZGNzOTJ0aENXRUZ4OGlGTFlmdC1jaUlkVC01bHd4SGxSSEcxYUctNXc0UFRTVnRTdE1KZ3Q1XzJTdFNWRXJMVC10RVpDdXJ0YkkyeFRhb1llMWdBOTdTVTRGUGRmaVpUZENJSTJPWGd5a1ZpemtqYmVESzhCQmxKOUVzT3ZHN3FEUjBFTHlVMi0xcFlkOE15bEF0YWFKT09iS2hhdEYza3g5WWV2X202dGVmVDI2dXhYVDBBSkxnQTNHT2xyV2c4dlJmLUFUSlNvX29oeFJsSW5zcXl0S0hRbHc?oc=5"
+  },
+  {
+   "title": "冷氣團要來了？ 今天中午變天 氣象署：先濕涼後轉乾冷至少凍到周日晨",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rRWFLN3hIUEVTYzRJNEhianFMblI5N1BHV0JrY1ZuYzJqcVRUX0ZlYzFrMWZWOERKcHFYREhscHVsOExkR0UyenZmaEpfSVBF0gFWQVVfeXFMTmRCX2s0X0hjclY4eGpvLUhKN0pXR1hDa3ZBazJRN3Y0eWQyX0dHR1pvS2dOS094Z2d2bVlYYmh3enBnR19fb1FqeVBicEhQVDV2N29zLXc?oc=5"
+  },
+  {
+   "title": "快訊／和秦慧珠回不去了！蔣萬安掃街全程0互動冷回2句話",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82MTBSd19BUUV0ZHlQWmxpR3VCdXdDYk1FWFMteS16QXdfekM2NV9nd0k2TzgyeW5JWl8wNXY1c25YeXFFYl81dWtkREY?oc=5"
+  },
+  {
    "title": "蔣萬安打假議題 經部去年早已澄清翡水設光電沒效益",
    "source": "自由財經",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WeWdZUmNYejM5N1lFNGtWMTM4MkRhM2RyT3Bpa3Y3alZHdWRtUlhmRmhhem13NUdjWEVsZkswQWhSUkJpZzJKcUJzWjhxQXdaVUY3bTRfdGtROXl5Qkg00gFkQVVfeXFMTmQ0c0NQQU9ZZ0RuMzhtZ1RKTktNeDhwM3h6YmtMeEdTWkpwNGZvbndETW5LQ3pDZ29lVlZyYTFDLVAxanYyWnhOMVpoMTJudXMwb0pEdW82WEZlWmlmNTV0amdzWA?oc=5"
   },
   {
-   "title": "不滿黃暐瀚質疑蔣萬安選舉公報　藍議員諷：哥要舔綠，還要裝就矯情了",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RVGZwQk1Fem9jMmNUNkhuMXZadUg2V2F6R0dFWWVXMUJpLVNRU0x3MEtWZkEybXE5VGVvaGlOLUdUVk9mbUNiUNIBTEFVX3lxTFBucF9PRFRhSXNQQTNCVHRKdi1nVG5rSnp5UzNlSW51b3lUWkx1RE9zNlBGUDlXUUIzS2J5MmRucEdfZkNTamEzTXh2aTc?oc=5"
+   "title": "今日（11/17）重點新聞！普發1萬「改發消費券」？政院回應了／70歲長輩一條件政府發「每月1500元交通補助」／勞工第3筆退休金「每年多拿8萬」",
+   "source": "風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tMF9lWlRiQnp0LU8wdW5xbm5HTjVNM3Z6b042aDUtVkl2c2EtSHVtVE5xR3c4RUVoT2JmWmk5ODJvMF84bEs3U3o0MzlkRGct?oc=5"
   },
   {
-   "title": "黃仁勳辭職後首發聲 若符合公司利益 願回鍋CEO",
-   "source": "工商時報",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdGRSTlB5Q09aaXFRTkZsaVlPbEdQNWxHY2hFVFJjU2VwMDVxdGJ2SFFQVF85NVhGSllmVVIycWFHTjFnbktfVEk1RDRaREdtcVJYTHd2MU5CRGE1U2Vr?oc=5"
-  },
-  {
-   "title": "跑行程尿太急3／眷村女婿張啟楷路邊忘情解手　違反一規定可開罰",
-   "source": "鏡週刊Mirror Media",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QZWdsUXk5ZUViUnYxQ0tGSmlRT0ZPbTR6ODlXREZvRHh3UGhweGE3QXRPbmdwYzR3SGg0M3pzYzRTeVB3MFJFTjJ5c2p0alFrVnJiS3lTTXpVMXpmU05OdTA1Q2puZ9IBa0FVX3lxTE01WlRTMXpOUTBSUnpPRHZmdmY5Ul9LZVBDd0Myb3FscHN2aVV0RTcwdk9aVXR3Rm5jWTVUc0o0MHBQNU1leXEzNkZwa1BYdkpIQTNpOUlKcVNQb1EzUk15ZnRsQ0l1T0ctY0tF?oc=5"
-  },
-  {
-   "title": "當面向沈伯洋坦言「曾不喜歡你」！愛莉莎莎曝邀專訪原因被讚爆",
+   "title": "沈伯洋再破圈！肯定柯文哲「這政策」 直呼蔣萬安「完全比不上」",
    "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JZ2V0dEg4R21DRHpuUk5Sdk95ZzdnTi1LQVFRRlN2V25IZDE5Qi1FNEFGUU9HUlBtWU0zbU5LYUplbE9LeWFpeHlDdnhJWmt5UTFIQzZ5bUZqME9iZXJiM1pvMUpmWTdqOXfSAW9BVV95cUxPbEthdTU0aG90Wmk3Y3Q5cGZLNWN6RDh2VzZ3SGxnTEN6cFdhUzhGNnM3Z0QwZjVUMjZCaXl1UjdsUXJJNGRCRmQ4WHlXLVJ6S2JRWUw5QkZ2enRfNVp3SkdaM25uNnVBR1UwZU56UUk?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsN3lJUmRsNHNXWFJGZUh4a2NTVHR0NEhsR3Y3RGRxeDZKeXZaUWVwQl82bmhLaDRneTBseHp4UWVqdzVHLXpQMkNLZDc1dGR6MG9yNG5sQUVfMG1ZOWtHVDNuWDFDZlNUNFHSAW9BVV95cUxQcnFDS0Ywa2Jxa3ZfM2dldEZfUU5VUmJUZVVmSmg4VkctZHd1TGFScEtja1RVeG5SRXA3MUo2elJFSzNxc25DLXZVc0hvTlNJaS1CNVUySmNHdEdTLTZITHdCOFRHRWJ3a2ktMl95SUk?oc=5"
   }
  ],
- "errors": [
-  "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "date": "2026-11-18",
- "updated": "10:22"
+ "updated": "10:34"
 }
