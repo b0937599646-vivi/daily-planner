@@ -1,55 +1,53 @@
 {
  "weather": {
-  "temp": "17–27°C",
-  "rain": "31%",
-  "umbrella": "可帶備用傘",
+  "temp": "14–18°C",
+  "rain": "27%",
+  "umbrella": "不用帶傘",
   "summary": "毛毛雨"
  },
  "news": [
   {
-   "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2RWlQeS1FeFY0akdXRE5zNU93TTZXVGZtaE5hZXBsUGZfdEJ5VGtKQVdaQ0N1LVgwZFduWTc4Y2FjbGF1cVlnN29KNXRCQVhPcjFaQmFXU3lQanAteGJYc3ZNYklRZ2PSAWxBVV95cUxQMzVxMHBqOUNXbGZEVnU0SGpaWk9teEl3aGFQNDVWbkJndVI5U3RnaFhMMjZNajVBdHhDTDdQcmM2N3AxSGRsZjd5NEhiOHM5elkxRk9vU1I1VUhZVF8zcXhpQXJWclZweXlPaUI?oc=5"
-  },
-  {
-   "title": "冷空氣發威 全台氣溫大跳水下探15度 今晚高山有望降雪",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MeUtwZm40NW1BaWVWZExFZVRUZVVrZ0dvak5nVVhkM3hTdTZDWWo3OURZTDN6LXpIM1NZWlhlNjdnRndvVGNyOUFsLTVZVXVW0gFWQVVfeXFMTmY2MEM5WlZlWWFuYTlPcm5YRHBqdHZ4SVlieW50aUFhbXYyMUV3dExLb2NFY1dQZU02N21JQThMbVB5akxjLWdBVXFTV19QU2xSVDNxMGc?oc=5"
-  },
-  {
-   "title": "蔣萬安自稱「堅決擋下光電板」TVBS主持人傻眼翻公文打臉：到底在盧什麼",
-   "source": "Newtalk新聞",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zbEhjVjFNR0xtTnRBTHNBbFZfWDJRTTlyejJZMEdFTHVhRnNNY1BRNTI2MUliV3I2eThWWXNiRnlNOTJPeXBqLUF5bVVTdVF6dDRYZ3UwZEJDRE0?oc=5"
-  },
-  {
-   "title": "APEC現場》習近平、施振榮握手了！領袖晚宴台灣坐最後排美國高層與我官員攀談",
-   "source": "風傳媒",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNkpndDkzNGpGRGk0ei1KSmpuc0tDZzVXMmZSVEM3NFhyS3dmdXM0dlJjNThYZUFFOFZkcGFhcXg0WU0wQXZFbDdXOS1qUQ?oc=5"
-  },
-  {
-   "title": "陳亭妃提告中天 檢警火速偵辦！謝龍介：若司法成側翼國家隊將受全民撻伐",
+   "title": "直擊／BTS謝高雄「為我們變成紫色」！他不忘夜市1美食：羨慕你們住在這",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNVHpodWc1ZHphdXJ0TDR2aVRCZ2hvVlJyN3JaQ3FaWUFjOEhtYVdlQTRSQkdweUI5djlFTW1oSDVqWmlLb3ZMNzY5dnZVaGV3SG9XQ25CTXpnVUpKNFZnc2xJOG5uMlY4bWRiYkxoUjJRVHVLZ2xwUTFDVnNZUjdwYk5yQUctMkpZTDF0N3UxTEZqNV9OY3diY3haUTE2OGYyU1c3elVLVFU5c25OVVQ3eEw2eUtYenAyVTVFS2NSRnJKeVVVQjVvYkxLT21nTE9kcjRaVkJCaDhQbU9rUlF0eVRYTHdVWW10NlFNUEM5MkRlVjdwbGtRRnNlZVdWVER1N0o4eVZGRnltcmdRenptWFpCOEs4SUoyUTlMLWZkcUZKOVJJMWhkdU5xdy1MN0l3Y0NsRlRSeHlDNWUtZjZWbEplSEEyWHRsRmRyQWhscHp4aHJtSko4ZWtFV0FTeVRKc2ZMcDh6MmtRb3RrUVVRZnIxSFpmUjFqOGpJZ0VFNzJoeWNJaGxVTmYtWW0wR0ZXaGtVV2F0SnZpQ2VERU0xa3pwa3NLaXBCV1AxRHNEb1p2bXFUYmxhaTZtWjZ5YVJkMGFqbE5LSklHcUU?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNdzdPNVhLV2RXak9GUWRlMG9tbXJHcXN2YkhUbWhJbzJCenBpY0xNa2prZmFMVnpRVnNGcVJPNkJaRGp3Z3ZtclVwc3doZWRxQUVmRHVybVpYakRtR3V1Rld2dnpqRGIyczFkTFVZdzVrS1lmX1lvblg5RHpHampUVjBQWnFkREF1YVpsaXN1OHFrQVVZcVZFR1ZVYWhzdmMyZ29GZ3JXeFV6NkdmdkFtTFVwdmN2WDZGazVUVkptblRoN1JCX3luaGFCQ3ZXU1BlY3JQWG1oMWU5WHl1QXE5dmZ6ZXVQOE11eWM3cVpNOTdSUVBkdThYUDRNaWVvVkwtZ2F0WHFhMkZBQVZzY2JFaDhKaDlrbTkwZjF2V1ZzTklESlotUEplVFp3Y3BHWWNkS3BadXVydFo1bWcycC15TkVDRVNhNFZodDQ5VFV2NXRRX2lHMXlTZ2FHYlgxTDI3RlhlOHY3bF9SMGdhdmdxVDFiYUk1OTBoV1NKYUtSN3MtNThHcGY3WVlmYlprVkYwTndIbnhn?oc=5"
   },
   {
-   "title": "小草選票支持誰？柯文哲：投不投給蔣萬安還不知道 但絕不會投沈伯洋",
+   "title": "影／許淑華指控蔣萬安團隊吃霸王餐挨告 北檢今早約談到案",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmSDFyRjVERFNCN2Y5STcxYVlGem1MNGJFbjBnOVZrN0FhYjdnckxDNDctVDIxZmJVbVY3c0pDbTdnZktYbEpBc25TY0Q3bFoyNmJF0gFYQVVfeXFMT1I3UzJCRFpjOEFTN1g0UVJlWmF1NFVkMHJxX1pRSmdlVW4wUGIwMG9KSlpYd0Z6T3pIZkFFek5Rd0wzMFhibk1ERHhmdGJhXzJpMHN5TFh0SA?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1taGlESnpOczFvWWJvRGpUT3RrQjBSN0toV1U2ZEVkUUxmeVI5TDhSRlA2NjNDdzM2c3dKcGNIMzdreU1EYkdGd0JkWUNlREVx0gFWQVVfeXFMTk9CU3JDVXZCLVJ6Y0J0SmpfY2NoNXJYRFYxNnlKblRiRERlN0FoM3Q4QnZwYUUzTUVod2YwZ05hYkVwRlZvU09aUHJlbjBHazBncEtKTnc?oc=5"
   },
   {
-   "title": "張啓楷掃街又出事！「當街尿尿」爭議還在燒戰車倒車扯落店家遮雨棚",
-   "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWlY3YTloUVU5bTVILVFSWnBXSGsxZEpMQnc3NWNEMm9aMVgzekJqRU85Zmt5b0JBbzNfMFRERkdNX2RaR3VlQw?oc=5"
+   "title": "才表態力挺沈伯洋！公關女王曬合照揭「最打動她的地方」喊：我們的市長",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQUHNPZUkxTmhUajZfNUg1MnpWd0xjcG1wb0U5Nk9CYmFDNEl5bVYtWkpkTnQ5VjZuSDNORUhBZDA3VjJTNWZSMHNkZW5CU1FGdWNRUGZfV3V6M0xDRUI2U1RiS1N4UFNEcERXcUpsSlZGbFdIakkxTkU5ZGpYZmtSWDdVUmNkczhhNXBBMjZXQ1JwM1hqT21fWTBmajNVcmFyT0lQaHR0MWVpMF96NkFiMWozZU00Z1BqUHFBZmhGdUFqcktpcUx1aDA5M29aVjU5RnBvdzB1U0QxcUxoZThNZUZpM0tMcW9QM3EyRnZSTmQ3LUtYYm1NbllqbHZ6ZDd6cnYzcEJVcDl5NWtlcW5sMGRHMU1MUEtsWDZPZUpQelgxRzVyRmJfZXJYQngwMGdzbHpYQmM0UEFvSXVLNlYzQ1hHX0ZPejMySVYxNHp5T0UzTEs1bjlpU25neGR4Mks0WG1RRldoSGZlYmZ5UFdUZ2FDWGNlQVdWTm9SdzZHaDJTQ1JYc1hkNkx2THVzcFBXbi0wanJqOVBIWE1fZkdoaUpaU1NmNTZnNnlXYmZHVVdCMUZy?oc=5"
   },
   {
-   "title": "蔡英文前男友爆是康乃爾數學博士　交大任教遇山難",
-   "source": "ETtoday新聞雲",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5U2I0UTFDeTlpN2ZiaWMtUVBLN3k4OWdvcVFqNkZFemNZNHh5WW5JY3hfYkJhVWItRmFPLXNCUEJjeWp1Ti11Zk9ybnJFakdVTUlOM1pCelBwVnpDUUHSAUtBVV95cUxNRzN5REhqMlNVdVhSRWstN3dnemVhWHc2VU5nZkZSTmpJNktWYzYyMU51amRSNGdVa05Temx4dE1KRHRqV2FuZlNqRTg?oc=5"
+   "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSDcxSS1fUlBjWGcwV2NKemtQMWNicjFLTkkwV1Z5R2VsdlNwRExqd0p6TmxUVWhmNVlmcmhObnBXV000b0V0blp0VUl0S3VOUVBCOW02azV1dlA5MnBBa2xGQ1FJTDDSAWxBVV95cUxPLXFkMmVFdG1RTUNMYm9qa0VydDhZQWhiMDg2dWxNZmNpMnpOOFQ4RnQ2ZE9uM2JhdXVkV3Z4dFBDUHlDME5hb1I1cERPVkhyclZyd2ZyMTNzRDBXcDdnVFZ0a1ZEV1I3Ymo0WXI?oc=5"
+  },
+  {
+   "title": "烏山頭光電賴給馬英九 黃偉哲認錯：把研議看成核准",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43a2xySkl1bUp2aklXdDNpUDdRMElPVzJoak1TWnFaRm1UaEVvaVh1aFpKeS1uQXBxNndwZkZoeXJ1TVozekU1b1p0dDI4bVlWRFdJ0gFYQVVfeXFMTUhZaGNwcTJiSFRHOWpnbTkxNjZfN2JSZFMxS0lMWU9iV3VCdGxuQ2hvNkV1Ukc1VVluSFpLYi12LURlR1d4endOanduOGh5YmNtb2tWTTZhMw?oc=5"
+  },
+  {
+   "title": "造謠故宮設光電板！經部還原普查公文：「文資」一律排除 籲蔡詩萍勿扭曲事實",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YNEJDWEZYel9yQklCVVhYQkx5QVRQMG5LaVpRMkNRdDlyMEJ1SUlVOTUwakFyUURkVzVpZnNNV2ctWEgxX2R4QTFBbzdGMWh6d1JDVU56SDFlR0wxOVVZ0gFkQVVfeXFMTW4za3E1RzVueUptY2xISGpaMnNfZEphbkhtWEJ0TjhjNkVWTTZab0c0N0g1ZlZhVDM5czBUQWFCSnVDTWQ1OVByTlNaaFRkalpMS3dQTnF1cUhMWW4tVEV1b0ZUcg?oc=5"
+  },
+  {
+   "title": "今晨下探13.6度！冷氣團來襲今越晚越冷 下週東北季風再增強",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UTmVXMmRIVDFqeEdyVmNGR2xmUUo2UUtGelNBX1I2WGFfOFU1WnhRYmR0TEFPS0gzTzVZRlFoUEhacDFDeUQwSXVIaDYzV21ha291WkVVd0pIMEFfXzZyNG0ySTjSAWpBVV95cUxNc21fZlQxLTBkY2RyeU1aQWtubHZ6Sm1MbTFPZHdPVmRKQ2NmZzJzZzgteF95RXlQTlo5N3hUemlxQ3NXU29Selc0VnRCSFUzRE40RlhEaXRFeVg4T0V4V05TbTFfellreEd3?oc=5"
+  },
+  {
+   "title": "柯文哲怒敲手鐐要支持者拒投沈伯洋！白營元老吐槽「一句大實話」",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EX1UyNzF0MVFDMzB0T3l3dXJJcHJ5WHcxR2tacGsyXzVfV1haNzNLX3R0RjdESVI5d1RBUGNjSkJpai1uYjlzc9IBTEFVX3lxTE9QYVVCNVpDZTNGX3lTNkVWRXdMSDNKbVdxTHBxTG5mUVJ4NWZpcGxjNGZpd1lnZVpic0VNNjZGNWNvby15UktQY1lidUk?oc=5"
   }
  ],
- "errors": [
-  "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
- "date": "2026-11-19",
- "updated": "09:58"
+ "errors": [],
+ "date": "2026-11-20",
+ "updated": "09:44"
 }
