@@ -1,30 +1,30 @@
 {
  "weather": {
-  "temp": "14–18°C",
-  "rain": "27%",
-  "umbrella": "不用帶傘",
+  "temp": "13–22°C",
+  "rain": "79%",
+  "umbrella": "要帶傘",
   "summary": "毛毛雨"
  },
  "news": [
+  {
+   "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQcFJ0amM3TWx1VUFJWXdnZHhKaWlZb1J5MjlUOVQ3SzdRdE1GcHd5Z3dUVjVhRDBhalIwZDRkWlhoYjdZZEFTRlhocERRX1pISEU2NDc5VGczTmVXVGRXNEJQY3g2c3kzeVlCR3RrczBGSFM5U1VBMEJpMkpPYmtDQm1IT1VHMDMycE5XbGQ0RC1pc2t4djQ3UW1adnB5a2J1U2pIRVgxZmNuOUFJRHo5NDBiRGEzdkRFclplUEVaYU13aU4zVW9tQ1ZzQmVBNEFtWngxbExzTng4N3l1ZFQ5Y2ZGRkZwLW1kODZXeGl5emhSUlFtQW1DQ1I5S2lrdzY2REJtZW5BOXN1X0xuUEVqTVVZLUlJQldEc2RHX1BxdklQWmJqeklOQ1ZIX2t4RlRodEZwWVZ3X3dQTTc0MlNic3kzV1ZZVWZXUXY3MHM1Ui1wazN2UWRmb2hHeG9NcXhybGFySE5lZmsyQlpDZ3gtMWRmZWdYUl9MdVp5TnRTZGlMN0NuU094bkhnYngyUFRVakJsQXRheld3V0pSSlJNOWZZQTU1VHFtUXc?oc=5"
+  },
+  {
+   "title": "「滿分10 我打12」川普大讚APEC峰會被晾在「次桌」的普丁也發聲了",
+   "source": "Newtalk新聞",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMzI4bHVFeU5lbkZqaXNSaHdHNFhJMGJXZ3ZjYXdGdG0zZXBkeHpUVFlaaUktSURxTEVaQk9nbXk4UmJkUEs4QVBnSEZFWDVrUXFXNFRCT1owazQ?oc=5"
+  },
   {
    "title": "藍營喊拆、綠稱安全？專訪成大環工教授，從烏山頭到荷蘭研究拆解「水庫光電」爭議",
    "source": "TNL The News Lens 關鍵評論網",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ZTFaRlZxcjI3Tk5TUU1EY3UxTllkYUpDbjY4SmVSQjZpejhpYXdsYzQ0N3Y0WWt5VDVCYUVHaEo2eXIxVHA4NTJzbTZmT2puODA4Rg?oc=5"
   },
   {
-   "title": "川普想把資料中心留在美國！美企赴海外興建恐遭禁或被課重稅",
-   "source": "Yahoo股市",
-   "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQMVgyMmQ1ZFFiOEdMOXlJWWJyVFM4b0pNUUNwaGdOTHZMYzZ2Rm5Lai1wV1pJTzlXbVJDamk5b3dBVG5DZ24xU3BxUWZ3WkU3dE9FNHN5X2h6R0pyNnpvLVhuTGFxWFU4LW5MWUM2R1dENG12X0IycDdTMEM4MVlDS2NfVVB6UGN5bWtfbXdLXzJUX182dnFHOHJ4TDJiY0JlajgzbjdTZlFELUJqV1Jpem9Ld1ZSbHRJZUdkR0tNQS1XS2tnYW5iYkVNNnROOHhKRjRGUXZkTHNpQ0FMX2oxVHRwYVJCOUpiX0RCVkRlQ3RjeTZXd0hyU1U4UmJ2YktWbGxvd05DYVhMdHlTeWhFTFlxSDZRZHRyOXU1cnlMaUI4MVpoNHYtVElFMldrQURCWlkxUXU5anlKSDAyWGJvZ3BFS0dkUkI5NXZHVFc2UWZ6R0Nqa0s2SmhaVHNMVVM1NmhpQ3gwWlVCMThpdzVCeXNwMklPV0xvbWc1ZE1rLU9rcVVpdU1lcEROWmJGQ19NN2JlbFdyUU1Xam1LZlZLaw?oc=5"
-  },
-  {
-   "title": "冷空氣發威新北石碇11.6度 吳德榮：今起3天晴朗 明晨恐跌破11度低溫",
+   "title": "防中國全拿走！川普宣布美企在海外蓋資料中心將面臨重罰",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyTXNyenk3dDdyNHlHbHFoWkItTnRrZHBHd0RCYWM3dDl4WUNKQUhRYVFuNUNwdHNIQ09VQXFtSWZOaUdZNGJ1MEJ1ZmF4MzNj0gFWQVVfeXFMT2x3OWZDRkloSmJDZWhMQ1c1SmFtclBxWktTVnpVZWtrYVBqQ0VtQmhWOEtOcVpCNkNOOXltOWsxMl85anJRcExHd19kV0ktNUhwYnNyZEE?oc=5"
-  },
-  {
-   "title": "大樂透頭獎2注各得5000萬 獎落這兩個縣市",
-   "source": "自由財經",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDVDlyQk5obmttdG5pd0NrVG92OWN6TGI5RzVpQklvbmJrWUFzNFNKWmlGT2pSdTc5cDRrb1NnbkZSb3pjeDIyN2R0Mlp3UGRkMC10blRpUkRjV2IxOFMw0gFkQVVfeXFMTXA4a3JxdnZfUDFacE1rUWNJRXF1SEdZUU8xbFd2WkNIRmV4RkFkb0hsMkxxd1FwZ2FRcHQ5X081dHBpRjZjdFhmNnhCNXRIWGlzdFFpTzdRaUZwUG9WbDZ6ZlpMXw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UNGZLM29DMXB1b1BsblFxNDd4dEFIMDFUcHJQTzBLamlZamNJdDM5a1pqM0w0X3ZJN3JVaWhPNnM3OTVqczNqWEZmUzVBVHFU0gFWQVVfeXFMTktYREcwNTJMbGRKVzFQcW1xczhfYzhoeFlhdllZUmxDakp4cnltQ2VhbWVUZ0FPRzJtdS0yaDlqb0NUU0M5X0NBazBiRU9aejZaM3h1YlE?oc=5"
   },
   {
    "title": "轎車暴衝撞寶雅釀一死六傷！張善政赴院探視痛批：毒駕絕不容忍",
@@ -32,9 +32,9 @@
    "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbnRXaWtCOUpzS3BpS3lnSGRxWkxvc3RFb0FaSnZPVmx3b05NMHdiNE5qUVJNQzUzYUJsdUJRUlEzRU5yZndRWXZmdzd4UXBYXzgySTE2SEZFTWEtcjZlazBkeTFGeUJORGdWdy1qdkFvdFdjbXR3d2xZVXRuTnAyc0RjZ3dJS25LYnZ0UzhtbkdaVlNORmdINVpiY05sdTBqTTVTb0lWLXZJc1QybnRzTUFNcm9teEc3S1hMcW5xNlVuNmV4NG9zSmF2cEpaVkM5ZG94WFlTbUNhZVJtUENXRXlRN0gtdTVjS1I0ajJrR2hDUnVLV3FWSnZ6SUhfUTAwZjlwMXBCWC1CU2V3c2pBVnFDelh5MFBUbWNxNGw1WE02bElndHhrZ3hhYUxaTk5lNTlFRklhcU50b19rTmFXdngtMll6Vm43WVh3bWxXVEMzOU81ZFBrMUk5Y0phcEJVcDRwaGdYNlFKMk4xRkRFd19jbTdyZ1V6ODEweUVpOF94VnBEZTNyWC10dVl2MXc?oc=5"
   },
   {
-   "title": "選前倒數8天！女助理被警帶走　徐欣瑩「絕食抗議」：要就抓我",
+   "title": "冷氣團強襲！今年第一場雪來了　武嶺道路封閉",
    "source": "三立新聞網SETN.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FQ2hEMzNBM3JyWDlaNksyNC05OVRJdXROUGZWalhCU3VKLXNicXduSWh0aUxhTXVxTFVUMW16NHRxWURRa2xldNIBTEFVX3lxTFBPdVM3c3JMdkx3VzhLVHNJS3IyZENiTjlER3dwNW5pZk1OMTFlOWRLUHhMUzZ5YlVBc3Y4akdjd3NyWFl3c0FiMVNqTmY?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00bGI4SjRFeXhGcC1lczBrb0xlVEhvTzlKRy11ZnEzS2FxV0dDNFZtN0dsYTd0WHNDWVFuVmlDR1g1WFNuM1dXYdIBTEFVX3lxTE9WQkF2d3Y0LUFoTXhHTWxoNUpJTlJteFI4WnprTkpDbTNJZk1oMG1DalAwcTdmb2RzUWhjOUd3R1Y3NTF6enVpUjh6a0Y?oc=5"
   },
   {
    "title": "政院或不副署普發現金2萬元 許宇甄：有膽就選前宣布",
@@ -47,9 +47,7 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UzZfMEFlQ0VIUG5oYUh0dWNlM3N1TF9uenpWYW05SlJYOHFpME5WTWpvRldHbUROcmgtUTY1R3RiYm5waWRBR1lYT2JGSlJXQl9FektnSHFVZ1l3azBwV1JaNjRVWUt1UHfSAW9BVV95cUxOa2pua3dfUERJNTBfbFBqQm4yd2JtRGRqR1ZqMllLeGM2Y3ZfSGVONk93dnlhQTdydFdpTGMtRHJaQ2lRN3FkalVXU2pLY093WkVwOUNhMGU2SFJwZjVzTWRIUVZzUmtpWnlicW15YU0?oc=5"
   }
  ],
- "errors": [
-  "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "date": "2026-11-21",
- "updated": "09:25"
+ "updated": "09:42"
 }
