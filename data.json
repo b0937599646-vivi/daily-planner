@@ -1,9 +1,9 @@
 {
  "weather": {
-  "temp": "13–22°C",
-  "rain": "79%",
-  "umbrella": "要帶傘",
-  "summary": "毛毛雨"
+  "temp": "12–25°C",
+  "rain": "0%",
+  "umbrella": "不用帶傘",
+  "summary": "有霧"
  },
  "news": [
   {
@@ -22,14 +22,14 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tUDhaNVF6UEkwc0lza0N3dFV5LWRvQm5vN1UwdkdlMHJ0TmJiWHRSUUVtSkN0V2ZkcTZEQlNyeDhrYW01LUtZaNIBTEFVX3lxTE9qWlR0S09TWDBCT09Xd253dHg2a0lSdzdlWmxiSVg2Y015c3hIRVY4Y1FVRW16MW96UzNSLXpUZ25kSWxjS1NaanA5aks?oc=5"
   },
   {
+   "title": "快訊／國道凌晨6車連環撞！2人慘死「斷肢噴飛」　車輛殘骸散滿地",
+   "source": "ETtoday新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iNERveUVKbU1vcWdTbnNqMVpjVmg0WWEwTTV2d0x4elhZUm1nSFFxVUJLUnd4RzZSMDVUUFlJTTBtdm9NS29vR01EbUxqbUVLaXdrWEt3R0ZjOVFmWXfSAUtBVV95cUxOUnZXRnZWSVBmeG5rWWlGOFJ4RkpWbjFpWDA4d2VqdndXU21hT1o3RGVZOTA5WjVZTkphcjE1R0dnMnlVZVU0VzJHSFE?oc=5"
+  },
+  {
    "title": "居家醫療推動10年…量能不足 患者困境加劇陷「末期漂流」",
    "source": "UDN",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9naXAxU1otdFpOSkp6U0FGTXJ4WG5LeWF6eERzbnl5T2hfdzQxbzAwa182OVhRYkxHbDFIRVVxOXA5Q01VSmw3NXRSS2VNeHFF0gFWQVVfeXFMTllkdnphWFMxT3h3ZFZSS2ZIMmgwYWNZMW9NcllJamNpWHBWT1pTNWdBSXRUNF9GOXc5ejlURndTZE15Mkd3X1NpRkRRWWdIb2hWVXNoX1E?oc=5"
-  },
-  {
-   "title": "BTS高雄第2晚驚喜不斷！V撂長串中文問「必買好物」：價格不限 回飯店揪4成員直播吃宵夜",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNM2w1YXo2bEFDOHFXcy1fblFsLWRlMVBWd2dXTTRZWFlvOEJxaGVzV3BabDdPSjhidDBibHVnMnFrYjJOMHZIMFZydkdWcG5NYlNTOExVSFYzNjdmTkM0ZGZid0xGeWxfdUNUR2Jfb2hlczZ4eTYwTTNEb2lLUks1NlprRnNSOUFGQ3pMS1NiZlpmZHNYWERlaXBweWcwcVlxcElFdXVUcVlxTzBiRktpWHgwcFZsbTNDQkFRdkNnSXZBTHVSejQ5MEcxNWRmNGc5TGxMS0dYZGY4eVowT0h4NUtiREFKRlZMV1AxMDlkbE5VaXpMcDRIOFhEM19MeUxZVElTOTR1d2hjSDJyNkZTejc1bUp2Z3BHTWNVakJNU0FWS2x3SjYxbHcta1RaUHhadUtYNXlZVmMtN1Vnc2w3eU1TRFA0SVlPV2lIWmFnRXB5enFSZzc4UmRCaHh0VmFQb3pQRUtYanZsWGtiX1lndGZOTllKcG1qd1F3QTJoNjhxa0hZeGp1T2lsbGZaNXFtZ1JqUlYyYW9fSlE0S1lNVlh1OVEyemNGeTNFX3pHNF85WFBzd0cwS3JxUDYtY1I4bE41YVZtaENUeURYMWU5WGR6MkhrQjFHMTl0UHFlYXZJRHNiUWYwaG8zWUw?oc=5"
   },
   {
    "title": "「洋流慧聚」今晚決戰三重！賴清德、沈伯洋合體蘇巧慧 尬場李四川",
@@ -37,19 +37,17 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zbjR6Y3dHN3NWLXEzSVZ4ZXMyajZCSExvZ3JjZnppOXhlYW9YaFo5cXQtZ3dmZkdVcUJYUE1fTDdaWS1mczVjcmJ3MUl2anhzMTNXaXY5eGt3LWJ0RWJQVUpmbXFQVHNTdEHSAW9BVV95cUxPWVhuUVRpc2hZbkhZUE1ZMnQ4SXJmOVBaNGxhdUZBVThySG9wX201TEFwQjAwV21OcUtDZHBQbFZkSTVPV0FNOUMzeXJnNUVNeEkxVG5sWnprd0VXSmtTOWRPdUoySUNPci1yMmJYNm8?oc=5"
   },
   {
-   "title": "遇夏莉絲家長哭訴陳情 沈伯洋簽承諾書",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQR0dzQlRHWWhPVFRHWENnV3kwQU9JaXM3SV85TloyN0dXNjJoaDhYWWFLbzBqR3VnN0RhV0ZMNU9mZjRoLU5rRGZrZkVoQkkxNGx4WHROU0hxd210eHlQRW5XQUxTMmRDeGN4VmlUOXkxU1c0Wnp4TUx5aTJmRXBXUG9KaFNJUnZaaUdBdFdubmZMT2lBc1pzU2ZCQjZmUXoyRkVldnJueFRjTlBnQlVETXRXNUpKUzYtdmZEd0xsWFp1Q2hSMWllam9RRVg5MjVIYzVLOXFhdnJzTmtCNU10OUxEZmZRUVVpV1NQa2gwSS0tNXFwTVc3WElkVWpPSVJlMmxCa3VaLU1NX2hLUGdUZlg5ZVVrOW93TDhYVjRGRjQ?oc=5"
+   "title": "BTS柾國高雄Vlog破3千萬觀看！蔡英文、陳其邁留言　網喊夢幻聯動",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SZ1dyemZSZVNmYm1TUzJ4QTdKRDIzYk54cEI2TEJ2aEs1bkVFN3UxbWUwRGpyb0RxRnN5MzhwQ0pqWXpQZVg1ZtIBTEFVX3lxTE82MGRGeWFEME1fcDR1NVdKWUM5YTFtalpkN29JZURabmctc0RLQW1TV28wM2c2bmdTNDJuaVBYZzk0NmIwWjRlcS1NNVE?oc=5"
   },
   {
-   "title": "黃珊珊送親筆簽名書「To Puma」 沈伯洋：當選後用人唯才、不分藍綠白",
-   "source": "Newtalk新聞",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oaHZnVWZDZ3ZvdlctVEh5TTFqZWdzQmdZQTJrbGxrT2VXc2sxU1R0OTJzM3FUdFN6QkNPcHd1V0NyRlc2UU0tMldWWGNwckNUd1hnT2JSUmF3S0U?oc=5"
+   "title": "沈富雄急獻1招打沈伯洋：國民黨就是不夠狠",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPeHNxdWw2cUI1aHJVTFhJYTBHOFZMemRnc2FfZ2d4X3pvc1VKU2d4c0NncTJtcWlKX1p2TUl2OEtuRDhWX2ZnWXBvdmIwakJVa3NVYVpYU1l5NElmV1pMazNvNW9EYnZDT0xacXNWdDZjQm1qaEw0bkJkRnpNM0MzeGI4aDNqWDJQdEpEdk5fZ0ZBbnBvVjNTLVFxNUp3M3hMcHc2d0tnT0E5SFpMZmp5dzJ3UTNERTZmeFptRzJUNzVuRmV4TXY5QnlVd2ZfcThFV2FoNFJPNGd6Q0dra29DcWhLMHpDTFJnWmZuREFkbDJ2NXpJOHA3MHV2WTh3SThyOGl6VmRSVktGd1lLZmdsU3BlYlN3UG55ZVlaOXNuNy1tMlB5Ui15dl9FUVA4QQ?oc=5"
   }
  ],
- "errors": [
-  "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "date": "2026-11-22",
- "updated": "08:17"
+ "updated": "08:39"
 }
