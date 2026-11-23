@@ -47,7 +47,9 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NcGF0d3ctcW5tR0ZCUk5MaElBZUtrVHYtSmJaTjRhalFabGpicURyNVVkYmNvSURTekF2LTlycjFINlRRU1BMOdIBTEFVX3lxTE4xX3FqUUtQWjNaS3RjNGNVV1JLRlJnUWpIN1RqQWl2cmNQMUhGbl9RQW1GYVdMTkdCTnM2MXZ3QWswQ1ZEb3RCZ0JUWWc?oc=5"
   }
  ],
- "errors": [],
+ "errors": [
+  "news: HTTP Error 503: Service Unavailable"
+ ],
  "date": "2026-11-23",
- "updated": "08:47"
+ "updated": "09:07"
 }
