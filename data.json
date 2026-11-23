@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "12–25°C",
-  "rain": "0%",
+  "temp": "16–27°C",
+  "rain": "12%",
   "umbrella": "不用帶傘",
-  "summary": "有霧"
+  "summary": "大致晴朗"
  },
  "news": [
   {
-   "title": "柯文哲送金剛經抗「洋流」 蔣萬安引「8字」經文回應了",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNzJZcU9MLXFMZzNSNXBGMzVtY0VJY3VTOHo5bEVUWVlubTV6M2x3enktcFYwQ2FqMUhqeGoxaTZWbURMNHRpTGQ3S3Y3N2Z2Ync00gFYQVVfeXFMT3lhMlRBVW1PRnpYUXM4SmdLTHdlOXh1NkxYMjBQVlFkME5tNkRlcTB0VkJ4WU0xM2lIQ3RSenllWWo3NllRZl90THRKUHRGN0ZlSEpwaEVsdw?oc=5"
-  },
-  {
-   "title": "投票日變天！明清晨急凍探10度以下 下周兩波東北季風接力",
+   "title": "【一週天氣】週二起變天「連濕3天」 低溫探16度、高山有望飄雪",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNTlcwRWRZZ3Z0cGxQQWJ0UXdRVmlra3BFcHQ3LUtfSXBYYVZGOGdleUF4VG9pYTBqR0IzRVR2ZGtVOFBaYnJHczRjWGh5bXZFWWIyancyczJrcjl4MVZnYk5IX3NpeHF4MDlUbVU5RmJuQWdNYXo3TTFZVzEtVTNmZUozNUFpRE5jV2N0eTRNd3dOdGQwcGlIU0JoWlJyVWJZS3ExMTExUzZjSE1vM2cxb3pNZ20yRHo2QmttU3JBZS1iSldoZ0tLMm1kYThwQ2tWTzFQZWJIbGVXWG1oSVJZME05YlVxTHUyR0JpRlBYeVVLdk1lcEtxd2NnamFLQk9RUWRlVklaWS1XOVdycGNId3gtanpXa3J4emN3Tmxya2RDMmNYOGJqVjRDQ2tEQzgycEczSFc5eUkwUVhKSXZ3MEZqMEhJa2NOSEsxS3d2NldYaWpyUjlpaGhheEdnQjlLR3ZnLU1HdFZqNUhBRlI2ZTFwMUIzTTJr?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQTWNXNkk3Qko1elJxOXNLUWFJWERYa283TDFKUHpYUF9EMzF0V3lZWTZrM24tV1dXanM1MjhOWTdKakY3UXJKaUFRWXI1TVRSVHlpRVJNZjJpWm9PMzd3UXlERGhnUWdGYjE5dzVJR1lueDE3ZkYydUI0Q29saVNnYUZ0eklzM0dyWWtZZUpTMjk4ZHFzcm1QQk1lZkVJZ3l6ejM1ZGlKUHZmU0tub1BSM1d2YnRqWDRfbTBuQnM4OFVkYU5zUjJTQTFVT2t1aUxlRmhMeF9SUUZ3dF9yRTUtSnp4dWx3R1BBajd5T2pjWHlLMml4dXJOV0c1djk0RmxfbzhWRzFUc09IQUE3bWxIcTd1enFHSXdfQ3k1ODhKTVlZVVJ0QWZIQTh2QV9Ud1piX2Mzeml2OHZRYlNxWDB3djN4QkdHZGZKQkl3aTdtMTdRck1EVDBUbQ?oc=5"
   },
   {
-   "title": "賴士葆罵沈伯洋人渣！國民黨前發言人酸「搶當最後稻草」：幫蔣萬安扣分",
-   "source": "三立新聞",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tUDhaNVF6UEkwc0lza0N3dFV5LWRvQm5vN1UwdkdlMHJ0TmJiWHRSUUVtSkN0V2ZkcTZEQlNyeDhrYW01LUtZaNIBTEFVX3lxTE9qWlR0S09TWDBCT09Xd253dHg2a0lSdzdlWmxiSVg2Y015c3hIRVY4Y1FVRW16MW96UzNSLXpUZ25kSWxjS1NaanA5aks?oc=5"
-  },
-  {
-   "title": "快訊／國道凌晨6車連環撞！2人慘死「斷肢噴飛」　車輛殘骸散滿地",
-   "source": "ETtoday新聞雲",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iNERveUVKbU1vcWdTbnNqMVpjVmg0WWEwTTV2d0x4elhZUm1nSFFxVUJLUnd4RzZSMDVUUFlJTTBtdm9NS29vR01EbUxqbUVLaXdrWEt3R0ZjOVFmWXfSAUtBVV95cUxOUnZXRnZWSVBmeG5rWWlGOFJ4RkpWbjFpWDA4d2VqdndXU21hT1o3RGVZOTA5WjVZTkphcjE1R0dnMnlVZVU0VzJHSFE?oc=5"
-  },
-  {
-   "title": "居家醫療推動10年…量能不足 患者困境加劇陷「末期漂流」",
+   "title": "影／蔣萬安舉牌「老婆我愛你」、石舫亘衝上前擁抱放閃 群眾暴衝警急擋人牆",
    "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9naXAxU1otdFpOSkp6U0FGTXJ4WG5LeWF6eERzbnl5T2hfdzQxbzAwa182OVhRYkxHbDFIRVVxOXA5Q01VSmw3NXRSS2VNeHFF0gFWQVVfeXFMTllkdnphWFMxT3h3ZFZSS2ZIMmgwYWNZMW9NcllJamNpWHBWT1pTNWdBSXRUNF9GOXc5ejlURndTZE15Mkd3X1NpRkRRWWdIb2hWVXNoX1E?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96eGF1REl4QjVrM3dJU1pFTzBjTHFEYUo5alJ2cXctZm9FcTJFcE5JYld0bWIxLVpMQmxUM0hwbzd5UFk5cTlCRWRFX1FxWFhpcktn0gFYQVVfeXFMUFZjc3RyZWJnNjFlem1LNzN3UW9UakhNa0NPREVjYWJWNklzaVc1WFdmSU5NS1k4MnU3bjhfTEVGS3lKMEF4Z3ZjcUEyejNPSC1zTE5GeERHbw?oc=5"
   },
   {
-   "title": "「洋流慧聚」今晚決戰三重！賴清德、沈伯洋合體蘇巧慧 尬場李四川",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zbjR6Y3dHN3NWLXEzSVZ4ZXMyajZCSExvZ3JjZnppOXhlYW9YaFo5cXQtZ3dmZkdVcUJYUE1fTDdaWS1mczVjcmJ3MUl2anhzMTNXaXY5eGt3LWJ0RWJQVUpmbXFQVHNTdEHSAW9BVV95cUxPWVhuUVRpc2hZbkhZUE1ZMnQ4SXJmOVBaNGxhdUZBVThySG9wX201TEFwQjAwV21OcUtDZHBQbFZkSTVPV0FNOUMzeXJnNUVNeEkxVG5sWnprd0VXSmtTOWRPdUoySUNPci1yMmJYNm8?oc=5"
+   "title": "聲援徐欣瑩絕食！鄭麗文哽咽：希望小編父母原諒國民黨沒保護好孩子",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTDhFVE5EX3p4dWQ1bklfQ01uTmFGZ0p1b0xCRnMyQk1USm15dzViVzQ0WWVnZE9LTlZORDExOWVqVkF0YlVQVDZOZmI3SlFBd0ZZ0gFYQVVfeXFMT3FMQmFPYkVXcTRUZU5aVnRQbXhLcnh5OTFfb0ZtQkRBQVhmMXZ6X2w3Z2xyb0ZzX3R1RVQ4NG5NZU5lbE5SZS13Si0zNjR6cW9zTWctLXpPQw?oc=5"
   },
   {
-   "title": "BTS柾國高雄Vlog破3千萬觀看！蔡英文、陳其邁留言　網喊夢幻聯動",
+   "title": "蕭美琴自爆「變裝混人群」　想領洋流飄帶竟碰壁",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZWkxTVFVkVGFDRFN2QVJ4dFNXaUk1N3RTLWRMbFpFbG5oOWtoNzRraDlvZVNxWFl0V09aUmNDdGtHSGt6X2hKS9IBTEFVX3lxTE9pVkctdWNKSlRMNjc5TzI0TW5tbVB6WHQzSGg4Rm9DaWo5YUVPQWQtYXNQamRWOFJYYmdHTEpRNzlCWXdCczdhRnpuZHM?oc=5"
+  },
+  {
+   "title": "陪李四川造勢遭民眾貼「安心貼紙」！侯友宜秒撕掉引網熱議：像i珍食",
    "source": "三立新聞",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SZ1dyemZSZVNmYm1TUzJ4QTdKRDIzYk54cEI2TEJ2aEs1bkVFN3UxbWUwRGpyb0RxRnN5MzhwQ0pqWXpQZVg1ZtIBTEFVX3lxTE82MGRGeWFEME1fcDR1NVdKWUM5YTFtalpkN29JZURabmctc0RLQW1TV28wM2c2bmdTNDJuaVBYZzk0NmIwWjRlcS1NNVE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40b3AySTZFbVVfV2hKWjcta2VOOEo0VUFBSk9sWThodzVINGdRTkt2cTFSRWN4cDFhNUpuZzdZZmZMeWZGdmlzNtIBTEFVX3lxTFB4LXpTZ20wLUExbkdmNXVvUXVCcUI1NzV3TGRyZi1tWHFQcEY5S21qWnlCTzdBUnlvckxJR3VfX01IU08xZHpHUjg1NzI?oc=5"
   },
   {
-   "title": "沈富雄急獻1招打沈伯洋：國民黨就是不夠狠",
+   "title": "快訊／柯文哲稱藍白合觀念錯了！蔣萬安坦言：不能視為理所當然",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdjdmM0o4NXhpYmxvLXE3VlZrX290QnZkNW9zWS16YmNXTTBDcDcxdFlseFBVajBZdjFqMEg3b1VsUHFjSHl4Yk5seVnSAVJBVV95cUxNUGlJd3hvNGxMWXJJZk9GN2E0RjBhZHY0c1BYSWN5U3I1T2ZsUlVic09vYzB6OGMxczVWNDVjQ21IUENWRjhLd0o0MTRnZkI2ckxB?oc=5"
+  },
+  {
+   "title": "賴清德基隆助選哭了！談母親借錢往事哽咽 童子瑋也落下男兒淚",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPeHNxdWw2cUI1aHJVTFhJYTBHOFZMemRnc2FfZ2d4X3pvc1VKU2d4c0NncTJtcWlKX1p2TUl2OEtuRDhWX2ZnWXBvdmIwakJVa3NVYVpYU1l5NElmV1pMazNvNW9EYnZDT0xacXNWdDZjQm1qaEw0bkJkRnpNM0MzeGI4aDNqWDJQdEpEdk5fZ0ZBbnBvVjNTLVFxNUp3M3hMcHc2d0tnT0E5SFpMZmp5dzJ3UTNERTZmeFptRzJUNzVuRmV4TXY5QnlVd2ZfcThFV2FoNFJPNGd6Q0dra29DcWhLMHpDTFJnWmZuREFkbDJ2NXpJOHA3MHV2WTh3SThyOGl6VmRSVktGd1lLZmdsU3BlYlN3UG55ZVlaOXNuNy1tMlB5Ui15dl9FUVA4QQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPN1FjNDl1dEVYbW8zbFV3ZVVFZERIcjBpTUctWGoyY2Ixel94Tjg4OEVLdVk1VFdpZUkxa3RpTm1rYXRYNm9jSkJfZzUwd2dvbmVfZTR1bm84YjB4U2g3eDZ6b25KVUpMMlNsalhEZlZ3WlZ0V0RsQ2pZNzRPaUIxVEhhbDdJSHJsRExPYWNYaDBZWVc4dzFqMWhjUmJxVFd0ZUtLNFpaTUN1elp6WHo1RHlGYV9xbHcyRURfU1RoczZBdjdpSzBvTGZ3MG5mUnAtNS1MUURfYzZWcDRhZ2tROGdGNFZNN3h6MlBXM1NBRUpQbWxwRW4xOThrZUFaTldtZmtaYk12LVVpMk10WG9HbFVfLU5ZV3FCMnJGNDVNczhhendrMG9DV3FVNHduOXNlQzYzWnNvbzhUOUZ1VWlFZmVTZEQtQWRiajl5QWlPMWloSlNtTHA0VlBKdEZNRmJrc1ZqSGVJSkt4b2NFSG5ldW5LZFNiSnhobEdsYmV6ZU5pY0E4RHZFbjQ5cDRYTm5HTXBQRzNrQ0VxZw?oc=5"
+  },
+  {
+   "title": "蔣萬安幫表達歉意！罵沈伯洋「人渣」要道歉嗎　賴士葆：我不能追究他？",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NcGF0d3ctcW5tR0ZCUk5MaElBZUtrVHYtSmJaTjRhalFabGpicURyNVVkYmNvSURTekF2LTlycjFINlRRU1BMOdIBTEFVX3lxTE4xX3FqUUtQWjNaS3RjNGNVV1JLRlJnUWpIN1RqQWl2cmNQMUhGbl9RQW1GYVdMTkdCTnM2MXZ3QWswQ1ZEb3RCZ0JUWWc?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-22",
- "updated": "08:39"
+ "date": "2026-11-23",
+ "updated": "08:47"
 }
