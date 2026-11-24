@@ -1,20 +1,15 @@
 {
  "weather": {
-  "temp": "16–27°C",
-  "rain": "12%",
-  "umbrella": "不用帶傘",
-  "summary": "大致晴朗"
+  "temp": "15–21°C",
+  "rain": "69%",
+  "umbrella": "要帶傘",
+  "summary": "陣雨"
  },
  "news": [
   {
    "title": "86檔「黃仁勳概念股」紅通通 台積電鴻海緯創65檔飆漲停",
    "source": "Yahoo股市",
    "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPS2ZUTXZqTE5JM2VqN0NaUTFUSHZnMXRJck5vUUNLZ3FiX0tfZ1JtZTJLU1l0QUF1VDFnNm9vOUFYX1k5WHRST19RQ0xHWkljZFlzTkctaHQwU2NDc2d6eFF0U2dSem8zLTBHZ185bktpejRwWmZ2TUNJdEt5aVVZbTVZOWdiYUF6M0hHTWY5V193WUFXUjlJN0RJbkl2WlotTVVKRnBfSThYUXdzWktMVTZISHM1aGpIa3c4SHJqMl94SWFIZ0FvRjItNWg2UzNhai1QOVAxM2dnVmpjLW1ta29TWjUyZC1SNmxiRmk2S3NBaW5QNEE2OVlueGNwTjk0V21qeS1OajBiYVphQVV1SWNGb0FUZnVaVTFJS2hmWWhvRnBiYlBnZElFRXNQMDV5cFZ1NkZxek9LeFFQeGd5VnRyX3pJRXR1WjgxamdOb29SSzZhc25pNXVIN3RXdmRERG9OSUdpcDlST3M3ZXFJUEFlTno0QQ?oc=5"
-  },
-  {
-   "title": "助攻黃仁勳回歸！ 台北101被封「全球最大光明燈」 賈永婕7字神回",
-   "source": "Yahoo股市",
-   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNcW54OXd1NmpHaW95djBnejB6ZWNVZXZmYkdnSnhJclUyZGFMczZoLTJvdlRHZUdCQzBCZmNOTUFnb2NXQXpEUTc5UTRSa2dqb1lRS1V1bTJDb2o3eVJXaEExUXYtUDVVTTZzcFRwUkllMENQWVU0YUpKXzVxenh1YVo0T2J1bHBFNmhaNkw3UXhPeURXQ0JBcG90cVlhaHIwbUJzamhrMTl4cGFNbHpmOEM1Vll4SjhvbEJPaTU4cGxmRjE1Nk9fMzhDS2pIS0pjUnJxcEJWRDhkR20xcmZFQjdLdWsyRTlqN0t3NThacVB5VnNuSk9BUjlHWUFvQncxeGhpTGZlaVF4by1KWmtJWEhCTllSQ0JiNGNXcjQ5SUs2MzFyUzdmUnd3QkdJM0lGeUpEa3FLamNYOTh1eXVMX241bi1zSVpNZ0lCTDBIelRVQTlfR3hLRTVvT3JJT29oWHhCS19rYW4xa1I4eEhXWTQxT09tNUtCUC1WbTdqQ1R4TDRa?oc=5"
   },
   {
    "title": "沈伯洋選前之夜、蔣萬安開票都在信義區25日起4階段交管",
@@ -37,19 +32,22 @@
    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPTFp4aGhxUG9kblVnZEVNQmdLNjIzNjRtR1NIUExaWmJ2aWRqNE1aOHpobzFxcml5UmJrMmlyNEEtWlp3eVFVQzdueFVyNWwyMjBkVWhYM2xjbmQzb0xCd0xjWFYtVVJBV1JtLTF4QnZDQk5CSFh5OGV6Qm1CYjdENDdCb2lhZ3RKdDM5OURsaEN1cFJFenAtVk1kbFdONThLQ0swT1NmR0FIMnBNdHlGTUdOQVRyT0s0dFpWb1lfSVczWldNT3pIVTg4bEt0SFg1ZGVCalFySHYxNDhGdnJwMUM1dDZWSVEwelIzenlHMENMeUdmZ3FyeVhwTkd4Q0ZEVVExVENRUmZ1NlhlVE1DRU16NWRlWG9sV05MRnRJWGV6SzhzSHBHZlVRQjE4eVVJNlNUUlVKS3J5czlqeU1PazZ4Rmx2YkYxWVBNRVB1dUFGQUNxQmVoSXlWMGpGMUN3S1lCSFV2VmpFaUlCWXVZTUFUSWxSVjc0ZlNieUk2Y0Y3XzNhaTBOdXhoVE1ZNjRnQ2R3?oc=5"
   },
   {
+   "title": "蔣萬安車掃「巧遇石舫亘」！提前42分爆雷愛妻手板 尷尬畫面瘋傳",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTkI0U3FlVU8xYWFmWjkyMzV4cEc2SEVjWnlhQ2dCbGJHOWwzbk5LVzlndzNDdlFydTBVMFZvbHVyaElzVG4zQWxJejl1OTNnblJUWm03RHFXZ3N2RVQycjc4aVpzSi1GMWVrQUp6Z1BEaUZwaUt3REdQVlZmLUdMc1JTTXlnb0hmbjZZRGJQRWpMdWZlQ0dFZUpYR20zdHF6Nnp6VXVJenZmU0dXcnExMkFpR096Tkl3cTZBM1RMTlN0Sk9qaW11WmE3YVh0elBiV2ZqX1FMM21QZUpxQVZGVHM0UFVkbVZtQXhNUHBzNjNTanhvRHBIWFRfNG9qQXZtdUlhUEJXeklzYVRmLW52VGVJb0dmLUlBejQyeTZCY3NjTzFJaHBTdUJETzJIM1g2VzFmbVdueHo3Y1VaamlTaW9ud296TzRfMVB2dnltdFFxNG11NmkzUE5jdmxMNWtLNzFMRG50ZWRvckJQZ0JsVElzd0JqNXc5aHZucFM4bEdTU0RVS3c?oc=5"
+  },
+  {
    "title": "蔣萬安收到《金剛經》超驚訝！柯文哲親筆卡片破解「洋流」",
    "source": "ETtoday新聞雲",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OMmRsQW8teU45UjRrZ0tySXcwQnRIaVZfMkZkNE9GMnpPa3A1aTNVOG52UDBkUnZjTmZrazBrUkhBSXJQaWdmM3lJeUNsMlNVd29iRWZjNlMyZVUzbHfSAUtBVV95cUxNaDRZSE94eloyVmpSVjBZRHBaZlllSjh5dzZFWm05MUtIN2NDWDRoeG1yS19Bc21sZmlTVFdTb3RrdjdxMk01QVlOb0U?oc=5"
   },
   {
-   "title": "「我跟秦姐沒有什麼」蔣萬安握手秦慧珠",
+   "title": "綠小雞挺鍾東錦嗆「夠力就開除我」 民進黨真的出手了",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQamVhQkpjNXZ4Qm9QbGVKcGhfNVBCQkQ0ZDNqb0FRaC1PNWlZMXltdzlZbWNCSnZiT2gxWEc5LWJ5T2pFTllxZEt2U3lCUWI2MDBRUFhDelFZT2VxX3NGR1RvWlU0d1JSdlBMMHN3dlhqc3ZnemZJQXZFSHdRcmg1alNIREZzZWVLYjJydzhkM3JkVnlfNDJpdVJRU2pDR1lGRG8zeHdBUlF1aU5KNDJUczZLSUZVa3pBaTJtUjFKR3JnYjB4dV94NmZmWkg3TVBlY21kMHl4dzNKN0VxalYtNkpoNFJCMXo4S1VDYkctQzVXemt1R0xncGxMZXJzV2JhaURKZzhMcDJWVWJGYlZkS1d5clg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNb3BHTTlFYjVDeWdBbml3aHZRNWFnYTlMSm4tNVpDM3plOFlpemw1MG9KN3UzNXVTM2FMZU9LejQ0Q0N1UUo5ZGlQSS00UU1JVVhBQ2hkQXhDejhHeVZuZm9oak9QVG1JcS1Ka0l3bkR0X0lEYnBCdElHUWpGc2FYVUlxbThxY1Vvenh6emtyckdLOHMyclR1SV9COE45MHRzY0tmZUNZb3NiR0dWZm0tTXNTS3A4R0lPNUs2VTA1d2N5RXV1dWJHSm1laGhJUzl6WEgyakpnOXA0cXA5eTNDQVZ6amhPUTlwbTY5eW9CYXFxWW1PQTNnV0dJQ0ZvUmxIMHJoNF9RWm1QdkVORjFNYnJPZnhiWUVLN2wxdkZId3dGRWFjb1hraWk0UFp4VHQ1R1paSnNKbTNEUXVyZEpfYVBBVS1ZazU0T0tpSXl2bmlVY1g3VlVQX0lxUDdaQQ?oc=5"
   }
  ],
- "errors": [
-  "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "date": "2026-11-24",
- "updated": "12:42"
+ "updated": "12:57"
 }
