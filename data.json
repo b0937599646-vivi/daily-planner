@@ -1,53 +1,53 @@
 {
  "weather": {
-  "temp": "15–21°C",
-  "rain": "69%",
+  "temp": "14–24°C",
+  "rain": "71%",
   "umbrella": "要帶傘",
   "summary": "陣雨"
  },
  "news": [
   {
-   "title": "86檔「黃仁勳概念股」紅通通 台積電鴻海緯創65檔飆漲停",
+   "title": "台股人道走廊關了？盤中瘋殺3400點跌贏昨日 聯發科跌停1張現虧40萬、千金股僅剩31檔",
    "source": "Yahoo股市",
-   "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPS2ZUTXZqTE5JM2VqN0NaUTFUSHZnMXRJck5vUUNLZ3FiX0tfZ1JtZTJLU1l0QUF1VDFnNm9vOUFYX1k5WHRST19RQ0xHWkljZFlzTkctaHQwU2NDc2d6eFF0U2dSem8zLTBHZ185bktpejRwWmZ2TUNJdEt5aVVZbTVZOWdiYUF6M0hHTWY5V193WUFXUjlJN0RJbkl2WlotTVVKRnBfSThYUXdzWktMVTZISHM1aGpIa3c4SHJqMl94SWFIZ0FvRjItNWg2UzNhai1QOVAxM2dnVmpjLW1ta29TWjUyZC1SNmxiRmk2S3NBaW5QNEE2OVlueGNwTjk0V21qeS1OajBiYVphQVV1SWNGb0FUZnVaVTFJS2hmWWhvRnBiYlBnZElFRXNQMDV5cFZ1NkZxek9LeFFQeGd5VnRyX3pJRXR1WjgxamdOb29SSzZhc25pNXVIN3RXdmRERG9OSUdpcDlST3M3ZXFJUEFlTno0QQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNdmtUQ1o1QTNGZTdpXzQzS1BKanl4MVhsRkRQN2hUSFU5dHJFTnZwMm1xbGFzM21JVjY0aVNCdkNsZG1PZ19vRk96ZHBXclc0WXAtMHhodktpNmYzZ3NtNEhHaG50U2RaVm9xbnFBQ3AwNjVMeUlDaGFOT3ViQjV3Vm1wRm51MFNPc25RUWpFRWRHTk5BTy00WlRUUmp3NUtzdzVpMGtIWmd3VFk1VXF5V1VvdGl5ZmdpOG1Xb1BXUlZZa1NkME40cG52bmtJZEQ2UUpqYm4wcF8yUkNMenRjaGxmY3dyWUcxR2pUMF81WUpENVg4Y3h0Nkp5OU1sNWRIV2k4bEJjeVktSnJseDVMR0NLbnEwWFlVNHVFc01oWmhoa3lLSVlYTE0yb0lqMjFEM1RPZkpmbXNRQVVEaUQ5U01Za1BwMkFVdFo3LTVQX2NkVnBJNUI4Z0pfZzI4N2lxOUMyRXQ2cTFhRUhHQ0x5LWd5WXBlRmxCTmxBcThIbEJVSjVmS1RGZUR4ZFFScVRzQ2diTWpZUU12MXMwc1JoZ1dYZS1vMWJaZjVjRHdCblJVd3pFSmphWDhsNnpCWHRNMTNtTXlFMWJacGlucWt5ck9GQlM4cEFYdi0xaWlQbGVOazlJbmZSN1B4cw?oc=5"
   },
   {
-   "title": "沈伯洋選前之夜、蔣萬安開票都在信義區25日起4階段交管",
-   "source": "中央社 CNA",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pN2hVekljU1JzMVVaMGlhM1JUNE5scjdkbkpBTjV5OUVUTWJyMXZYQWppdmo5MF9wdlg4ZkdHX3hmWTNUX0pDNnQtbUg4RGVucWdUMVpwZUVIelRtbF80?oc=5"
-  },
-  {
-   "title": "鋒面東北季風南下北東轉雨低溫13度 吳德榮：投票日乾冷空氣報到",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1TmtsT0xsajBFcDZVZ2VpNzFuTGxYVkM5VWQ3NDBwRWdKZkdiejFzSWdrYzcxMkU4QzdZSzZ3UjFUbmFld01PRENWT2l0cVNI0gFWQVVfeXFMTlNSV2lXVlZaLTh2TllLTUtLLXpFVFNWbVJpSmk1SVYwYWxmWWttbmhvRlJOVkl1Zm4zV2VfMWRhRjF4TkZCN0xsTS13cS1sS0dYc19FU3c?oc=5"
-  },
-  {
-   "title": "柯文哲嗆不敢來請益「一定被我K」　沈伯洋噴一句反殺",
+   "title": "陪李四川妻子市場拜票！藍議員志工喊「別選有月經的女人」　競總回應了",
    "source": "三立新聞",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xSVZaVGhueGdtLUh2Y1pMbGZhX3dWdnlkLVFKTlJVcGJaSENibGNFSFNDVW1BZVVmYTB5eFBqX1lIajlTVDRWVtIBTEFVX3lxTE5iYmU4TWxwNnVxTG9KbURqOVVva1p5OE9DSmhscmoxZGY3N2VlUnpZRlFfZXNPWGhaU2o2Qm9wQjBZLVdQLVVTUkFlOFM?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZ3FMUThlVk5halNUUk5UaVdSa21fUi1fRWRxbVBrLWUwREktd1lnXzdEcHJkQ0RUbGw5S3VRUHduLXc1MjhUY9IBTEFVX3lxTE9NY1dPYmFtcUItQmZwU0lGbi1ETVlZSFk1cUNheG9ldlk4YUZlalpER1kyaFNEMDhGajZjZ1J4UG9TNXVhbVd1amVMUE8?oc=5"
   },
   {
-   "title": "徐欣瑩絕食送醫稱心跳剩49下 急診醫揪「生理矛盾」反問：劇本誰寫",
+   "title": "今各地轉濕涼！下雨區域多時間也長 北台灣氣溫「一路下滑」晚上下探16度",
+   "source": "Newtalk新聞",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iaUpPS2pPUGJ0c2VFUTBFTEJnU016WFVFaXQ1RGZmazhmdWkxN0pVZWswOGJBdU8wWUhLdDJxTkZLQTM2V1F1UXJrSUE0M0hDQkdlUEh4S2E1S00?oc=5"
+  },
+  {
+   "title": "邱軍酒駕撞死小黃運將…還闖紅燈肇事逃逸 二審仍判10年徒刑",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yaUk4OTBKOHB4OGdfZU5zOFdMaHhnODJhSTB0TXdYYWNjUHJmcUpvQUU0d3R3ZDBkS0IyQVQxam5vVXh3LXRWU2FCU2VTTGVn0gFWQVVfeXFMTkF6UUpRUnc0S3FUVDV4QmN4TDBSdzRpemN0YXFncXlCZS0wblF0X3RZSV9VeXFLeTNVMThJMUZ5QWxIZWtBS1FkeG10a1dWZU90OTZYUGc?oc=5"
+  },
+  {
+   "title": "影／洋流席捲全台？柯文哲嘲諷：已開始消風、崩壞得很快",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zYl9Td1dDeTZJNjYwVmlfbFBoQk5DQl9kNGNXUmVTakZBSjBoWFVDazdCVG5TQU9meFhRRnFYZ09IZkwwWmY2STEtUmpjWVF1bHIw0gFYQVVfeXFMTTJ1TktSMWhzVTgtMXdJOFIyVlJJTV96UTV2RXF3WmtIWjFnWl85SEl1NkRyVGxzVXkycm1yTVR4cy1LTUNnc01tcVlvWGFwcl9OUHQ3MU1UdQ?oc=5"
+  },
+  {
+   "title": "選前4日蔡康永再發人生金句 「就算菜單上每道菜都令你不適，也沒道理特地矇眼去吃屎」",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPTFp4aGhxUG9kblVnZEVNQmdLNjIzNjRtR1NIUExaWmJ2aWRqNE1aOHpobzFxcml5UmJrMmlyNEEtWlp3eVFVQzdueFVyNWwyMjBkVWhYM2xjbmQzb0xCd0xjWFYtVVJBV1JtLTF4QnZDQk5CSFh5OGV6Qm1CYjdENDdCb2lhZ3RKdDM5OURsaEN1cFJFenAtVk1kbFdONThLQ0swT1NmR0FIMnBNdHlGTUdOQVRyT0s0dFpWb1lfSVczWldNT3pIVTg4bEt0SFg1ZGVCalFySHYxNDhGdnJwMUM1dDZWSVEwelIzenlHMENMeUdmZ3FyeVhwTkd4Q0ZEVVExVENRUmZ1NlhlVE1DRU16NWRlWG9sV05MRnRJWGV6SzhzSHBHZlVRQjE4eVVJNlNUUlVKS3J5czlqeU1PazZ4Rmx2YkYxWVBNRVB1dUFGQUNxQmVoSXlWMGpGMUN3S1lCSFV2VmpFaUlCWXVZTUFUSWxSVjc0ZlNieUk2Y0Y3XzNhaTBOdXhoVE1ZNjRnQ2R3?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNT3ZrNzBwS0pLd1Y2MjV2N1dMSjJTMlNBR2VnamRnZWs1VTgyVlZMVTNvek9hVno3VXFiYTQ0eWYxRTJIN3Y1SkppNUtXdm5zbGhyUWJMZk92a0RWZXhFZHM0UTJIRGJKX2xvNG9Qd3Y5X3Q1UVkxZko3VjZYT3pRd05aX2tGVUtVaGNtbDBLUC1tcHNPYllUZTRBNEpqZEZfbFJENnh0UE9iS2xSQTk5UElUenJsZ1gzd1lRUldGTDdzUl9HZGNMVWN6ME03UnlVbXJFZG9BSDFKblJyZzJDd3pxSW01dGF1UTVORHpfbDhCMGZtQjhNTnB6QVRfTDdKRHE4SExnTG5CSEw5bXBHS0tHNGcwWVZYdFNqeUpTZ2VWSDdmSXpWSXQ1VHhYZGNWUktTUWxMZjVtSV9pMTlHUnlDN212eFMyQldOYzZodV85TDVDN2hEa185VDdrbVpqeldaQk9DTG9yclVrUDJBaDhLQ3ZkSldWRHNBWm05SXJlXzFFRU5xT1A2X3BBMHM0dnFvbmQ0RDljbDNhRDRzR3RUcVRLeGxyMVllcU5hMEIyUlRHLVQ5OG45czZTXzlWakdzM1ZtdW5PWk51Zk9YUFNYWFdzeFFEVWdEUTAwQWV4a2llbEZMM2NodmZkUTlSdXRCUkwyZkRoQkN2M3R4ZzRFWExYWGs?oc=5"
   },
   {
-   "title": "蔣萬安車掃「巧遇石舫亘」！提前42分爆雷愛妻手板 尷尬畫面瘋傳",
+   "title": "林智群挺水庫光電板轟就妳最聰明？ 陳沂「連三問」4字狠反擊",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CVzF5el9pdGFhcTNOTmdhVmRXYmlIaVBVal9SVHV4V1JicXc2bm5RMEo4bXZ1WnVyazFNWkRXaTBVdC1ZSFNWTEFuNHNLbFBY0gFWQVVfeXFMTUk0UWNieGxXM1dlOXp1RGFNQnNmdldzUTFYWkdHRzRHcGpFcUNiUkZUSkpYNUQ1TnJzaVdYeFF2QnhISDRBVkRYMHhKMjZ4Y1pSeHVHNnc?oc=5"
+  },
+  {
+   "title": "沈伯洋稱索羅斯補助「一毛沒進口袋」 陳沂轟模糊焦點：大家好奇的是錢用在哪",
    "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTkI0U3FlVU8xYWFmWjkyMzV4cEc2SEVjWnlhQ2dCbGJHOWwzbk5LVzlndzNDdlFydTBVMFZvbHVyaElzVG4zQWxJejl1OTNnblJUWm03RHFXZ3N2RVQycjc4aVpzSi1GMWVrQUp6Z1BEaUZwaUt3REdQVlZmLUdMc1JTTXlnb0hmbjZZRGJQRWpMdWZlQ0dFZUpYR20zdHF6Nnp6VXVJenZmU0dXcnExMkFpR096Tkl3cTZBM1RMTlN0Sk9qaW11WmE3YVh0elBiV2ZqX1FMM21QZUpxQVZGVHM0UFVkbVZtQXhNUHBzNjNTanhvRHBIWFRfNG9qQXZtdUlhUEJXeklzYVRmLW52VGVJb0dmLUlBejQyeTZCY3NjTzFJaHBTdUJETzJIM1g2VzFmbVdueHo3Y1VaamlTaW9ud296TzRfMVB2dnltdFFxNG11NmkzUE5jdmxMNWtLNzFMRG50ZWRvckJQZ0JsVElzd0JqNXc5aHZucFM4bEdTU0RVS3c?oc=5"
-  },
-  {
-   "title": "蔣萬安收到《金剛經》超驚訝！柯文哲親筆卡片破解「洋流」",
-   "source": "ETtoday新聞雲",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OMmRsQW8teU45UjRrZ0tySXcwQnRIaVZfMkZkNE9GMnpPa3A1aTNVOG52UDBkUnZjTmZrazBrUkhBSXJQaWdmM3lJeUNsMlNVd29iRWZjNlMyZVUzbHfSAUtBVV95cUxNaDRZSE94eloyVmpSVjBZRHBaZlllSjh5dzZFWm05MUtIN2NDWDRoeG1yS19Bc21sZmlTVFdTb3RrdjdxMk01QVlOb0U?oc=5"
-  },
-  {
-   "title": "綠小雞挺鍾東錦嗆「夠力就開除我」 民進黨真的出手了",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNb3BHTTlFYjVDeWdBbml3aHZRNWFnYTlMSm4tNVpDM3plOFlpemw1MG9KN3UzNXVTM2FMZU9LejQ0Q0N1UUo5ZGlQSS00UU1JVVhBQ2hkQXhDejhHeVZuZm9oak9QVG1JcS1Ka0l3bkR0X0lEYnBCdElHUWpGc2FYVUlxbThxY1Vvenh6emtyckdLOHMyclR1SV9COE45MHRzY0tmZUNZb3NiR0dWZm0tTXNTS3A4R0lPNUs2VTA1d2N5RXV1dWJHSm1laGhJUzl6WEgyakpnOXA0cXA5eTNDQVZ6amhPUTlwbTY5eW9CYXFxWW1PQTNnV0dJQ0ZvUmxIMHJoNF9RWm1QdkVORjFNYnJPZnhiWUVLN2wxdkZId3dGRWFjb1hraWk0UFp4VHQ1R1paSnNKbTNEUXVyZEpfYVBBVS1ZazU0T0tpSXl2bmlVY1g3VlVQX0lxUDdaQQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQdUtROFhlaV9VRktFMkhraXBJTWl6aVdfY1JhcVRqcU5QNTNVQ05zY0w5Y29HUjlyY1AzVW42UzNjM3BuQkR2QWVFLU0xRG5DbjhTNHJ2NkowOTg1UGVEUXhzSFlKcUxvZ29vSUxBci1LX3NBemt1QTBmVFdfei1FVTI4b1hxU01DQzNVVTNxRnZLQ2J0NDhmZlpYVjI2a3BXb0U1RUNLUnBBYXRCMko0Zk1Kd19jSENvRThYTFpHU1UwcnlrZzc3SF9hVUhwWFFuc0RheUZiYkMyUWJsLUdpU0xjNHd0WTdHYWlwRnktUk1sNGowRmpEZWZmTWl6b2ZBX1JDNTMxR2x6WkZqM3FsTE5iTk9samVMam1DaDlxbld5NEJKUzFzYllNRmpPOXRBWDNOODdPdEJxNV9lelBqVXNDb3ZEY3p5WFJvR0ZTbWJNODB5Uk1ndV9sMER1NHVuNVlQdUxNX1NkaUZJdTN1NWp5TDVkVVZ6T3JQZGp3cjE3bzB6bldNMjFSSFZYeS1TQXZOZE03N2UwOUpvOFRqeTh1TmRxMHZ2MjFlNGF4OGRoOXNrbFkzSVFnX3ZESmNBTmVrZjNqZVlHNDg?oc=5"
   }
  ],
  "errors": [],
- "date": "2026-11-24",
- "updated": "12:57"
+ "date": "2026-11-25",
+ "updated": "11:30"
 }
